@@ -11,8 +11,6 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
-        with:
-         PAT_TOKEN : ${{ secrets.PAT_TOKEN }}  # ✅ use the PAT here
 
       - name: Set up git
         run: |
@@ -22,7 +20,7 @@ jobs:
       - name: Update news files
         run: |
           echo "Updating news..."
-          # Replace with your script, e.g., python update_news.py
+          # e.g., python update_news.py
 
       - name: Commit changes
         run: |
@@ -30,5 +28,7 @@ jobs:
           git commit -m "Auto-update news" || echo "No changes to commit"
 
       - name: Push changes
+        env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
-          git push origin main
+          git push https://$PAT_TOKEN@github.com/kcnikhil09-hash/googlenews.git HEAD:main
