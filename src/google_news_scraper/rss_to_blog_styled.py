@@ -1,6 +1,9 @@
 import feedparser
 import json
 from datetime import datetime
+import os
+
+os.makedirs("public", exist_ok=True)
 
 # ==========================
 # CONFIG
@@ -165,4 +168,5 @@ if __name__ == "__main__":
         f.write(html_content)
 
     print(f"[+] Multi-category blog generated successfully: {OUTPUT_HTML}")
+
 
