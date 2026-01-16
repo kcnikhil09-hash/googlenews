@@ -12,7 +12,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
         with:
-          persist-credentials: false  # important for using a custom token
+          persist-credentials: false
           fetch-depth: 0
 
       - name: Set up git
@@ -25,7 +25,7 @@ jobs:
           echo "Updating news..."
           # e.g., python update_news.py
 
-       - name: Commit changes
+      - name: Commit changes
         run: |
           git add .
           git commit -m "Auto-update news" || echo "No changes to commit"
