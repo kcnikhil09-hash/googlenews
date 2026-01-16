@@ -23,7 +23,7 @@ jobs:
 
       - name: Run news scraper
         run: |
-          python src/googlenewsscraper/rss_to_blog_styled.py
+          python src/google_news_scraper/rss_to_blog_styled.py
 
       - name: Commit changes
         run: |
