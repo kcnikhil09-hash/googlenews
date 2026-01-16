@@ -29,9 +29,11 @@ jobs:
         run: |
           git add .
           git commit -m "Auto-update news" || echo "No changes to commit"
-
-      - name: Push changes
-        env:
-          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
-        run: |
-          git push https://$PAT_TOKEN@github.com/kcnikhil09-hash/googlenews.git HEAD:main
+- name: Push changes
+  env:
+    PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+  run: |
+    # Set remote with username and token
+    git remote set-url origin https://kcnikhil09-hash:${PAT_TOKEN}@github.com/kcnikhil09-hash/googlenews.git
+    # Push the changes
+    git push origin HEAD:main
