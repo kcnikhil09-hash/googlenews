@@ -34,12 +34,13 @@ jobs:
           python src/google_news_scraper/rss_to_blog_styled.py
 
       # 5️⃣ Commit and push changes
-      - name: Commit and push updates
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # automatically provided
-        run: |
-          git config --global user.name "news-bot"
-          git config --global user.email "bot@users.noreply.github.com"
-          git add public/index.html public/articles.json
-          git diff-index --quiet HEAD || git commit -m "Auto-update news"
-          git push
+      - - name: Push changes
+  run: |
+    git config --global user.name "news-bot"
+    git config --global user.email "news-bot@example.com"
+    git add .
+    git commit -m "Auto-update news"
+    git push
+  env:
+    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
