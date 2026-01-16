@@ -32,4 +32,4 @@ jobs:
         env:
           PAT_TOKEN: ${{ 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}}  # Use your secret here
         run: |
-          git push https://$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@github.com/kcnikhil09-hash/googlenews.git HEAD:main
+          git push https://$PAT_TOKEN@github.com/kcnikhil09-hash/googlenews.git HEAD:main
