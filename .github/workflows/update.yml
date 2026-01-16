@@ -11,6 +11,9 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          persist-credentials: false  # IMPORTANT
+          fetch-depth: 0              # fetch full history if needed
 
       - name: Set up git
         run: |
