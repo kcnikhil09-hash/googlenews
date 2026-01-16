@@ -20,10 +20,16 @@ jobs:
       - name: Install dependencies
         run: |
           pip install feedparser
+          
+- name: Verify generated files
+  run: |
+    ls -R public
 
-      - name: Run news scraper
-        run: |
-          python src/google_news_scraper/rss_to_blog_styled.py
+
+ - name: Run news scraper
+  run: |
+    python src/google_news_scraper/rss_to_blog_styled.py
+
 
       - name: Commit changes
         run: |
