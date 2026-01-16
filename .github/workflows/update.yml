@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PAT_TOKEN }}  # ✅ use the PAT here
 
       - name: Set up git
         run: |
@@ -28,7 +30,5 @@ jobs:
           git commit -m "Auto-update news" || echo "No changes to commit"
 
       - name: Push changes
-        env:
-          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}  # ✅ safe reference to secret
         run: |
-          git push https://$PAT_TOKEN@github.com/kcnikhil09-hash/googlenews.git HEAD:main
+          git push origin main
