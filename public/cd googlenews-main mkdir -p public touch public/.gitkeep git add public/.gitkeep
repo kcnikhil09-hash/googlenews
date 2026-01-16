@@ -1,0 +1,6 @@
+cd googlenews-main
+mkdir -p public
+touch public/.gitkeep
+git add public/.gitkeep
+git commit -m "Keep public directory"
+git push
