@@ -2,8 +2,8 @@ name: Auto-update news
 
 on:
   schedule:
-    - cron: '0 * * * *'  # runs every hour
-  workflow_dispatch:
+    - cron: '0 * * * *'
+  workflow_dispatch: {}
 
 jobs:
   update-news:
