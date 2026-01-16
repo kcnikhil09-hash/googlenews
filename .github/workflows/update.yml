@@ -25,14 +25,12 @@ jobs:
           echo "Updating news..."
           # e.g., python update_news.py
 
-      - name: Commit changes
+       - name: Commit changes
         run: |
           git add .
           git commit -m "Auto-update news" || echo "No changes to commit"
-- name: Push changes
-  run: |
-    git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/kcnikhil09-hash/googlenews.git
-    git push origin HEAD:main
 
-          git remote set-url origin https://kcnikhil09-hash:${PAT_TOKEN}@github.com/kcnikhil09-hash/googlenews.git
+      - name: Push changes
+        run: |
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/kcnikhil09-hash/googlenews.git
           git push origin HEAD:main
