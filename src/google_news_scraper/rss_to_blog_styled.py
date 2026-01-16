@@ -13,9 +13,9 @@ RSS_FEEDS = {
     "NationalDevelopment": "https://news.google.com/rss/search?q=national+development&hl=en-US&gl=US&ceid=US:en",
     "Education": "https://news.google.com/rss/search?q=education&hl=en-US&gl=US&ceid=US:en"
 }
+OUTPUT_HTML = "public/index.html"   # rename blog_content.html → index.html
+OUTPUT_JSON = "public/articles.json"
 
-OUTPUT_JSON = "articles.json"
-OUTPUT_HTML = "blog_content.html"
 
 MAX_ARTICLES = 100
 
@@ -165,3 +165,4 @@ if __name__ == "__main__":
         f.write(html_content)
 
     print(f"[+] Multi-category blog generated successfully: {OUTPUT_HTML}")
+
