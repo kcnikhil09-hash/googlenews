@@ -1,46 +1,35 @@
-name: Update News Blog
+name: Auto-update news
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # every 6 hours
+    - cron: '0 * * * *' # runs every hour
   workflow_dispatch:
 
 jobs:
-  build:
+  update-news:
     runs-on: ubuntu-latest
-
     steps:
-      # 1️⃣ Checkout repository
       - name: Checkout repo
-        uses: actions/checkout@v4
-        with:
-          persist-credentials: true
+        uses: actions/checkout@v3
 
-      # 2️⃣ Set up Python
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      # 3️⃣ Install dependencies
-      - name: Install dependencies
+      - name: Set up git
         run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          git config --global user.name "news-bot"
+          git config --global user.email "news-bot@example.com"
 
-      # 4️⃣ Run the scraper
-      - name: Run scraper
+      - name: Update news files
         run: |
-          python src/google_news_scraper/rss_to_blog_styled.py
+          # your script to update news
+          echo "Updating news..."
+          # e.g., python update_news.py
 
-      # 5️⃣ Commit and push changes
-      - - name: Push changes
-  run: |
-    git config --global user.name "news-bot"
-    git config --global user.email "news-bot@example.com"
-    git add .
-    git commit -m "Auto-update news"
-    git push
-  env:
-    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit changes
+        run: |
+          git add .
+          git commit -m "Auto-update news" || echo "No changes to commit"
 
+      - name: Push changes
+        env:
+          PAT_TOKEN: ${{ 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}}  # Use your secret here
+        run: |
+          git push https://$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@github.com/kcnikhil09-hash/googlenews.git HEAD:main
