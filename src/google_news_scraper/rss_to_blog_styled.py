@@ -131,7 +131,7 @@ section h2 { border-left: 5px solid #2563eb; padding-left: 10px; color: #111827;
 <header>
   <h1>📰 Daily News Hub</h1>
 
-  <div style="text-align:center;margin-top:15px;">
+  <div style="text-align:left;margin-top:15px;">
     <a href="https://uploady.io/free66712.html" target="_blank">
       <img src="https://uploady.io/images/banners/aff468.gif" alt="Uploady">
     </a>
@@ -190,6 +190,7 @@ if __name__ == "__main__":
         f.write(html_content)
 
     print(f"[+] Multi-category blog generated successfully: {OUTPUT_HTML}")
+
 
 
 
