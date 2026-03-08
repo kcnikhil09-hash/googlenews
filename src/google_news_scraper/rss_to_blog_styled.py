@@ -178,7 +178,7 @@ window.open("https://onsetcab.com/q9rauxu9sq?key=d7a979a39aad46c85b2068c98c480f2
 alt="Adsterra Banner">
 </a>
 </div>
-     data-ad-format="autorelaxed"></ins>
+  
 <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
 
@@ -217,6 +217,7 @@ if __name__ == "__main__":
         f.write(html_content)
 
     print(f"[+] Multi-category blog generated successfully: {OUTPUT_HTML}")
+
 
 
 
