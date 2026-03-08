@@ -182,7 +182,23 @@ alt="Adsterra Banner">
 </div>
 </div>
 
+<div class="ad-banner">
+<a href="https://onsetcab.com/q9rauxu9sq?key=d7a979a39aad46c85b2068c98c480f2c" 
+target="_blank" rel="nofollow">
+<button style="padding:12px 20px;background:#2563eb;color:white;border:none;border-radius:6px;">
+🔥 Trending Offer
+</button>
+</a>
+</div>
 
+<div class="ad-banner">
+<a href="https://onsetcab.com/q9rauxu9sq?key=d7a979a39aad46c85b2068c98c480f2c" 
+target="_blank" rel="nofollow">
+<button style="padding:12px 20px;background:#2563eb;color:white;border:none;border-radius:6px;">
+🔥 Trending Offer
+</button>
+</a>
+</div>
 
 </body>
 </html>
@@ -201,6 +217,7 @@ if __name__ == "__main__":
         f.write(html_content)
 
     print(f"[+] Multi-category blog generated successfully: {OUTPUT_HTML}")
+
 
 
 
