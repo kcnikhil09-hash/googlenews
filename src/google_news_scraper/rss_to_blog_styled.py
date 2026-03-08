@@ -107,10 +107,11 @@ BASE_HTML = """<!DOCTYPE html>
 <meta charset="UTF-8">
 <title>Daily News Hub</title>
 <style>
-body { font-family: Arial, sans-serif; background: #f4f6f8; margin:0; padding:0; }
+body { font-family: Arial, sans-serif; background: #f4f6f8; margin:auto; padding:0; }
 header { background: #0f172a; color: white; padding: 20px; }
 header h1 { margin:0; }
-nav { margin-top: 10px; }
+nav { margin-top: 10px;margin-bottom:25px; }
+nav {margin-bottom:25px; }
 nav a { color: #e5e7eb; margin-right: 15px; text-decoration: none; font-weight: bold; }
 nav a:hover { text-decoration: underline; }
 .container { padding: 25px; }
@@ -216,5 +217,6 @@ if __name__ == "__main__":
         f.write(html_content)
 
     print(f"[+] Multi-category blog generated successfully: {OUTPUT_HTML}")
+
 
 
