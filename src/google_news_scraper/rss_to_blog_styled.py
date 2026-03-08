@@ -82,13 +82,14 @@ def generate_html(categorized_articles):
             if (i + 1) % 5 == 0:
                 sections.append("""
                 <div class="ad-banner">
-                    <ins class="adsbygoogle"
-                         style="display:block"
-                         data-ad-client="ca-pub-5052053419736063"
-                         data-ad-slot="YYYYYY"
-                         data-ad-format="auto"></ins>
-                    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-                </div>
+    <ins class="adsbygoogle"
+         style="display:block; text-align:center;"
+         data-ad-client="ca-pub-5052053419736063"
+         data-ad-slot="1550154618"
+         data-ad-format="fluid"
+         data-ad-layout="in-article"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </div>
                 """)
 
         sections.append("</section>")
@@ -102,6 +103,8 @@ def generate_html(categorized_articles):
 BASE_HTML = """<!DOCTYPE html>
 <html lang="en">
 <head>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5052053419736063"
+     crossorigin="anonymous"></script>
 <meta charset="UTF-8">
 <title>Daily News Hub</title>
 <style>
@@ -128,11 +131,12 @@ section h2 { border-left: 5px solid #2563eb; padding-left: 10px; color: #111827;
 <header>
   <h1>📰 Daily News Hub</h1>
 
-  <div style="text-align:center; margin-top:15px;">
+  <div style="text-align:center;margin-top:15px;">
     <a href="https://uploady.io/free66712.html" target="_blank">
       <img src="https://uploady.io/images/banners/aff468.gif" alt="Uploady">
     </a>
   </div>
+
   <nav>
     <a href="#cybersecurity">Cybersecurity</a>
     <a href="#sports">Sports</a>
@@ -140,18 +144,22 @@ section h2 { border-left: 5px solid #2563eb; padding-left: 10px; color: #111827;
     <a href="#nationaldevelopment">National Development</a>
     <a href="#education">Education</a>
   </nav>
-  
-<div class="ad-banner">
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-client="ca-pub-5052053419736063"
-     data-ad-slot="1550154618"
-     data-ad-format="fluid"
-     data-ad-layout="in-article"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
+
+  <!-- Top Ad -->
+  <div class="ad-banner">
+    <ins class="adsbygoogle"
+         style="display:block; text-align:center;"
+         data-ad-client="ca-pub-5052053419736063"
+         data-ad-slot="1550154618"
+         data-ad-format="fluid"
+         data-ad-layout="in-article"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </div>
+
+</header>
+
+<div class="container">
+{{CONTENT}}
 
 <div class="ad-banner">
 <ins class="adsbygoogle"
@@ -159,34 +167,11 @@ section h2 { border-left: 5px solid #2563eb; padding-left: 10px; color: #111827;
      data-ad-client="ca-pub-5052053419736063"
      data-ad-slot="1055292602"
      data-ad-format="autorelaxed"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
 </div>
 
-<div class="ad-banner">
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-gw-1+2a-9x+5c"
-     data-ad-client="ca-pub-5052053419736063"
-     data-ad-slot="8331147391"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
-  
-  <script type="text/javascript">
-window.location.href = "https://onsetcab.com/q9rauxu9sq?key=d7a979a39aad46c85b2068c98c480f2c";
-</script>
-</header>
 
-<div class="container">
-{{CONTENT}}
-</div>
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5052053419736063"
-     crossorigin="anonymous"></script>
 
 </body>
 </html>
@@ -205,6 +190,7 @@ if __name__ == "__main__":
         f.write(html_content)
 
     print(f"[+] Multi-category blog generated successfully: {OUTPUT_HTML}")
+
 
 
 
