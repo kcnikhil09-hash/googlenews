@@ -136,7 +136,12 @@ section h2 { border-left: 5px solid #2563eb; padding-left: 10px; color: #111827;
       <img src="https://uploady.io/images/banners/aff468.gif" alt="Uploady">
     </a>
   </div>
-
+<div style="text-align:left;margin-top:15px;" class="ad-banner">
+<a href="https://beta.publishers.adsterra.com/referral/PUCCiyi7aj" rel="nofollow" target="_blank">
+<img src="https://landings-cdn.adsterratech.com/referralBanners/png/728%20x%2090%20px.png"
+alt="Adsterra Banner" style="max-width:100%;">
+</a>
+</div>
   <nav>
     <a href="#cybersecurity">Cybersecurity</a>
     <a href="#sports">Sports</a>
@@ -166,6 +171,12 @@ section h2 { border-left: 5px solid #2563eb; padding-left: 10px; color: #111827;
      style="display:block"
      data-ad-client="ca-pub-5052053419736063"
      data-ad-slot="1055292602"
+     <div class="ad-banner">
+<a href="https://beta.publishers.adsterra.com/referral/PUCCiyi7aj" rel="nofollow" target="_blank">
+<img src="https://landings-cdn.adsterratech.com/referralBanners/png/468%20x%2060%20px.png"
+alt="Adsterra Banner">
+</a>
+</div>
      data-ad-format="autorelaxed"></ins>
 <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
@@ -190,6 +201,7 @@ if __name__ == "__main__":
         f.write(html_content)
 
     print(f"[+] Multi-category blog generated successfully: {OUTPUT_HTML}")
+
 
 
 
