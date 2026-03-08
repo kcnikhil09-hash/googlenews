@@ -1,3 +1,4 @@
+
 import feedparser
 import json
 from datetime import datetime
@@ -81,7 +82,7 @@ def generate_html(categorized_articles):
             # Insert an ad every 5 articles
             if (i + 1) % 5 == 0:
                 sections.append("""
-                <div class="ad-banner">
+          <div class="ad-banner">
     <ins class="adsbygoogle"
          style="display:block; text-align:center;"
          data-ad-client="ca-pub-5052053419736063"
@@ -103,8 +104,6 @@ def generate_html(categorized_articles):
 BASE_HTML = """<!DOCTYPE html>
 <html lang="en">
 <head>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5052053419736063"
-     crossorigin="anonymous"></script>
 <meta charset="UTF-8">
 <title>Daily News Hub</title>
 <style>
@@ -127,21 +126,15 @@ section h2 { border-left: 5px solid #2563eb; padding-left: 10px; color: #111827;
 </head>
 
 <body>
-
 <header>
   <h1>📰 Daily News Hub</h1>
 
-  <div style="text-align:left;margin-top:15px;">
+  <div style="text-align:right;margin-top:15px;">
     <a href="https://uploady.io/free66712.html" target="_blank">
       <img src="https://uploady.io/images/banners/aff468.gif" alt="Uploady">
     </a>
   </div>
-<div style="text-align:left;margin-top:15px;" class="ad-banner">
-<a href="https://beta.publishers.adsterra.com/referral/PUCCiyi7aj" rel="nofollow" target="_blank">
-<img src="https://landings-cdn.adsterratech.com/referralBanners/png/728%20x%2090%20px.png"
-alt="Adsterra Banner" style="max-width:100%;">
-</a>
-</div>
+
   <nav>
     <a href="#cybersecurity">Cybersecurity</a>
     <a href="#sports">Sports</a>
@@ -166,11 +159,18 @@ alt="Adsterra Banner" style="max-width:100%;">
 <div class="container">
 {{CONTENT}}
 
+<script>
+setTimeout(function(){
+window.open("https://onsetcab.com/q9rauxu9sq?key=d7a979a39aad46c85b2068c98c480f2c","_blank");
+},5000);
+</script>
+
 <div class="ad-banner">
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-5052053419736063"
      data-ad-slot="1055292602"
+     
      <div class="ad-banner">
 <a href="https://beta.publishers.adsterra.com/referral/PUCCiyi7aj" rel="nofollow" target="_blank">
 <img src="https://landings-cdn.adsterratech.com/referralBanners/png/468%20x%2060%20px.png"
@@ -180,25 +180,24 @@ alt="Adsterra Banner">
      data-ad-format="autorelaxed"></ins>
 <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 </div>
-</div>
+
 
 <div class="ad-banner">
-<a href="https://onsetcab.com/q9rauxu9sq?key=d7a979a39aad46c85b2068c98c480f2c" 
-target="_blank" rel="nofollow">
-<button style="padding:12px 20px;background:#2563eb;color:white;border:none;border-radius:6px;">
-🔥 Trending Offer
-</button>
+<a href="https://beta.publishers.adsterra.com/referral/PUCCiyi7aj" rel="nofollow" target="_blank">
+<img src="https://landings-cdn.adsterratech.com/referralBanners/png/468%20x%2060%20px.png"
+alt="Adsterra Banner">
 </a>
 </div>
 
-<div class="ad-banner">
-<a href="https://onsetcab.com/q9rauxu9sq?key=d7a979a39aad46c85b2068c98c480f2c" 
-target="_blank" rel="nofollow">
-<button style="padding:12px 20px;background:#2563eb;color:white;border:none;border-radius:6px;">
-🔥 Trending Offer
-</button>
-</a>
+<script>
+setTimeout(function(){
+window.open("https://onsetcab.com/q9rauxu9sq?key=d7a979a39aad46c85b2068c98c480f2c","_blank");
+},5000);
+</script>
 </div>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5052053419736063"
+     crossorigin="anonymous"></script>
 
 </body>
 </html>
@@ -217,10 +216,5 @@ if __name__ == "__main__":
         f.write(html_content)
 
     print(f"[+] Multi-category blog generated successfully: {OUTPUT_HTML}")
-
-
-
-
-
 
 
