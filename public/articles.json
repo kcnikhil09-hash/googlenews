@@ -1,25 +1,11 @@
 {
   "Cybersecurity": [
     {
-      "title": "Microsoft’s multi-agent AI system tops Anthropic’s Mythos on cybersecurity benchmark - GeekWire",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOF9yYlp2ZnBkeXRMREFXeE5GSmpIdEhLMFNtMFVUNTBVSWgtTUtKaXhMOHZWVzRmdFVuemltb29qZ0J0dmdWTUxhMy15NTNPQ01GR19PODY4LTRjWGxlWEdxblVQQXRIaXZ5TDJEQ0ltUFB0UVlSSHU1N2FyN2R5RW12R2F6cnpQbmtuaGl3NXlSbFVWRkNiV09wbFdWeVJDS2NsNmZGX2FLT0VUanNXcWpiYw?oc=5",
-      "source": "GeekWire",
-      "published": "Thu, 14 May 2026 00:18:44 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNOF9yYlp2ZnBkeXRMREFXeE5GSmpIdEhLMFNtMFVUNTBVSWgtTUtKaXhMOHZWVzRmdFVuemltb29qZ0J0dmdWTUxhMy15NTNPQ01GR19PODY4LTRjWGxlWEdxblVQQXRIaXZ5TDJEQ0ltUFB0UVlSSHU1N2FyN2R5RW12R2F6cnpQbmtuaGl3NXlSbFVWRkNiV09wbFdWeVJDS2NsNmZGX2FLT0VUanNXcWpiYw?oc=5\" target=\"_blank\">Microsoft’s multi-agent AI system tops Anthropic’s Mythos on cybersecurity benchmark</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GeekWire</font>"
-    },
-    {
-      "title": "Cybersecurity Giant Unlocks New Buy Zone While Flashing These Telltale Clues - Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVHNwT3pSeE9XYnpVTUt6aXFSdHgyRnlJMkF0a1h3NHhoU0xxbFhtOGxfTFpXX1VTS293UW9IZ3p0NlU3TDhKRjFnOVBINWVkUmFfZnRrcUZ1TjBOckY2ZlpMZ1Ixc243TGRUWHZYSVo1aTJERGRUT25DYWVtWHMtMlBlcF9BbllRR1htNE80Z0JUUUFpaEtXcV9VNkdyU0g3dXJiZ1ZFZzQ?oc=5",
-      "source": "Investor's Business Daily",
-      "published": "Thu, 14 May 2026 20:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVHNwT3pSeE9XYnpVTUt6aXFSdHgyRnlJMkF0a1h3NHhoU0xxbFhtOGxfTFpXX1VTS293UW9IZ3p0NlU3TDhKRjFnOVBINWVkUmFfZnRrcUZ1TjBOckY2ZlpMZ1Ixc243TGRUWHZYSVo1aTJERGRUT25DYWVtWHMtMlBlcF9BbllRR1htNE80Z0JUUUFpaEtXcV9VNkdyU0g3dXJiZ1ZFZzQ?oc=5\" target=\"_blank\">Cybersecurity Giant Unlocks New Buy Zone While Flashing These Telltale Clues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>"
-    },
-    {
-      "title": "Cyber Pioneers Ponder Past as Prologue - Dark Reading",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaFBoOEFSYXhVTno2cEU5cnJWdW1HRFlWbnlFUHZ1aFY0YVpjSl95MGZVNXAtRzZncUVGa0JvdTd4SzVqNENjVnBtdnFkSnVXT1prdWtiY0xJVVdxdWFJUEJNa3VMUWJpUDlmV1E3d3pPel9ONm92YjRnRDRPZ1BTNXZVbzNlbTNPSTNCSWZ2RHJfT0g3OUFXSzRhNUZ6a1U?oc=5",
-      "source": "Dark Reading",
-      "published": "Fri, 15 May 2026 12:00:21 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNaFBoOEFSYXhVTno2cEU5cnJWdW1HRFlWbnlFUHZ1aFY0YVpjSl95MGZVNXAtRzZncUVGa0JvdTd4SzVqNENjVnBtdnFkSnVXT1prdWtiY0xJVVdxdWFJUEJNa3VMUWJpUDlmV1E3d3pPel9ONm92YjRnRDRPZ1BTNXZVbzNlbTNPSTNCSWZ2RHJfT0g3OUFXSzRhNUZ6a1U?oc=5\" target=\"_blank\">Cyber Pioneers Ponder Past as Prologue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dark Reading</font>"
+      "title": "Defender's Guide to the Frontier AI Impact on Cybersecurity: May 2026 Update - Palo Alto Networks",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUGhHSl9uTmRSQWoxQkZOSVlUY2p2SlUxOVVmTGE5cVI2Mm45ZzRWYmhpNFd6VnJJRGIyQ3EwRjhwdXlSbmpRbHVuMUNyU1AyVnhndlRxTExBdUItOGJyYjEwZmJXaGJwSFlWUnR1Vk5MWFpMblNkSXdWNWdGWnRKeVh0NWtFVGtmMjZnSHFtbDhDOU84elFudDRuNC1KcXFESjFybXRKSUpBejk0VWNaRw?oc=5",
+      "source": "Palo Alto Networks",
+      "published": "Wed, 13 May 2026 16:34:38 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQUGhHSl9uTmRSQWoxQkZOSVlUY2p2SlUxOVVmTGE5cVI2Mm45ZzRWYmhpNFd6VnJJRGIyQ3EwRjhwdXlSbmpRbHVuMUNyU1AyVnhndlRxTExBdUItOGJyYjEwZmJXaGJwSFlWUnR1Vk5MWFpMblNkSXdWNWdGWnRKeVh0NWtFVGtmMjZnSHFtbDhDOU84elFudDRuNC1KcXFESjFybXRKSUpBejk0VWNaRw?oc=5\" target=\"_blank\">Defender's Guide to the Frontier AI Impact on Cybersecurity: May 2026 Update</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Palo Alto Networks</font>"
     },
     {
       "title": "US fears cyber security breach in China - CNN",
@@ -32,15 +18,15 @@
       "title": "Spies, Sanctions, Cyberattacks: China and the U.S. Clash Behind the Scenes - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdHB3YU1ZM0pxbTBzYU5KM2VvTnJYcThXUVFnNXdCYjBOWUtlNFhPUjYxQVUweFp3SVlyRGNNMW9vUTlsR3BtLVk1TXhNNnRsZnhCYXZnNWhTQXJkZHRIZnJscHlpdG11UnFyblFlNWtSVzZlbmg3Nk9peWx0WmpKT0c4aEpUUjM0WlpmbEZ2TUg?oc=5",
       "source": "The New York Times",
-      "published": "Thu, 14 May 2026 17:43:45 GMT",
+      "published": "Thu, 14 May 2026 17:27:55 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNdHB3YU1ZM0pxbTBzYU5KM2VvTnJYcThXUVFnNXdCYjBOWUtlNFhPUjYxQVUweFp3SVlyRGNNMW9vUTlsR3BtLVk1TXhNNnRsZnhCYXZnNWhTQXJkZHRIZnJscHlpdG11UnFyblFlNWtSVzZlbmg3Nk9peWx0WmpKT0c4aEpUUjM0WlpmbEZ2TUg?oc=5\" target=\"_blank\">Spies, Sanctions, Cyberattacks: China and the U.S. Clash Behind the Scenes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
     },
     {
-      "title": "CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits - The Hacker News",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWXpfRE9iSmpuYllDS3NtdVdhakRLMldzUHZ6ZlFYbG94M0R0WkFmWFFVdllmWmFTTDU4RkpkTDBQejBQR1NTemdDX0NVS1VqWkNwYWRGcWEyajdyb0U3c1ZRZld5Yzd4YmtMdUlmakphVXU0RGVja01tUmxZeHNlbXp3?oc=5",
-      "source": "The Hacker News",
-      "published": "Fri, 15 May 2026 05:28:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQWXpfRE9iSmpuYllDS3NtdVdhakRLMldzUHZ6ZlFYbG94M0R0WkFmWFFVdllmWmFTTDU4RkpkTDBQejBQR1NTemdDX0NVS1VqWkNwYWRGcWEyajdyb0U3c1ZRZld5Yzd4YmtMdUlmakphVXU0RGVja01tUmxZeHNlbXp3?oc=5\" target=\"_blank\">CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hacker News</font>"
+      "title": "AI drives new debate around CISA software patching deadlines - Federal News Network",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ3o1eE9WT0VuZ1VUa1BiajhkVUV6UkJJUUJIMHQ2RDBsLUJvMWR1RWpJdjhkRm43Y1FHMEYzVHNVS28zbzc1TUNTaXg2S1MzeEhhOG9lS3kya3VURVdvMXFaQV9KRExWZ1NweHl4eW1aaUJUV1p4VnV0VzlhTXRlTDM2c3FDZEwtaEt1S2F0SjdSMjJXdi1wM0ZBN1dZa0N1SDJBdHdvb1lDYXNfdVlzTGt1MEg?oc=5",
+      "source": "Federal News Network",
+      "published": "Thu, 14 May 2026 22:38:02 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ3o1eE9WT0VuZ1VUa1BiajhkVUV6UkJJUUJIMHQ2RDBsLUJvMWR1RWpJdjhkRm43Y1FHMEYzVHNVS28zbzc1TUNTaXg2S1MzeEhhOG9lS3kya3VURVdvMXFaQV9KRExWZ1NweHl4eW1aaUJUV1p4VnV0VzlhTXRlTDM2c3FDZEwtaEt1S2F0SjdSMjJXdi1wM0ZBN1dZa0N1SDJBdHdvb1lDYXNfdVlzTGt1MEg?oc=5\" target=\"_blank\">AI drives new debate around CISA software patching deadlines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Federal News Network</font>"
     },
     {
       "title": "The next phase of AI cybersecurity still needs humans - Axios",
@@ -50,25 +36,53 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1TWHlLWTlNZkQ5WXM2MUd5bGdGcnJ1ZXBxODZQejVxb3pFdGRnaG1ILWFjM01PV2NEMkpxQm1CNVRLQlgtX2kzS3hXV3Fiaml4elNvNDZqSm9naG5Ib2pQZzFVUXptdkxURzJlUUdCRlJjTFhxT0ZN?oc=5\" target=\"_blank\">The next phase of AI cybersecurity still needs humans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>"
     },
     {
-      "title": "Cybersecurity Stocks Are Heating Up After Fortinet’s Blowout Quarter - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV3ppSzZNY29ZQmt3TGhqVkV3MGFtbDVhaGo2ckxHNkN1eVNKejg4MDhaSXp3MkptWFhxSWxZOWo4UWNoR0U1eUVGU1VTbVVDa0lPck5DR0IzRzV2NDcxTFNlTHRtZTZsTWtxX0xweWRUMzN2VlpVcEZtc2ZBTFZqbnNTLS1QVlR1LTRwTGs1eVZNUWxVWWl6bUI0WEF6SjR3Q1FQbw?oc=5",
-      "source": "Morningstar",
-      "published": "Mon, 11 May 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNV3ppSzZNY29ZQmt3TGhqVkV3MGFtbDVhaGo2ckxHNkN1eVNKejg4MDhaSXp3MkptWFhxSWxZOWo4UWNoR0U1eUVGU1VTbVVDa0lPck5DR0IzRzV2NDcxTFNlTHRtZTZsTWtxX0xweWRUMzN2VlpVcEZtc2ZBTFZqbnNTLS1QVlR1LTRwTGs1eVZNUWxVWWl6bUI0WEF6SjR3Q1FQbw?oc=5\" target=\"_blank\">Cybersecurity Stocks Are Heating Up After Fortinet’s Blowout Quarter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>"
+      "title": "CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits - The Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWXpfRE9iSmpuYllDS3NtdVdhakRLMldzUHZ6ZlFYbG94M0R0WkFmWFFVdllmWmFTTDU4RkpkTDBQejBQR1NTemdDX0NVS1VqWkNwYWRGcWEyajdyb0U3c1ZRZld5Yzd4YmtMdUlmakphVXU0RGVja01tUmxZeHNlbXp3?oc=5",
+      "source": "The Hacker News",
+      "published": "Fri, 15 May 2026 05:28:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQWXpfRE9iSmpuYllDS3NtdVdhakRLMldzUHZ6ZlFYbG94M0R0WkFmWFFVdllmWmFTTDU4RkpkTDBQejBQR1NTemdDX0NVS1VqWkNwYWRGcWEyajdyb0U3c1ZRZld5Yzd4YmtMdUlmakphVXU0RGVja01tUmxZeHNlbXp3?oc=5\" target=\"_blank\">CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hacker News</font>"
     },
     {
-      "title": "Defender's Guide to the Frontier AI Impact on Cybersecurity: May 2026 Update - Palo Alto Networks",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUGhHSl9uTmRSQWoxQkZOSVlUY2p2SlUxOVVmTGE5cVI2Mm45ZzRWYmhpNFd6VnJJRGIyQ3EwRjhwdXlSbmpRbHVuMUNyU1AyVnhndlRxTExBdUItOGJyYjEwZmJXaGJwSFlWUnR1Vk5MWFpMblNkSXdWNWdGWnRKeVh0NWtFVGtmMjZnSHFtbDhDOU84elFudDRuNC1KcXFESjFybXRKSUpBejk0VWNaRw?oc=5",
-      "source": "Palo Alto Networks",
-      "published": "Wed, 13 May 2026 16:34:38 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQUGhHSl9uTmRSQWoxQkZOSVlUY2p2SlUxOVVmTGE5cVI2Mm45ZzRWYmhpNFd6VnJJRGIyQ3EwRjhwdXlSbmpRbHVuMUNyU1AyVnhndlRxTExBdUItOGJyYjEwZmJXaGJwSFlWUnR1Vk5MWFpMblNkSXdWNWdGWnRKeVh0NWtFVGtmMjZnSHFtbDhDOU84elFudDRuNC1KcXFESjFybXRKSUpBejk0VWNaRw?oc=5\" target=\"_blank\">Defender's Guide to the Frontier AI Impact on Cybersecurity: May 2026 Update</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Palo Alto Networks</font>"
+      "title": "Taiwan Incident Highlights Cybersecurity Gaps in Rail Systems - Dark Reading",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNklPZjN4Y1VzX1FqaU5VYzQ5aTVQUFdCMi0wSlJtMEFKeUtRNDF4dkplemdmSl8yaDF6ekRsMzJEVUpHalJ6aFlFZHJ6TUpSN2I0dG1hMEtIdjk5cWpVZlJaRjloVDNncFBQMk83OHhkQWh0OTE2Zmo1aWxPd1ZVTGE4eTR4MVltaHZuZzlLSlVhVDg?oc=5",
+      "source": "Dark Reading",
+      "published": "Fri, 15 May 2026 00:59:59 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNNklPZjN4Y1VzX1FqaU5VYzQ5aTVQUFdCMi0wSlJtMEFKeUtRNDF4dkplemdmSl8yaDF6ekRsMzJEVUpHalJ6aFlFZHJ6TUpSN2I0dG1hMEtIdjk5cWpVZlJaRjloVDNncFBQMk83OHhkQWh0OTE2Zmo1aWxPd1ZVTGE4eTR4MVltaHZuZzlLSlVhVDg?oc=5\" target=\"_blank\">Taiwan Incident Highlights Cybersecurity Gaps in Rail Systems</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dark Reading</font>"
     },
     {
-      "title": "AI drives new debate around CISA software patching deadlines - Federal News Network",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ3o1eE9WT0VuZ1VUa1BiajhkVUV6UkJJUUJIMHQ2RDBsLUJvMWR1RWpJdjhkRm43Y1FHMEYzVHNVS28zbzc1TUNTaXg2S1MzeEhhOG9lS3kya3VURVdvMXFaQV9KRExWZ1NweHl4eW1aaUJUV1p4VnV0VzlhTXRlTDM2c3FDZEwtaEt1S2F0SjdSMjJXdi1wM0ZBN1dZa0N1SDJBdHdvb1lDYXNfdVlzTGt1MEg?oc=5",
-      "source": "Federal News Network",
-      "published": "Thu, 14 May 2026 22:38:02 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ3o1eE9WT0VuZ1VUa1BiajhkVUV6UkJJUUJIMHQ2RDBsLUJvMWR1RWpJdjhkRm43Y1FHMEYzVHNVS28zbzc1TUNTaXg2S1MzeEhhOG9lS3kya3VURVdvMXFaQV9KRExWZ1NweHl4eW1aaUJUV1p4VnV0VzlhTXRlTDM2c3FDZEwtaEt1S2F0SjdSMjJXdi1wM0ZBN1dZa0N1SDJBdHdvb1lDYXNfdVlzTGt1MEg?oc=5\" target=\"_blank\">AI drives new debate around CISA software patching deadlines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Federal News Network</font>"
+      "title": "Another WNC school system reports impact by cybersecurity incident - WLOS",
+      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQMzNyNmNHbTdqc2tBU2RkaTBUZmtNcmVZblNFMHJzTTNrSXdLblZIQTlhSGU3RW51Q0pMQVpCYWZNS3NyOHNzTWVKN3ZoVHBhRU4tQWdweDFoVGZKOUVjblc2dW1hSE9WQXJXQmt1ZVVGLXU2VWhkZnJ1RmEtY3ZOaHVoMFhiQWZ3X3FsdmxteEFiRnVsMWNvblZvUTNrUFM4dk4zMmFDdjNFd09ZRS1fREdNel9UZklsZHVORHBjZ3h4VWJhWXRKdWdfeV9NR1MtOU9TUlJoTFFxZUE2MU5SMlNPX1VRQ1I2UTdsQk0waUFPUEx2cUtPOGlWQ2RsWGQzRlNvUXI2VDRVVHAwS1NCSlphcUtGNDlZYk14X1ZFcWVieEo0V0NabmZUTUdYMHg0c05GdnhZeXFTclh1Wk5Mb3Y4Zl8xVDM3V2ZCUFNKUnNha2s?oc=5",
+      "source": "WLOS",
+      "published": "Wed, 13 May 2026 22:45:03 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wJBVV95cUxQMzNyNmNHbTdqc2tBU2RkaTBUZmtNcmVZblNFMHJzTTNrSXdLblZIQTlhSGU3RW51Q0pMQVpCYWZNS3NyOHNzTWVKN3ZoVHBhRU4tQWdweDFoVGZKOUVjblc2dW1hSE9WQXJXQmt1ZVVGLXU2VWhkZnJ1RmEtY3ZOaHVoMFhiQWZ3X3FsdmxteEFiRnVsMWNvblZvUTNrUFM4dk4zMmFDdjNFd09ZRS1fREdNel9UZklsZHVORHBjZ3h4VWJhWXRKdWdfeV9NR1MtOU9TUlJoTFFxZUE2MU5SMlNPX1VRQ1I2UTdsQk0waUFPUEx2cUtPOGlWQ2RsWGQzRlNvUXI2VDRVVHAwS1NCSlphcUtGNDlZYk14X1ZFcWVieEo0V0NabmZUTUdYMHg0c05GdnhZeXFTclh1Wk5Mb3Y4Zl8xVDM3V2ZCUFNKUnNha2s?oc=5\" target=\"_blank\">Another WNC school system reports impact by cybersecurity incident</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WLOS</font>"
+    },
+    {
+      "title": "Foxconn confirms cyberattack affecting some North American facilities - Cybersecurity Dive",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUlZWeF9IU2haSDdabXI1RUxucjZiQnQtTGc4dFRUanRPUDgzOHAwZzR2eTNGV0xVNi1xaDFIdy1HM1JETXNpWFcwV1RFanpXOEZ5ODlOY3NoLTQ4b25KZ1RVZkZNbTlOS01PZE1jSnowRGxraEktWUtkT3c1VDNndi0xR0hLbUhrTVpCcTVZTGZRMlZaUENGV0JSVUUtaDJ0cE9QM3N5dEtISUhaZFdVM0FNRDlGTTQ?oc=5",
+      "source": "Cybersecurity Dive",
+      "published": "Wed, 13 May 2026 16:10:27 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPUlZWeF9IU2haSDdabXI1RUxucjZiQnQtTGc4dFRUanRPUDgzOHAwZzR2eTNGV0xVNi1xaDFIdy1HM1JETXNpWFcwV1RFanpXOEZ5ODlOY3NoLTQ4b25KZ1RVZkZNbTlOS01PZE1jSnowRGxraEktWUtkT3c1VDNndi0xR0hLbUhrTVpCcTVZTGZRMlZaUENGV0JSVUUtaDJ0cE9QM3N5dEtISUhaZFdVM0FNRDlGTTQ?oc=5\" target=\"_blank\">Foxconn confirms cyberattack affecting some North American facilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cybersecurity Dive</font>"
+    },
+    {
+      "title": "The case for owning cybersecurity stocks in the age of AI just got stronger - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT1RRRTM1Ny1OcFRnei05Q3R2bUtpYzhibEV5OUpDNXdCcmVMMjlqelNSMzJDNGhXMGNVeExpRzBuNUwwUkczM3ZIT2tnR01lcXRxeGp5RXp0dkdrek1hUnFkdXNEbktyVzAxUWRibVlmaWZ5bExoMkdaQkZaSl9qMktZV0hFdzVFRmM3QWRvcnprdmFjUWlmLU4tOGlJWGo5dnU3R29KampHTnh0OHItT2Jn?oc=5",
+      "source": "CNBC",
+      "published": "Tue, 12 May 2026 17:29:35 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQT1RRRTM1Ny1OcFRnei05Q3R2bUtpYzhibEV5OUpDNXdCcmVMMjlqelNSMzJDNGhXMGNVeExpRzBuNUwwUkczM3ZIT2tnR01lcXRxeGp5RXp0dkdrek1hUnFkdXNEbktyVzAxUWRibVlmaWZ5bExoMkdaQkZaSl9qMktZV0hFdzVFRmM3QWRvcnprdmFjUWlmLU4tOGlJWGo5dnU3R29KampHTnh0OHItT2Jn?oc=5\" target=\"_blank\">The case for owning cybersecurity stocks in the age of AI just got stronger</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>"
+    },
+    {
+      "title": "Five Critical Cybersecurity Resolutions - The CPA Journal",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVC1HVTBBSmgtV3VjeUM0R2hUTlgwMzRYQTZXbVBJU2Jvci0tVHBWaW4wcjlVbGUzTjJXNDNGSTRDeFBfRzZ6SEVfTUlNSHdRdmc3VGRLWHd5THo3WGZIbm5zSmY2THNabHN4SEVGcWhtd0xfakJULXhjMHdfS3Y2Zjh0ejk?oc=5",
+      "source": "The CPA Journal",
+      "published": "Fri, 15 May 2026 14:56:47 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOVC1HVTBBSmgtV3VjeUM0R2hUTlgwMzRYQTZXbVBJU2Jvci0tVHBWaW4wcjlVbGUzTjJXNDNGSTRDeFBfRzZ6SEVfTUlNSHdRdmc3VGRLWHd5THo3WGZIbm5zSmY2THNabHN4SEVGcWhtd0xfakJULXhjMHdfS3Y2Zjh0ejk?oc=5\" target=\"_blank\">Five Critical Cybersecurity Resolutions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The CPA Journal</font>"
+    },
+    {
+      "title": "How Canada is approaching the evolving cybersecurity landscape - IAPP",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVl9qSXZRUlJuOGpDbnpRMnJyMmJJSDJUbndBMWhPRUZCUUd2WWtackJZNVhPangwYVpYR1VsakpaM0FlNGNiTDhuRS1wTFNVdmhVQ2dWeU94N2FNNjZSU3BVMzlDV3c4UGJtZ3o5R1dmeWp0a0oxdkRyRmNaZGZMUEVBZGw0SnJfYVZqeHUyZw?oc=5",
+      "source": "IAPP",
+      "published": "Fri, 15 May 2026 14:15:42 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNVl9qSXZRUlJuOGpDbnpRMnJyMmJJSDJUbndBMWhPRUZCUUd2WWtackJZNVhPangwYVpYR1VsakpaM0FlNGNiTDhuRS1wTFNVdmhVQ2dWeU94N2FNNjZSU3BVMzlDV3c4UGJtZ3o5R1dmeWp0a0oxdkRyRmNaZGZMUEVBZGw0SnJfYVZqeHUyZw?oc=5\" target=\"_blank\">How Canada is approaching the evolving cybersecurity landscape</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IAPP</font>"
     },
     {
       "title": "The rise of cybersecurity as a strategic economic priority - The World Economic Forum",
@@ -99,25 +113,18 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNZThLZEgyVHI2QzZ4VGZGZU94S0VLYlowZTR4eWVxQmgzeDhRV1JaekxVMnItS0ZyMG9OZ3RiRzJndnFNZ01uVHc3S0pNcmV0R1V4SG53NXBpVkFZMkRoNHlFUGJQWGlyM2tXWlRzRndkQm93M3RzQXJWbUs5a3FILTNGVHZGY1Jybk5RS3B1enNINm5jXzNJaE03SWFtZkRBRERVZzJvbW94UkhRVVNya2RUYXNSSThZdXMyXw?oc=5\" target=\"_blank\">AI-Assisted Cybersecurity Leadership Services For Small And Mid-Sized Businesses (SMBs)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cybercrime Magazine</font>"
     },
     {
+      "title": "Hack-Proof Your Portfolio: The Bull Case for Cybersecurity ETFs - Zacks Investment Research",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUDFTSUw2VU1GX0VvejVXREZNc0JIR09NcjdTZDlOdUdEcS1rRWFYWjNubDJsaEJYTElyeHY5UElZUHlrQ2VlVktlcjF3UmpRa2VsRWpOcUhiQzFxNXFqRTVoRDFwcTI1UU1ieDBSZ0tXVGZ4MURyUERRSXU3R0xyTHF0VU5BYnpHOElIS0UxbWxiUWxWQVd3eklJZnY5c2UwQjZ6dll3?oc=5",
+      "source": "Zacks Investment Research",
+      "published": "Fri, 15 May 2026 15:00:53 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOUDFTSUw2VU1GX0VvejVXREZNc0JIR09NcjdTZDlOdUdEcS1rRWFYWjNubDJsaEJYTElyeHY5UElZUHlrQ2VlVktlcjF3UmpRa2VsRWpOcUhiQzFxNXFqRTVoRDFwcTI1UU1ieDBSZ0tXVGZ4MURyUERRSXU3R0xyTHF0VU5BYnpHOElIS0UxbWxiUWxWQVd3eklJZnY5c2UwQjZ6dll3?oc=5\" target=\"_blank\">Hack-Proof Your Portfolio: The Bull Case for Cybersecurity ETFs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Zacks Investment Research</font>"
+    },
+    {
       "title": "Free Cybersecurity Playbook Offers Small and Mid-Sized Businesses 10 Low-Cost Ways to Strengthen Defenses - Homeland Security Today",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPb3l0R1FDTkZvWFNOVEYzLURzVGVJZkFsbHZCN2hheVZ2QjMyVEIxVFNKNUlJY0JpNFIyZlFCWi1KWXotSkFweTFQcFIzN1BoZWdraDBqdFM0RjQ0YTJNWURjTVRzOHZIZ3NvbDVQcnRVQ1dXSGU4WlA0NXlLaWswZXNrb1hLajhXM2lyb251Z3FPNXV0ekRMak9ZZWtNd1l0Q2xld2VOcm5pLUFNaGU2azh5QjZqUVFfekRZQmFjZTd2NU9wM2VUOVJpUFhiOTNXaWw2VlZkcURHZlIxRFB4VWNZdHRadHkxeVpsSUFvdmlvYjNSbEU0?oc=5",
       "source": "Homeland Security Today",
       "published": "Fri, 15 May 2026 07:38:33 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxPb3l0R1FDTkZvWFNOVEYzLURzVGVJZkFsbHZCN2hheVZ2QjMyVEIxVFNKNUlJY0JpNFIyZlFCWi1KWXotSkFweTFQcFIzN1BoZWdraDBqdFM0RjQ0YTJNWURjTVRzOHZIZ3NvbDVQcnRVQ1dXSGU4WlA0NXlLaWswZXNrb1hLajhXM2lyb251Z3FPNXV0ekRMak9ZZWtNd1l0Q2xld2VOcm5pLUFNaGU2azh5QjZqUVFfekRZQmFjZTd2NU9wM2VUOVJpUFhiOTNXaWw2VlZkcURHZlIxRFB4VWNZdHRadHkxeVpsSUFvdmlvYjNSbEU0?oc=5\" target=\"_blank\">Free Cybersecurity Playbook Offers Small and Mid-Sized Businesses 10 Low-Cost Ways to Strengthen Defenses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Homeland Security Today</font>"
-    },
-    {
-      "title": "The Omdia Cybersecurity MSP Ecosystems Leadership Matrix 2026: Six vendors demonstrating strong execution - Omdia",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPR2V4LVlaVmRPX1ZRRTJsNVRiQ2N6Zk81RWlPVW5LSmdVa2ZuWXZqeWs4dV9UbGl6dUVFeThoVUNwMWVxdXB3NzhEZXR4M0VhclpvMnBzZHJaVWlOaWlLS21fOE4tV1BoMURnd3I2cHpFQjI3aFIzUTFCckVlM1A4cE1ZS3hDbmk4ZXVaSGNvTTVCcjU4T1VSRkNhNGdkdVRVS1J5eWRZRkc3SW5ScW93R1VFSE5jOGF6VDAwR05LOExnWGVGcUNlVU9KLVBIeUlmaUpmRjUyYmpzMXR3amhpWmFiWnA?oc=5",
-      "source": "Omdia",
-      "published": "Fri, 15 May 2026 11:28:49 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPR2V4LVlaVmRPX1ZRRTJsNVRiQ2N6Zk81RWlPVW5LSmdVa2ZuWXZqeWs4dV9UbGl6dUVFeThoVUNwMWVxdXB3NzhEZXR4M0VhclpvMnBzZHJaVWlOaWlLS21fOE4tV1BoMURnd3I2cHpFQjI3aFIzUTFCckVlM1A4cE1ZS3hDbmk4ZXVaSGNvTTVCcjU4T1VSRkNhNGdkdVRVS1J5eWRZRkc3SW5ScW93R1VFSE5jOGF6VDAwR05LOExnWGVGcUNlVU9KLVBIeUlmaUpmRjUyYmpzMXR3amhpWmFiWnA?oc=5\" target=\"_blank\">The Omdia Cybersecurity MSP Ecosystems Leadership Matrix 2026: Six vendors demonstrating strong execution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Omdia</font>"
-    },
-    {
-      "title": "itSynergy Announces Expanded Cybersecurity and Compliance Services for Registered Investment Advisers - FinancialContent",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxObWhuYjBMWWZOSENzWm93dFBpdG9vdGR4OGd6N2RoVldTekI4LTdwcW5jZGRVcWZobF9YbEQzNlNHLWFUREZwcEJmU2o2RW5uelAxLWY2YlZDUGg4Zm1nbXkxOVlqX2Z1bW01ZEVhendlUnJvMHFvcnYzUU96VU1MM0hDTHhORG0yWTZnbnFvOFVWRDYxOTA0QjZoU1cxZWszNmJpb2xHckZxS3Q3RGphSjVZTWpORFExXzdLb1F6aWtJSnpmTnVfdFdMNkxBaXBFVWxUS2Z6VTBaaF9hc21ETTJWVDJtWWM2Y244RWYwQ1Z4b2x4MGVVRXhFYkdtY1E4SUcw?oc=5",
-      "source": "FinancialContent",
-      "published": "Fri, 15 May 2026 12:27:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxObWhuYjBMWWZOSENzWm93dFBpdG9vdGR4OGd6N2RoVldTekI4LTdwcW5jZGRVcWZobF9YbEQzNlNHLWFUREZwcEJmU2o2RW5uelAxLWY2YlZDUGg4Zm1nbXkxOVlqX2Z1bW01ZEVhendlUnJvMHFvcnYzUU96VU1MM0hDTHhORG0yWTZnbnFvOFVWRDYxOTA0QjZoU1cxZWszNmJpb2xHckZxS3Q3RGphSjVZTWpORFExXzdLb1F6aWtJSnpmTnVfdFdMNkxBaXBFVWxUS2Z6VTBaaF9hc21ETTJWVDJtWWM2Y244RWYwQ1Z4b2x4MGVVRXhFYkdtY1E4SUcw?oc=5\" target=\"_blank\">itSynergy Announces Expanded Cybersecurity and Compliance Services for Registered Investment Advisers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FinancialContent</font>"
     },
     {
       "title": "Instructure Cybersecurity Incident - St. Petersburg College",
@@ -127,18 +134,11 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBYTlBuX3hNeVFwMkZwWW4xZ3dIYmxER3ZudElMZ19fVWt5clYtbGgtNkoxdlpqbkJiZThKLUdUWV85N0lVdzVKei1nSC1jN0tMV2R1WVptM2VISzBhQ3pqVXpySjdpb2JPRjdSczd5NElzSlhHbmYyUVVHNmY5QQ?oc=5\" target=\"_blank\">Instructure Cybersecurity Incident</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">St. Petersburg College</font>"
     },
     {
-      "title": "Army holds first Cybersecurity Summit at Fort Bragg with local partners - ABC11 Raleigh-Durham",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMzg4alR1UUZleVpwLVluVUR6MFpnek1CX1ZOZG5ueEItaDFHTDd1U3NJVHU3b2tDNVkyT0xhaTZvaktDT2xRdnNlV2xtUFJBamtWZ2RuWWw1VDhTMXl0OVpkZDV5SDRkYmtheW9uZTYwVm5vSGM5OGw1b1VGdU43dXhSRC0tWUtKS0NzV0tUdWJhb3lQdjNBc1lHQV_SAaIBQVVfeXFMTUFlUC01S0MxWDZ0VWtmT05OVWpxQ2daOGtOX00wZVBMZ0lSRjdYWjdCYWpWTGpFSmNGaXdUa2JVRExxTWk5N295dzJGVW4zU1paSXZUTk1PYlhWN2tjTVcwcUc2QnQwUUk1dXhJRlJTeFFjZUUxVkE3Ti1VQWR1THJaWGM1aERXaEVhU04xVk93RElBSnVGMnQ4b2xxNnZiUF9B?oc=5",
-      "source": "ABC11 Raleigh-Durham",
-      "published": "Thu, 14 May 2026 22:55:46 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNMzg4alR1UUZleVpwLVluVUR6MFpnek1CX1ZOZG5ueEItaDFHTDd1U3NJVHU3b2tDNVkyT0xhaTZvaktDT2xRdnNlV2xtUFJBamtWZ2RuWWw1VDhTMXl0OVpkZDV5SDRkYmtheW9uZTYwVm5vSGM5OGw1b1VGdU43dXhSRC0tWUtKS0NzV0tUdWJhb3lQdjNBc1lHQV_SAaIBQVVfeXFMTUFlUC01S0MxWDZ0VWtmT05OVWpxQ2daOGtOX00wZVBMZ0lSRjdYWjdCYWpWTGpFSmNGaXdUa2JVRExxTWk5N295dzJGVW4zU1paSXZUTk1PYlhWN2tjTVcwcUc2QnQwUUk1dXhJRlJTeFFjZUUxVkE3Ti1VQWR1THJaWGM1aERXaEVhU04xVk93RElBSnVGMnQ4b2xxNnZiUF9B?oc=5\" target=\"_blank\">Army holds first Cybersecurity Summit at Fort Bragg with local partners</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC11 Raleigh-Durham</font>"
-    },
-    {
-      "title": "AI Arms Race: New Tech Is Changing Government Cybersecurity - govtech.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS2Q2bEtpdzJQdjdkbWVFb3ZJZzZrV1ViVzJxYUJOdnJ0NmVWR2YxOGRLeHV4LWdVaThpZUJQOGd6THlRSVhQY1B1V1VPeXF1ZUFuRF9RTWhwYzlxY0o5V3R6RjdGSE9MOGdIeGZHZUV0bUk5by00OGMxaW15NUVQV3JYVlZfanNsNFIwWm4tbVdTX3JidDBJ?oc=5",
-      "source": "govtech.com",
-      "published": "Thu, 14 May 2026 20:32:46 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOS2Q2bEtpdzJQdjdkbWVFb3ZJZzZrV1ViVzJxYUJOdnJ0NmVWR2YxOGRLeHV4LWdVaThpZUJQOGd6THlRSVhQY1B1V1VPeXF1ZUFuRF9RTWhwYzlxY0o5V3R6RjdGSE9MOGdIeGZHZUV0bUk5by00OGMxaW15NUVQV3JYVlZfanNsNFIwWm4tbVdTX3JidDBJ?oc=5\" target=\"_blank\">AI Arms Race: New Tech Is Changing Government Cybersecurity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">govtech.com</font>"
+      "title": "The Omdia Cybersecurity MSP Ecosystems Leadership Matrix 2026: Six vendors demonstrating strong execution - Omdia",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPR2V4LVlaVmRPX1ZRRTJsNVRiQ2N6Zk81RWlPVW5LSmdVa2ZuWXZqeWs4dV9UbGl6dUVFeThoVUNwMWVxdXB3NzhEZXR4M0VhclpvMnBzZHJaVWlOaWlLS21fOE4tV1BoMURnd3I2cHpFQjI3aFIzUTFCckVlM1A4cE1ZS3hDbmk4ZXVaSGNvTTVCcjU4T1VSRkNhNGdkdVRVS1J5eWRZRkc3SW5ScW93R1VFSE5jOGF6VDAwR05LOExnWGVGcUNlVU9KLVBIeUlmaUpmRjUyYmpzMXR3amhpWmFiWnA?oc=5",
+      "source": "Omdia",
+      "published": "Fri, 15 May 2026 11:28:49 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPR2V4LVlaVmRPX1ZRRTJsNVRiQ2N6Zk81RWlPVW5LSmdVa2ZuWXZqeWs4dV9UbGl6dUVFeThoVUNwMWVxdXB3NzhEZXR4M0VhclpvMnBzZHJaVWlOaWlLS21fOE4tV1BoMURnd3I2cHpFQjI3aFIzUTFCckVlM1A4cE1ZS3hDbmk4ZXVaSGNvTTVCcjU4T1VSRkNhNGdkdVRVS1J5eWRZRkc3SW5ScW93R1VFSE5jOGF6VDAwR05LOExnWGVGcUNlVU9KLVBIeUlmaUpmRjUyYmpzMXR3amhpWmFiWnA?oc=5\" target=\"_blank\">The Omdia Cybersecurity MSP Ecosystems Leadership Matrix 2026: Six vendors demonstrating strong execution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Omdia</font>"
     }
   ],
   "Sports": [
@@ -150,32 +150,32 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE81Qk9aNzM4T3ctbE5hRjRMbzQ1WVdBVmF0SkY1Z1dwSDVLZFhabXJNcEZtUEVxMmVkNUhWTHEzb0UzSEZZdXIyWmxqaENNYmFpWkxnN1YzMlM1eUFtY2ZIRmtwYlpxMUVrTF90WXZqbGhiZEdhejJB?oc=5\" target=\"_blank\">NFL schedule winners and losers: Packers get soft beginning, Patriots face toughest start in 40 years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS Sports</font>"
     },
     {
-      "title": "2026 NFL schedule: The top 10 must-watch games of the season includes many Thanksgiving and Christmas matchups - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbmpGNFpGR3hoa00tR2g1QjFWTXR4VU51YlZuTEJxV05ySmlDd01Bb243OVpFNWJIOEMydmhvNXdsWTBXUnZNWG03bWY1UzRZb3JERjlFR1lPLTVuRW5DRldtRXJjc1laWVNTUjEtSFBDd3AwZnhuYzNuWGtlNld1UlU3WVJfXzRDc3NqZnNXNlRzdVFydDFPLVUtVDFzYndTbThxQXJIMlVTZHdNZEF4eUdzUUlhWmRvdUVIcFV3Z0tKcTRjT2VHVVJJRTFTTVhjUEsxaTI5NmNmdWxOU21DNGtfZVJrekpXbUJMTDdUSEYteWs?oc=5",
+      "title": "From Jerry Jones to Browns' QB future, 2026 NFL schedule winners and losers - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeFMyQWVTQzVuQTVJUGljNjBxQ0hRZHk2d1VTSnU2dVBWQlY1eko2bVg0X3ZKU2lKbUZhdHR2VURNcjU5aEJuNUZ6VS1udkNBRVZ0V1BjS2R2ajhaUS1PLTB3MUZVYUdfekdGVE5hZmQwMkswcnJZamhtUHczSnA5TnBpaWt2MFlzUU5VWnpIT0VNYnVBQktlZkF5SkpCRE05U016cUFkSWtnV2JHX2trMHUwX1kzTHJ4dHVEMEZIWHk3Tm8?oc=5",
       "source": "Yahoo Sports",
-      "published": "Thu, 14 May 2026 23:38:01 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbmpGNFpGR3hoa00tR2g1QjFWTXR4VU51YlZuTEJxV05ySmlDd01Bb243OVpFNWJIOEMydmhvNXdsWTBXUnZNWG03bWY1UzRZb3JERjlFR1lPLTVuRW5DRldtRXJjc1laWVNTUjEtSFBDd3AwZnhuYzNuWGtlNld1UlU3WVJfXzRDc3NqZnNXNlRzdVFydDFPLVUtVDFzYndTbThxQXJIMlVTZHdNZEF4eUdzUUlhWmRvdUVIcFV3Z0tKcTRjT2VHVVJJRTFTTVhjUEsxaTI5NmNmdWxOU21DNGtfZVJrekpXbUJMTDdUSEYteWs?oc=5\" target=\"_blank\">2026 NFL schedule: The top 10 must-watch games of the season includes many Thanksgiving and Christmas matchups</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>"
+      "published": "Fri, 15 May 2026 00:31:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeFMyQWVTQzVuQTVJUGljNjBxQ0hRZHk2d1VTSnU2dVBWQlY1eko2bVg0X3ZKU2lKbUZhdHR2VURNcjU5aEJuNUZ6VS1udkNBRVZ0V1BjS2R2ajhaUS1PLTB3MUZVYUdfekdGVE5hZmQwMkswcnJZamhtUHczSnA5TnBpaWt2MFlzUU5VWnpIT0VNYnVBQktlZkF5SkpCRE05U016cUFkSWtnV2JHX2trMHUwX1kzTHJ4dHVEMEZIWHk3Tm8?oc=5\" target=\"_blank\">From Jerry Jones to Browns' QB future, 2026 NFL schedule winners and losers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>"
     },
     {
-      "title": "Sports are big business in Huntsville - Axios",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWmJLeEtMd1ZkV3RqSVdRWGo2SkJiSWg4dlFybzUyeGZGQlpFcHJaWExzRDJ4LUphX2lGaFFPYVRZRHIwWi10NS1hTkpZU2l6cGZLeDd0dk9KenhUX3hXVkRRNFMzWmpFOWlvUTZnNG1NSldZT0dOLVZKOThEVjJmUWs0eWFPSk1qanY0WW1VNFA?oc=5",
-      "source": "Axios",
-      "published": "Fri, 15 May 2026 11:33:18 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPWmJLeEtMd1ZkV3RqSVdRWGo2SkJiSWg4dlFybzUyeGZGQlpFcHJaWExzRDJ4LUphX2lGaFFPYVRZRHIwWi10NS1hTkpZU2l6cGZLeDd0dk9KenhUX3hXVkRRNFMzWmpFOWlvUTZnNG1NSldZT0dOLVZKOThEVjJmUWs0eWFPSk1qanY0WW1VNFA?oc=5\" target=\"_blank\">Sports are big business in Huntsville</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>"
+      "title": "Middlesbrough: Championship club calls for Southampton's expulsion from play-offs - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pLTFLMWhZVTRuN3FXWkNBNGRLYzJNb0FBd2FPS3dKU0J4bVRQTm9idEY5MnRSTmV1MFBRbkN5bE1MVEF5eE9DWXJQSlNVU0VvaHFoR0p0TmxBbVJsdnJ2T0VqMG0xVTA?oc=5",
+      "source": "BBC",
+      "published": "Fri, 15 May 2026 14:33:03 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pLTFLMWhZVTRuN3FXWkNBNGRLYzJNb0FBd2FPS3dKU0J4bVRQTm9idEY5MnRSTmV1MFBRbkN5bE1MVEF5eE9DWXJQSlNVU0VvaHFoR0p0TmxBbVJsdnJ2T0VqMG0xVTA?oc=5\" target=\"_blank\">Middlesbrough: Championship club calls for Southampton's expulsion from play-offs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>"
     },
     {
-      "title": "More taxes on sports betting? NC lawmakers discuss the possibility as industry pushes back - WRAL",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY1VHR3JJLTM5cHE0Qm5iMjJyU2lSRUlod0RCeUtKamxpMWVNb19KMnIxQTNlazFKc0t0dERYUUxzUmgyZVk5eVdENUVhNkh2d2xCRVl0QXlZamJxYkxBQlB4a3NVMEJOOVpxb3d5cHI5VTA2YnRHXzdxU2N2TElGMG5udzlmUHBjYmtCclZkUDFpaEdOLUNnN0VELXpmeWs?oc=5",
-      "source": "WRAL",
-      "published": "Fri, 15 May 2026 12:32:35 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOY1VHR3JJLTM5cHE0Qm5iMjJyU2lSRUlod0RCeUtKamxpMWVNb19KMnIxQTNlazFKc0t0dERYUUxzUmgyZVk5eVdENUVhNkh2d2xCRVl0QXlZamJxYkxBQlB4a3NVMEJOOVpxb3d5cHI5VTA2YnRHXzdxU2N2TElGMG5udzlmUHBjYmtCclZkUDFpaEdOLUNnN0VELXpmeWs?oc=5\" target=\"_blank\">More taxes on sports betting? NC lawmakers discuss the possibility as industry pushes back</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRAL</font>"
+      "title": "Andreas Rettig: 'You can't separate sports and politics' - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcTZqZEp6dnl0UTd4czRPeFlDX25JRDFvQkJLblRFOVlXM3NJQWZ6SFZGMVRYbkk2ZHVoZHRjM0xJa2RfanNDeDFRdHpIMkJLbGszUmZDNmdHSGxMQWk0ZTlyUWVSYUc3b3dIMjlsdm1VYUpBcXdob25WUmhzQmRBUkFrcmFCYVRYSTctbkVR0gGOAUFVX3lxTFAxcGt4RGktZWRJQjNDbktCVWVVYnlUcG42aGthMkY0aXZtYXZpSUxZWnBpS0RkcVNmMUVscTdlVWNyYWc0YVdFam9oT3FzQXhtUElzRFVLekNEdllPcWZWYVFDRlg4R1M2N25ncmtHTklxWnkxOFU3Z21CRGp2U0hDT3ZOQzhnUEszZHVwYmc?oc=5",
+      "source": "DW.com",
+      "published": "Fri, 15 May 2026 15:20:06 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQcTZqZEp6dnl0UTd4czRPeFlDX25JRDFvQkJLblRFOVlXM3NJQWZ6SFZGMVRYbkk2ZHVoZHRjM0xJa2RfanNDeDFRdHpIMkJLbGszUmZDNmdHSGxMQWk0ZTlyUWVSYUc3b3dIMjlsdm1VYUpBcXdob25WUmhzQmRBUkFrcmFCYVRYSTctbkVR0gGOAUFVX3lxTFAxcGt4RGktZWRJQjNDbktCVWVVYnlUcG42aGthMkY0aXZtYXZpSUxZWnBpS0RkcVNmMUVscTdlVWNyYWc0YVdFam9oT3FzQXhtUElzRFVLekNEdllPcWZWYVFDRlg4R1M2N25ncmtHTklxWnkxOFU3Z21CRGp2U0hDT3ZOQzhnUEszZHVwYmc?oc=5\" target=\"_blank\">Andreas Rettig: 'You can't separate sports and politics'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DW.com</font>"
     },
     {
-      "title": "Majority of Florida voters favor tighter limits on sports betting, UNF poll finds - News4JAX",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQi1DMUJJNnBfbkd1TU9ndVhhcXFXZEhOT2Q0UVJvbG9lZVlSWXZHV1QwamtDUDJpUTVaZ21fczl5REJJdlZObHJ6QnNuWDU3MEY5YXl0QU1GVldXRDQyU0VyRkF6cktrdVFQNzk4eXFCcDNKZWlQUjdTbklwenBReHJSRGx4aUNjT2Y2dm5Kd0dVczY3NVJTSHVLRUlvU215NmVTRzNJYVROU2FuRzFPSXFzSm8tQXZ3cFNkbDE2djhjSmd3QmNJ?oc=5",
-      "source": "News4JAX",
-      "published": "Fri, 15 May 2026 13:31:20 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOQi1DMUJJNnBfbkd1TU9ndVhhcXFXZEhOT2Q0UVJvbG9lZVlSWXZHV1QwamtDUDJpUTVaZ21fczl5REJJdlZObHJ6QnNuWDU3MEY5YXl0QU1GVldXRDQyU0VyRkF6cktrdVFQNzk4eXFCcDNKZWlQUjdTbklwenBReHJSRGx4aUNjT2Y2dm5Kd0dVczY3NVJTSHVLRUlvU215NmVTRzNJYVROU2FuRzFPSXFzSm8tQXZ3cFNkbDE2djhjSmd3QmNJ?oc=5\" target=\"_blank\">Majority of Florida voters favor tighter limits on sports betting, UNF poll finds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News4JAX</font>"
+      "title": "2026 NFL Christmas Odds: Lines, Spreads, What to Know for All 4 Games - FOX Sports",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcDhab2N4X2gzNjM1bWxudmJXUG01cnU1eS1aY1R4WWVhYndIUUE1dnR5YVJoLW1GcTYzMFp3WGJ1OVplMFhkbG5OaENFOUw0R1dxVXpIOWtELUttdTRrYV9hMlZ0TWJUX0hsMVJQT1NqSXFVdkNFTXZoa09NS082U3doWGZyOEhFNFdYR1FIcUhRSTVPdm5ibERUc3FTd9IBngFBVV95cUxNYUw3Tm5MWFpQV1FWeng1ay1wcHd0eUZUT2lBYklVeENTbVBfQmxQUVpXNzhISGVtSmhyQ3piYTZCbEs3ZnVxZlpMVmlfbDYtZ1o5NHZxMWs1aEthSUFudlFLYW9nNjdyMGtYbl9HQnUzWUV2Zndtci1xZnBtLWhwbzRJdk5FZ011QUIwTldGZ2FMSExYTDFueFZMWTBDQQ?oc=5",
+      "source": "FOX Sports",
+      "published": "Fri, 15 May 2026 15:22:40 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOcDhab2N4X2gzNjM1bWxudmJXUG01cnU1eS1aY1R4WWVhYndIUUE1dnR5YVJoLW1GcTYzMFp3WGJ1OVplMFhkbG5OaENFOUw0R1dxVXpIOWtELUttdTRrYV9hMlZ0TWJUX0hsMVJQT1NqSXFVdkNFTXZoa09NS082U3doWGZyOEhFNFdYR1FIcUhRSTVPdm5ibERUc3FTd9IBngFBVV95cUxNYUw3Tm5MWFpQV1FWeng1ay1wcHd0eUZUT2lBYklVeENTbVBfQmxQUVpXNzhISGVtSmhyQ3piYTZCbEs3ZnVxZlpMVmlfbDYtZ1o5NHZxMWs1aEthSUFudlFLYW9nNjdyMGtYbl9HQnUzWUV2Zndtci1xZnBtLWhwbzRJdk5FZ011QUIwTldGZ2FMSExYTDFueFZMWTBDQQ?oc=5\" target=\"_blank\">2026 NFL Christmas Odds: Lines, Spreads, What to Know for All 4 Games</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Sports</font>"
     },
     {
       "title": "Connections: Sports Edition today: Hints and answers for May 15, 2026, puzzle No. 599 - The New York Times",
@@ -192,6 +192,34 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPcXBYWlVRNUJJSncwSGJpSjA1Y2RrVmdYbVhKUlQzbDFiYmFEbGViVEpYMVZiY0liX0RNSTlMSTRmSVNvVXVQMkY3Z0xweVhKTHZaaGpyZE9DYzlwOGU2dF9mZldQTUFaUXZqaHdrbTJlTkQ4NzVSSGdNa2Z2VTdqVHRWSXUyYjZpV2FBdmc2Zl9FQzZHX0M4Sm9UUzhWblpuWlF3ZG10RUw0d3RIYWhIWXhVb3dqbEptRkdCZg?oc=5\" target=\"_blank\">Bill seeks to end 'vulture practices' in kids sports: What it means</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>"
     },
     {
+      "title": "Romulus Motown Sports Village development announced, would be 'entertainment destination' - FOX 2 Detroit",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdzhaeXBKTjVfb2Vud3ZLWHFvX3RfUEkzaXMzcjNubVBneFljSl90QXprbkFxMjZMSkZKNVRVNWxTelJIMDhsNjBhOWF3dGtlaHU2bEU5Wm9ISlRmRWRxbTVGTmdHMEJDOEZpelRiVE1RVTFUVDRVbE5mNi1zR3FCcm45QXhmZGgwdUhrMlg4U2stRHNJd1RCdHI0YmtHSGlla2pER0cwTDVZV2hKVzAzdjA5X1RzWU1ER3hv0gHAAUFVX3lxTFBER0V1WmxnTTE5YnYzQ3BHdnk3OERMeS1oRmppU0U5UThHaDVxMjVGb3ByS0ZDU0h0VVdJb0h1VzVNR2xWSU1fWHZVRWl2MllsZl9abUg1OXhCQ3FaMHhGUDVBS1FudndIeDU0cGMzNEE1M3RlQkpYNVJONXJONUVzUWFsVjNPUmN3ZlhOaVhsVzBKSHlBay1RMUY1bUptcG9uUzFnNDNCek9hOTU5LUdmSExwZThYWDR1bGFXU19wcQ?oc=5",
+      "source": "FOX 2 Detroit",
+      "published": "Thu, 14 May 2026 20:08:53 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdzhaeXBKTjVfb2Vud3ZLWHFvX3RfUEkzaXMzcjNubVBneFljSl90QXprbkFxMjZMSkZKNVRVNWxTelJIMDhsNjBhOWF3dGtlaHU2bEU5Wm9ISlRmRWRxbTVGTmdHMEJDOEZpelRiVE1RVTFUVDRVbE5mNi1zR3FCcm45QXhmZGgwdUhrMlg4U2stRHNJd1RCdHI0YmtHSGlla2pER0cwTDVZV2hKVzAzdjA5X1RzWU1ER3hv0gHAAUFVX3lxTFBER0V1WmxnTTE5YnYzQ3BHdnk3OERMeS1oRmppU0U5UThHaDVxMjVGb3ByS0ZDU0h0VVdJb0h1VzVNR2xWSU1fWHZVRWl2MllsZl9abUg1OXhCQ3FaMHhGUDVBS1FudndIeDU0cGMzNEE1M3RlQkpYNVJONXJONUVzUWFsVjNPUmN3ZlhOaVhsVzBKSHlBay1RMUY1bUptcG9uUzFnNDNCek9hOTU5LUdmSExwZThYWDR1bGFXU19wcQ?oc=5\" target=\"_blank\">Romulus Motown Sports Village development announced, would be 'entertainment destination'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 2 Detroit</font>"
+    },
+    {
+      "title": "Bickley: Cardinals face brutal schedule - Arizona Sports",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRU05PSXJhQk5lNS1kTmlTMHNPQ2k4TzVMakpfX0ZuQnhmYWtzWEVBQ0xKdkxPUTVuNVdjbWo5ek00ZWR2YlotV01lbDlBdEdPUXFvQ2xkYUtDbklOVU9UV093UTNHU0FFYUlsOHAxTEU?oc=5",
+      "source": "Arizona Sports",
+      "published": "Fri, 15 May 2026 01:57:24 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBRU05PSXJhQk5lNS1kTmlTMHNPQ2k4TzVMakpfX0ZuQnhmYWtzWEVBQ0xKdkxPUTVuNVdjbWo5ek00ZWR2YlotV01lbDlBdEdPUXFvQ2xkYUtDbklOVU9UV093UTNHU0FFYUlsOHAxTEU?oc=5\" target=\"_blank\">Bickley: Cardinals face brutal schedule</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Arizona Sports</font>"
+    },
+    {
+      "title": "More taxes on sports betting? NC lawmakers discuss the possibility as industry pushes back - WRAL",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY1VHR3JJLTM5cHE0Qm5iMjJyU2lSRUlod0RCeUtKamxpMWVNb19KMnIxQTNlazFKc0t0dERYUUxzUmgyZVk5eVdENUVhNkh2d2xCRVl0QXlZamJxYkxBQlB4a3NVMEJOOVpxb3d5cHI5VTA2YnRHXzdxU2N2TElGMG5udzlmUHBjYmtCclZkUDFpaEdOLUNnN0VELXpmeWs?oc=5",
+      "source": "WRAL",
+      "published": "Fri, 15 May 2026 12:32:35 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOY1VHR3JJLTM5cHE0Qm5iMjJyU2lSRUlod0RCeUtKamxpMWVNb19KMnIxQTNlazFKc0t0dERYUUxzUmgyZVk5eVdENUVhNkh2d2xCRVl0QXlZamJxYkxBQlB4a3NVMEJOOVpxb3d5cHI5VTA2YnRHXzdxU2N2TElGMG5udzlmUHBjYmtCclZkUDFpaEdOLUNnN0VELXpmeWs?oc=5\" target=\"_blank\">More taxes on sports betting? NC lawmakers discuss the possibility as industry pushes back</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRAL</font>"
+    },
+    {
+      "title": "How ESPN’s ‘Take Back Sports’ is Widening Access to Youth Sports - The Walt Disney Company",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TWnJYeTR6cF9pdGJ5Z0dMRGx4M2F5RUNhUDlmaE9KbVFOUnNRM1FfUXVQNUUyMjVvVUhickI0aGllMUpBNEcxYVQzTHN4M1JTeXVta1hpRG1TREFCeXlmRmw0cGdJajNSay1OVw?oc=5",
+      "source": "The Walt Disney Company",
+      "published": "Fri, 15 May 2026 15:10:43 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1TWnJYeTR6cF9pdGJ5Z0dMRGx4M2F5RUNhUDlmaE9KbVFOUnNRM1FfUXVQNUUyMjVvVUhickI0aGllMUpBNEcxYVQzTHN4M1JTeXVta1hpRG1TREFCeXlmRmw0cGdJajNSay1OVw?oc=5\" target=\"_blank\">How ESPN’s ‘Take Back Sports’ is Widening Access to Youth Sports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Walt Disney Company</font>"
+    },
+    {
       "title": "Massive $3B youth sports campus planned next to Detroit Metro Airport - The Detroit News",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWVZrT1N5a2NwLW1jYVRnWjd6YkJpUm81c3BBOGRBZlVhaE1fYUNlTHlDdUhiajhzVlhRYTE5MDRaWVV4WGlPYTRFcHA4Smw2VjRJM01vRnk1bWNlWGdEOGVPSUt3V3N6LW1UTm1MRWNfVU5HZWRiWjU5T0FGMWNDRldYNjl0RW45N19QMzZhbVdqMGc5M2Y1ZzZlOUVBN1NTWGVXSi1vS3RQZ1Q5eFhuNGIyc0EyRVhYTzZGNE12dlNsMFhhWVRmOGtTLWxKT3dN?oc=5",
       "source": "The Detroit News",
@@ -199,18 +227,18 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWVZrT1N5a2NwLW1jYVRnWjd6YkJpUm81c3BBOGRBZlVhaE1fYUNlTHlDdUhiajhzVlhRYTE5MDRaWVV4WGlPYTRFcHA4Smw2VjRJM01vRnk1bWNlWGdEOGVPSUt3V3N6LW1UTm1MRWNfVU5HZWRiWjU5T0FGMWNDRldYNjl0RW45N19QMzZhbVdqMGc5M2Y1ZzZlOUVBN1NTWGVXSi1vS3RQZ1Q5eFhuNGIyc0EyRVhYTzZGNE12dlNsMFhhWVRmOGtTLWxKT3dN?oc=5\" target=\"_blank\">Massive $3B youth sports campus planned next to Detroit Metro Airport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Detroit News</font>"
     },
     {
-      "title": "Smith Entertainment Group plans addition to its sports campus - Deseret News",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOekN0UUtGbFpPd2NfeVBDRTdkLWJ5aG5TNHZVUzJfMEdKT1g5X081MmhNSjJBXzR1Z3BUWHVHbjl2VjVoVnNRZGZKUzIyb0xPR3pCVDNWaUMwZ3BuYkRvWnJGYnFQYzg5aWZ3a0tLZXN6R2sxbHA4dF9sU3ozcERVeDljdXd2S1R1ZjczTnNWX2gtTWxzQU1iMFBRZzNEdU1NV3YwR1hHUVh2bWpUcmllT0J2ZkhYM0xzUFB5ZjNNOWVQUERmVGxaOUx0WFk?oc=5",
-      "source": "Deseret News",
-      "published": "Wed, 13 May 2026 21:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOekN0UUtGbFpPd2NfeVBDRTdkLWJ5aG5TNHZVUzJfMEdKT1g5X081MmhNSjJBXzR1Z3BUWHVHbjl2VjVoVnNRZGZKUzIyb0xPR3pCVDNWaUMwZ3BuYkRvWnJGYnFQYzg5aWZ3a0tLZXN6R2sxbHA4dF9sU3ozcERVeDljdXd2S1R1ZjczTnNWX2gtTWxzQU1iMFBRZzNEdU1NV3YwR1hHUVh2bWpUcmllT0J2ZkhYM0xzUFB5ZjNNOWVQUERmVGxaOUx0WFk?oc=5\" target=\"_blank\">Smith Entertainment Group plans addition to its sports campus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deseret News</font>"
+      "title": "Marine Corps Veteran embraces first Winter Sports Clinic - VA News (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU1FnT1FXVldJODJIT2dVVXd4dFZkbV9iX1ZFaDF0THR4R05hSWxzYURIaDE5U0szN2ltVWhnajBGRmNQR1FKT0JUallabnZDWWphbUdaajNvdTZCVHg0cmdqSFM0WExxeGloZWtvWmM1UDJvZnJ6a3d4YzZVUzRYWQ?oc=5",
+      "source": "VA News (.gov)",
+      "published": "Fri, 15 May 2026 14:30:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQU1FnT1FXVldJODJIT2dVVXd4dFZkbV9iX1ZFaDF0THR4R05hSWxzYURIaDE5U0szN2ltVWhnajBGRmNQR1FKT0JUallabnZDWWphbUdaajNvdTZCVHg0cmdqSFM0WExxeGloZWtvWmM1UDJvZnJ6a3d4YzZVUzRYWQ?oc=5\" target=\"_blank\">Marine Corps Veteran embraces first Winter Sports Clinic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VA News (.gov)</font>"
     },
     {
-      "title": "4 Takeaways From The 2026 NFL Schedule Release - FOX Sports",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaC1wNmZKUTZ5c2lvUktBMHd2YXVVNGs1dURuN1ZsX1VNWHVSTUMwc3RVb01TY2RJOGg4R0syal8yQS00TnljOXlZTXNkMnZjbEdoVHFWN1pUUFFpUWtGeE05YnkyRk5Rc1ZSR1dqak1YLXd2Z01uNW1oaThIa0FtTUlETkk?oc=5",
-      "source": "FOX Sports",
-      "published": "Fri, 15 May 2026 03:45:57 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPaC1wNmZKUTZ5c2lvUktBMHd2YXVVNGs1dURuN1ZsX1VNWHVSTUMwc3RVb01TY2RJOGg4R0syal8yQS00TnljOXlZTXNkMnZjbEdoVHFWN1pUUFFpUWtGeE05YnkyRk5Rc1ZSR1dqak1YLXd2Z01uNW1oaThIa0FtTUlETkk?oc=5\" target=\"_blank\">4 Takeaways From The 2026 NFL Schedule Release</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Sports</font>"
+      "title": "Sports are big business in Huntsville - Axios",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWmJLeEtMd1ZkV3RqSVdRWGo2SkJiSWg4dlFybzUyeGZGQlpFcHJaWExzRDJ4LUphX2lGaFFPYVRZRHIwWi10NS1hTkpZU2l6cGZLeDd0dk9KenhUX3hXVkRRNFMzWmpFOWlvUTZnNG1NSldZT0dOLVZKOThEVjJmUWs0eWFPSk1qanY0WW1VNFA?oc=5",
+      "source": "Axios",
+      "published": "Fri, 15 May 2026 11:33:18 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPWmJLeEtMd1ZkV3RqSVdRWGo2SkJiSWg4dlFybzUyeGZGQlpFcHJaWExzRDJ4LUphX2lGaFFPYVRZRHIwWi10NS1hTkpZU2l6cGZLeDd0dk9KenhUX3hXVkRRNFMzWmpFOWlvUTZnNG1NSldZT0dOLVZKOThEVjJmUWs0eWFPSk1qanY0WW1VNFA?oc=5\" target=\"_blank\">Sports are big business in Huntsville</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Axios</font>"
     },
     {
       "title": "NMU Athletics announces the 2026 NMU Sports Hall of Fame class - nmuwildcats.com",
@@ -220,25 +248,18 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPUmM2XzJsNW1fMEg3QlBqYWx5SWhNeVZMd0E5MWlGOEJzRDBLcWJ4OVh6bmF4TER6aUU5WkluOEVSY1Bud2FyZTM3bG1rcGdzb3R2SzhSQlJ1THQwdHVDc1cyaTVWNC1kRmptODlQYkp2VjB0SHhPcndEM1ZLZGEtRHBpLUFqeUNnejI0MkpjYVN4em9vUlNMY3JUNkVIMHVQcGpNZWJSUE5pRDJQTHRoM2FVdU8?oc=5\" target=\"_blank\">NMU Athletics announces the 2026 NMU Sports Hall of Fame class</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nmuwildcats.com</font>"
     },
     {
+      "title": "Art, but Make It Sports - Mpls.St.Paul Magazine",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzRUxZN0hEVUZha29fSmQxbjFKbklUYXZDTkhadHRwNm1aZFdKcUR6YW42RDV3MTFuU210QUFZalNtblJwVFpON0dMd1JzSWpGclVublA0YW9NUjBvaWw1bmhsV1cxZHRuS3Jn?oc=5",
+      "source": "Mpls.St.Paul Magazine",
+      "published": "Fri, 15 May 2026 15:22:59 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBzRUxZN0hEVUZha29fSmQxbjFKbklUYXZDTkhadHRwNm1aZFdKcUR6YW42RDV3MTFuU210QUFZalNtblJwVFpON0dMd1JzSWpGclVublA0YW9NUjBvaWw1bmhsV1cxZHRuS3Jn?oc=5\" target=\"_blank\">Art, but Make It Sports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mpls.St.Paul Magazine</font>"
+    },
+    {
       "title": "Guardiola's personal to-do list for Pulis - Yahoo Sports",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUVV0bl9tUEp4bGZnNjRWRV9YcExEb3YwZHVTQ3BZWEtCaHlPSExJTFpoQjJQaUowS2ZZRUV0VlFDT3Z3amdGOVhFVkliTlo2WXI3U0JkbHFyZk05QjgxT1EwM1U2aDVKQmRVdU9hRC05WWZrUGw1RXdpOXhKZ0toeEJyLU1Hdw?oc=5",
       "source": "Yahoo Sports",
       "published": "Fri, 15 May 2026 10:53:26 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOUVV0bl9tUEp4bGZnNjRWRV9YcExEb3YwZHVTQ3BZWEtCaHlPSExJTFpoQjJQaUowS2ZZRUV0VlFDT3Z3amdGOVhFVkliTlo2WXI3U0JkbHFyZk05QjgxT1EwM1U2aDVKQmRVdU9hRC05WWZrUGw1RXdpOXhKZ0toeEJyLU1Hdw?oc=5\" target=\"_blank\">Guardiola's personal to-do list for Pulis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>"
-    },
-    {
-      "title": "Romulus Motown Sports Village development announced, would be 'entertainment destination' - FOX 2 Detroit",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdzhaeXBKTjVfb2Vud3ZLWHFvX3RfUEkzaXMzcjNubVBneFljSl90QXprbkFxMjZMSkZKNVRVNWxTelJIMDhsNjBhOWF3dGtlaHU2bEU5Wm9ISlRmRWRxbTVGTmdHMEJDOEZpelRiVE1RVTFUVDRVbE5mNi1zR3FCcm45QXhmZGgwdUhrMlg4U2stRHNJd1RCdHI0YmtHSGlla2pER0cwTDVZV2hKVzAzdjA5X1RzWU1ER3hv0gHAAUFVX3lxTFBER0V1WmxnTTE5YnYzQ3BHdnk3OERMeS1oRmppU0U5UThHaDVxMjVGb3ByS0ZDU0h0VVdJb0h1VzVNR2xWSU1fWHZVRWl2MllsZl9abUg1OXhCQ3FaMHhGUDVBS1FudndIeDU0cGMzNEE1M3RlQkpYNVJONXJONUVzUWFsVjNPUmN3ZlhOaVhsVzBKSHlBay1RMUY1bUptcG9uUzFnNDNCek9hOTU5LUdmSExwZThYWDR1bGFXU19wcQ?oc=5",
-      "source": "FOX 2 Detroit",
-      "published": "Thu, 14 May 2026 20:08:53 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdzhaeXBKTjVfb2Vud3ZLWHFvX3RfUEkzaXMzcjNubVBneFljSl90QXprbkFxMjZMSkZKNVRVNWxTelJIMDhsNjBhOWF3dGtlaHU2bEU5Wm9ISlRmRWRxbTVGTmdHMEJDOEZpelRiVE1RVTFUVDRVbE5mNi1zR3FCcm45QXhmZGgwdUhrMlg4U2stRHNJd1RCdHI0YmtHSGlla2pER0cwTDVZV2hKVzAzdjA5X1RzWU1ER3hv0gHAAUFVX3lxTFBER0V1WmxnTTE5YnYzQ3BHdnk3OERMeS1oRmppU0U5UThHaDVxMjVGb3ByS0ZDU0h0VVdJb0h1VzVNR2xWSU1fWHZVRWl2MllsZl9abUg1OXhCQ3FaMHhGUDVBS1FudndIeDU0cGMzNEE1M3RlQkpYNVJONXJONUVzUWFsVjNPUmN3ZlhOaVhsVzBKSHlBay1RMUY1bUptcG9uUzFnNDNCek9hOTU5LUdmSExwZThYWDR1bGFXU19wcQ?oc=5\" target=\"_blank\">Romulus Motown Sports Village development announced, would be 'entertainment destination'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 2 Detroit</font>"
-    },
-    {
-      "title": "Watch - NBC Sports",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0yY0pMRnFNOGpEQ2pQaG5sU3Y1NnhYMXNyRjhaMFU3NmlwVEh4dkF0QTR2a0IyYm12bXVhUEtmWGJSeG5va2c?oc=5",
-      "source": "NBC Sports",
-      "published": "Fri, 15 May 2026 04:21:57 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE0yY0pMRnFNOGpEQ2pQaG5sU3Y1NnhYMXNyRjhaMFU3NmlwVEh4dkF0QTR2a0IyYm12bXVhUEtmWGJSeG5va2c?oc=5\" target=\"_blank\">Watch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Sports</font>"
     },
     {
       "title": "Future of Sports Analytics: Building Trust and Intelligence with SūmerSports and Cisco - Cisco Blogs",
@@ -248,39 +269,18 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQZG4tVlB6cUVOSExMbVVVTXFEOGtZWDBHRG1jdjR4WEI1elU0OVQxUk9wN3hGc2Z2WDZwM044TGlFRzJrbzl0UDVPaFFxbFFCUkYxMnhuNXk5YWdBdjh4SDBvRkpiT0hRaHNQaTg1YTZ2QzJLblNnV0t5cnp5VGFTbXRZeUFCT2hfdjc0Smo0eVVvTXlJZTV0R0xSS25HaVpMWGgzbTJLWkJqUlRUa0VEUERYOVE?oc=5\" target=\"_blank\">Future of Sports Analytics: Building Trust and Intelligence with SūmerSports and Cisco</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cisco Blogs</font>"
     },
     {
+      "title": "Senator proposes bill to lower youth sports costs - WFSB",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMHMwRmVCVDNZTGZ1bVZQV0Yxc195N0VUT2VEZ0dOZm1sS0ZzcG54LVRsM2N5NkI3OS13S0xQaUJ2ZlhXdVZwbU1JNVhlTWhCdnVlc0hUMDNSMGwwa2liU1BnbnAtVDdEVWFFNjFydDVUQU1LNzZuclF2UHA3V2tseFkzWmVuQQ?oc=5",
+      "source": "WFSB",
+      "published": "Fri, 15 May 2026 08:58:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOMHMwRmVCVDNZTGZ1bVZQV0Yxc195N0VUT2VEZ0dOZm1sS0ZzcG54LVRsM2N5NkI3OS13S0xQaUJ2ZlhXdVZwbU1JNVhlTWhCdnVlc0hUMDNSMGwwa2liU1BnbnAtVDdEVWFFNjFydDVUQU1LNzZuclF2UHA3V2tseFkzWmVuQQ?oc=5\" target=\"_blank\">Senator proposes bill to lower youth sports costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WFSB</font>"
+    },
+    {
       "title": "Pair Of Aggie Receivers Named Among Nation’s Top Returners By Hero Sports - UC Davis Athletics",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdnVPRTBkNHMyMng1MUdxNWtuaW9MNmJmUTJhN3l1a2RxRVlZelQ3MWxuQTRPQWEtNlJES2JsZ2R4M29NQmN3eVhDWlBOLUhXZ2kyaksyQ0FCMDZPNURJNUViMHR2cXJsR2ZXOGpfaFNJSll3WG1GS2o4X2puYjR5VHhFemgtcDktZ3lGZVhTaWpFLXRtYVpaUjk0ZzIxOWhqaHBSbkx2aHhwRVRDVy1xbTh3aU5ReGt2STJjR1VYcVhVSzB3RWc?oc=5",
       "source": "UC Davis Athletics",
       "published": "Thu, 14 May 2026 23:29:03 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPdnVPRTBkNHMyMng1MUdxNWtuaW9MNmJmUTJhN3l1a2RxRVlZelQ3MWxuQTRPQWEtNlJES2JsZ2R4M29NQmN3eVhDWlBOLUhXZ2kyaksyQ0FCMDZPNURJNUViMHR2cXJsR2ZXOGpfaFNJSll3WG1GS2o4X2puYjR5VHhFemgtcDktZ3lGZVhTaWpFLXRtYVpaUjk0ZzIxOWhqaHBSbkx2aHhwRVRDVy1xbTh3aU5ReGt2STJjR1VYcVhVSzB3RWc?oc=5\" target=\"_blank\">Pair Of Aggie Receivers Named Among Nation’s Top Returners By Hero Sports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UC Davis Athletics</font>"
-    },
-    {
-      "title": "$3B sports complex set to transform Romulus into youth sports hub - ClickOnDetroit | WDIV Local 4",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSmVXOFhROVJUblJOV01yMGU2VEJSZnBSV2t2UmJTYktOb0pWbmQ5ZzE1ZmdldjNkSmQxaUwzNWc4SGF6SWwtamY1eG1zdm9aQks5Ung5UVZYeXB0YU14cDhZYUkwUzJRVm05MDB1OGFJZzJmUkNhOGxqRDZvZDcwZ2NuZzlPem4zb3VYa0RjZ1JybWZCZkpLMndZbFQxd3dZVGZzbEM3ZklVbERYcVV0RjF5cU5Qa0RZbGNBbVNB?oc=5",
-      "source": "ClickOnDetroit | WDIV Local 4",
-      "published": "Thu, 14 May 2026 17:56:08 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQSmVXOFhROVJUblJOV01yMGU2VEJSZnBSV2t2UmJTYktOb0pWbmQ5ZzE1ZmdldjNkSmQxaUwzNWc4SGF6SWwtamY1eG1zdm9aQks5Ung5UVZYeXB0YU14cDhZYUkwUzJRVm05MDB1OGFJZzJmUkNhOGxqRDZvZDcwZ2NuZzlPem4zb3VYa0RjZ1JybWZCZkpLMndZbFQxd3dZVGZzbEM3ZklVbERYcVV0RjF5cU5Qa0RZbGNBbVNB?oc=5\" target=\"_blank\">$3B sports complex set to transform Romulus into youth sports hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ClickOnDetroit | WDIV Local 4</font>"
-    },
-    {
-      "title": "Travon Miles - ABC11 Raleigh-Durham",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BTUFfQkZRZDNQQ0NRLWdGQWlMdFBVRjhfNnlmY1VaMzlWOEZEM0pqQWpzSDZ0aEd3M1pwRi1xT1Z3MjlpLTVGb1BMX2RGLU9sejZ0dmtfM1c?oc=5",
-      "source": "ABC11 Raleigh-Durham",
-      "published": "Thu, 14 May 2026 22:06:21 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BTUFfQkZRZDNQQ0NRLWdGQWlMdFBVRjhfNnlmY1VaMzlWOEZEM0pqQWpzSDZ0aEd3M1pwRi1xT1Z3MjlpLTVGb1BMX2RGLU9sejZ0dmtfM1c?oc=5\" target=\"_blank\">Travon Miles</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC11 Raleigh-Durham</font>"
-    },
-    {
-      "title": "Senator proposes bill to lower youth sports costs - WFSB",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMHMwRmVCVDNZTGZ1bVZQV0Yxc195N0VUT2VEZ0dOZm1sS0ZzcG54LVRsM2N5NkI3OS13S0xQaUJ2ZlhXdVZwbU1JNVhlTWhCdnVlc0hUMDNSMGwwa2liU1BnbnAtVDdEVWFFNjFydDVUQU1LNzZuclF2UHA3V2tseFkzWmVuQdIBmgFBVV95cUxOUlRldVljQlpkQm1TWWpsdWlWUTVoT2w3bTY3Q1c0Zy1veXBwVjhQMF9PRHFJRE1oSUt3LUF4elpxT0NnSEpHQU5ob1NxZmVsTHFFRGdDUW5tNlFSOUVkNDRnMV9zMVBMekdCczFkTFpmZ0hvUkxnMVdUcEM0Q2t2NjlPeVl3c0t4Vk9MN0UyWDJLR21kT3Q1MXln?oc=5",
-      "source": "WFSB",
-      "published": "Fri, 15 May 2026 08:58:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOMHMwRmVCVDNZTGZ1bVZQV0Yxc195N0VUT2VEZ0dOZm1sS0ZzcG54LVRsM2N5NkI3OS13S0xQaUJ2ZlhXdVZwbU1JNVhlTWhCdnVlc0hUMDNSMGwwa2liU1BnbnAtVDdEVWFFNjFydDVUQU1LNzZuclF2UHA3V2tseFkzWmVuQdIBmgFBVV95cUxOUlRldVljQlpkQm1TWWpsdWlWUTVoT2w3bTY3Q1c0Zy1veXBwVjhQMF9PRHFJRE1oSUt3LUF4elpxT0NnSEpHQU5ob1NxZmVsTHFFRGdDUW5tNlFSOUVkNDRnMV9zMVBMekdCczFkTFpmZ0hvUkxnMVdUcEM0Q2t2NjlPeVl3c0t4Vk9MN0UyWDJLR21kT3Q1MXln?oc=5\" target=\"_blank\">Senator proposes bill to lower youth sports costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WFSB</font>"
-    },
-    {
-      "title": "WSFA welcomes Sports Reporter Maya Kitchens - WSFA",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeHdpWFFkUm9hZUdTNFBUcjNVd2hDeURSN2RIUXNVcGw1Q0ZtSVREeTJEVUZlRmRIbTRaUDBpdG5lUHVhbWN0NkVSb1pBeDBpc2RUN1Z0VWNzMVdUUnpfcW00VlhzTHdZdnNGdDFWRUpiZnhHNFM3ZzN5N21lY2h6WWVWdlFjU2JoV3c?oc=5",
-      "source": "WSFA",
-      "published": "Fri, 15 May 2026 10:25:58 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQeHdpWFFkUm9hZUdTNFBUcjNVd2hDeURSN2RIUXNVcGw1Q0ZtSVREeTJEVUZlRmRIbTRaUDBpdG5lUHVhbWN0NkVSb1pBeDBpc2RUN1Z0VWNzMVdUUnpfcW00VlhzTHdZdnNGdDFWRUpiZnhHNFM3ZzN5N21lY2h6WWVWdlFjU2JoV3c?oc=5\" target=\"_blank\">WSFA welcomes Sports Reporter Maya Kitchens</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSFA</font>"
     }
   ],
   "Fashion": [
@@ -292,13 +292,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYUVCQWVvTzRyRlM2cmZZNnJCTXNkVzNfREM2NERMbXVkV2Zjb1JHRWlwaDZtenZjQXNPdGt6MTdtWkRHbUQ5dDZnX0NPLUVGMXdKMEpENWR5YVd3RmpROXhweXJadWxmMkF5cFFXMFgxWVEyZnVmYm05VW9nRVNBc2xnUVdTeTRtbUY5Y041WmxrX05DWjFudWcwWFZJakNESVctQlVRVTNSOUJJTk1ibkhfZ0syLW9ac1BKX1dqTmtVUkVQQ2ZaLTdQOVFqcTBzTFBNYmRVaVA3eXVIMzNpTWtnY3R1QQ?oc=5\" target=\"_blank\">Cannes fashion in pictures: Demi Moore, Gillian Anderson and the 'Fast and Furious' cast bring the glamour</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>"
     },
     {
-      "title": "See All of the Most Exciting Red Carpet Looks From the 2026 Cannes Film Festival - Town & Country Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeXdfUEdYY0kyMVZjSzN3andlQTZIUTdsUmNBTnMyYWRRS3JDOW10VDJ5ci1nRllvSkZyWGY5OE13NVNsN2c4QjhoakpzNnB2TVN6dk9VVEZON295d3NDb3lEaXBOVjlCY3JaRjl1ZVNlT0FvdENfS2pXbGhnazNoclFHa0lmY3psRnhNNzZnQVEycUplYlFPTDFmNDNPTWl4cmJ4ODFnTGlGNzZham1PQXFEc3B5cmxL?oc=5",
-      "source": "Town & Country Magazine",
-      "published": "Thu, 14 May 2026 19:17:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeXdfUEdYY0kyMVZjSzN3andlQTZIUTdsUmNBTnMyYWRRS3JDOW10VDJ5ci1nRllvSkZyWGY5OE13NVNsN2c4QjhoakpzNnB2TVN6dk9VVEZON295d3NDb3lEaXBOVjlCY3JaRjl1ZVNlT0FvdENfS2pXbGhnazNoclFHa0lmY3psRnhNNzZnQVEycUplYlFPTDFmNDNPTWl4cmJ4ODFnTGlGNzZham1PQXFEc3B5cmxL?oc=5\" target=\"_blank\">See All of the Most Exciting Red Carpet Looks From the 2026 Cannes Film Festival</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Town & Country Magazine</font>"
-    },
-    {
       "title": "All the Fashions From the 2026 Cannes Film Festival Red Carpet - Vogue",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DbGRGVnlfcWc3VjdTME9GZEdiUFUzMmJvTWF0c3huNGd1a1dtTk1RMUJtZlo3cExKdGU4dkdfRDVPaE83WklPYkR2NUJWVkdwaGdScEdZUFVRaGpSWWh4SDA1R19FMDNndXFqT283c1RQbVJqTDFQclRON2hLa0k?oc=5",
       "source": "Vogue",
@@ -306,74 +299,25 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9DbGRGVnlfcWc3VjdTME9GZEdiUFUzMmJvTWF0c3huNGd1a1dtTk1RMUJtZlo3cExKdGU4dkdfRDVPaE83WklPYkR2NUJWVkdwaGdScEdZUFVRaGpSWWh4SDA1R19FMDNndXFqT283c1RQbVJqTDFQclRON2hLa0k?oc=5\" target=\"_blank\">All the Fashions From the 2026 Cannes Film Festival Red Carpet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vogue</font>"
     },
     {
-      "title": "Nicole Kidman's Daughter Sunday Rose Wows in Her 7th Fashion Show - instyle.com",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWVl2eGtBdFhzQXl6M29PdXQ0SlpfTFQzc3dsQ2o4WHZwbnA4dXZ1blFZYXhOYk1jcU8wQjJpQXJhTTI5bDRxd0pySFJEbHMtSFNQTWJkZG9FdjdseWhhWWJHZDlKTnc0YjFyakNVUmJHLXlVZEN3RWZGZGc3RXRXeFV1aXRGa0VwLW9PZ1dFNTQ?oc=5",
-      "source": "instyle.com",
-      "published": "Thu, 14 May 2026 14:37:41 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPWVl2eGtBdFhzQXl6M29PdXQ0SlpfTFQzc3dsQ2o4WHZwbnA4dXZ1blFZYXhOYk1jcU8wQjJpQXJhTTI5bDRxd0pySFJEbHMtSFNQTWJkZG9FdjdseWhhWWJHZDlKTnc0YjFyakNVUmJHLXlVZEN3RWZGZGc3RXRXeFV1aXRGa0VwLW9PZ1dFNTQ?oc=5\" target=\"_blank\">Nicole Kidman's Daughter Sunday Rose Wows in Her 7th Fashion Show</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">instyle.com</font>"
+      "title": "Dua Lipa Goes Technicolor in Cannes - Vogue",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JM0o1empyYXVLYm9iNEZMVHE2SkxiM1N6WUhCTjNDMWhyQVFNRkJPcTVLeW5HcDQ0NnUzV3ZwM0plSllDSEFvQmh5VUd6alhfRWtTazFLWXFwVWNzdHBmdV9oX24xSFJ4UkY1eXVNLWhEZmVPcnJ5R1l3?oc=5",
+      "source": "Vogue",
+      "published": "Fri, 15 May 2026 15:38:31 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5JM0o1empyYXVLYm9iNEZMVHE2SkxiM1N6WUhCTjNDMWhyQVFNRkJPcTVLeW5HcDQ0NnUzV3ZwM0plSllDSEFvQmh5VUd6alhfRWtTazFLWXFwVWNzdHBmdV9oX24xSFJ4UkY1eXVNLWhEZmVPcnJ5R1l3?oc=5\" target=\"_blank\">Dua Lipa Goes Technicolor in Cannes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vogue</font>"
     },
     {
-      "title": "In Italy, Princess Catherine Puts Her Wardrobe to Work - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObFpDcjBneVFDOXMxa2hfbkU2SFpzcmRuMEtqRS1rVW00YTB0TDFGc2M4ZVFJZGZlQXREanBWeG5Id1V6XzZFaFJrdFJqbFZHb2pJR1R1RjlHSDFUckxIZ01CMF9fcUNTVXhRSzlMd25CTW9CTW1NWWNFUnJTX21NVmJVa1k?oc=5",
-      "source": "The New York Times",
-      "published": "Fri, 15 May 2026 13:45:16 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxObFpDcjBneVFDOXMxa2hfbkU2SFpzcmRuMEtqRS1rVW00YTB0TDFGc2M4ZVFJZGZlQXREanBWeG5Id1V6XzZFaFJrdFJqbFZHb2pJR1R1RjlHSDFUckxIZ01CMF9fcUNTVXhRSzlMd25CTW9CTW1NWWNFUnJTX21NVmJVa1k?oc=5\" target=\"_blank\">In Italy, Princess Catherine Puts Her Wardrobe to Work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+      "title": "Fashion tycoon and bus barons among Scotland's richest people - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WRWJhcGpDczhwdkxKSjdUZXZmZ0dKOXlmU2tmUG1FT2JGSWE4OHNKcF9qdmlpVEllcmdVWXFBMVc0Vk90b3NUdV96Q2cyd0pTSFdDYlc0MU45UQ?oc=5",
+      "source": "BBC",
+      "published": "Fri, 15 May 2026 15:07:03 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WRWJhcGpDczhwdkxKSjdUZXZmZ0dKOXlmU2tmUG1FT2JGSWE4OHNKcF9qdmlpVEllcmdVWXFBMVc0Vk90b3NUdV96Q2cyd0pTSFdDYlc0MU45UQ?oc=5\" target=\"_blank\">Fashion tycoon and bus barons among Scotland's richest people</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>"
     },
     {
-      "title": "Milan Fashion Week to Discourage Fur Under New Industry Guidelines - WWD",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeWJfUFVrRVZ6SG5mZnpvQ2drc2N3TU51Y05UbDltaUl3QUZNTlFtb2I4WE1EWDhTRG92aHVUOWFoMURIeTVSbF9wU2t0Yk5kS2dhRFpzdUg3WjlPNW5tUktIRkJFWGhQNG5XdkQxMDR1R3BBX3UzQlFhN2lRTUNtSFlYWVFXdE1lVl9jbXNGNEtIbHprd21feFIxbFlaeUZqV180RHYzYmlycS1p?oc=5",
+      "title": "Is Fashion’s ‘Resilient’ Future Leaving Workers Behind? - WWD",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVW5KZ2EwR3RnVDhHeWljWERreENDbFJtZ0R4em9pVnNmZDFDdUFpOFUxdVhrLXBlWU84RWZrVWlYV3VhWVJZdF9DTE9ab2MxbVZxYzNIMUZfMHNDUDNHSmM0RG4tSWVYSE03R0hsdERJdVZJaE9qR192eXZRREZjMVVDaGVYT3I5Y1NZUFhrZ0kyc2hwZUZHUXJnOHFLQlhwcEZMQk0xS1ZRcUtIMXk3N2F4VkQ5VnRMNE5B?oc=5",
       "source": "WWD",
-      "published": "Fri, 15 May 2026 12:55:30 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOeWJfUFVrRVZ6SG5mZnpvQ2drc2N3TU51Y05UbDltaUl3QUZNTlFtb2I4WE1EWDhTRG92aHVUOWFoMURIeTVSbF9wU2t0Yk5kS2dhRFpzdUg3WjlPNW5tUktIRkJFWGhQNG5XdkQxMDR1R3BBX3UzQlFhN2lRTUNtSFlYWVFXdE1lVl9jbXNGNEtIbHprd21feFIxbFlaeUZqV180RHYzYmlycS1p?oc=5\" target=\"_blank\">Milan Fashion Week to Discourage Fur Under New Industry Guidelines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WWD</font>"
-    },
-    {
-      "title": "What The Story Behind The Princess Of Wales' Italy Tour Outfits Tells Us About Catherine Now - ELLE",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMjlZak9zLXVheHJ4TUpiQ2V1cHpKcUdVUGpaamQ4QnhFTFRrWDdHcW9mSy1wTTgxeEdUSEVLNk5rODh0OW1GekR5RlVNLWVtVW1JNlNja1IyTDFROGdwb2ZVdDJFR1BJdEVqWEtrbm9NLWVHR0pzdVVsWFRXX2daQWtfalZYSmM4alp2RnIyaDdPb3pnRUt4M0ZPRWVPZGhzaVcxMXBhenNyZw?oc=5",
-      "source": "ELLE",
-      "published": "Fri, 15 May 2026 13:28:20 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMjlZak9zLXVheHJ4TUpiQ2V1cHpKcUdVUGpaamQ4QnhFTFRrWDdHcW9mSy1wTTgxeEdUSEVLNk5rODh0OW1GekR5RlVNLWVtVW1JNlNja1IyTDFROGdwb2ZVdDJFR1BJdEVqWEtrbm9NLWVHR0pzdVVsWFRXX2daQWtfalZYSmM4alp2RnIyaDdPb3pnRUt4M0ZPRWVPZGhzaVcxMXBhenNyZw?oc=5\" target=\"_blank\">What The Story Behind The Princess Of Wales' Italy Tour Outfits Tells Us About Catherine Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ELLE</font>"
-    },
-    {
-      "title": "LVMH to Sell Marc Jacobs Fashion Brand to WHP, G-III Apparel - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuSnRIMDE5c2kxVjZxQWJhRnhiVFBCRG55SGQyU21ydmNCWDJnWlE0SHZzVWNDSFhoOEN6cmthRWZYdTFVZFpadXhpMFBjbXVjeFpwYTdGMlNGbFFFUEU5RHhVNW5XVl8zUm5neVFQaFVWeTQzbkFpSg?oc=5",
-      "source": "WSJ",
-      "published": "Thu, 14 May 2026 22:41:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBuSnRIMDE5c2kxVjZxQWJhRnhiVFBCRG55SGQyU21ydmNCWDJnWlE0SHZzVWNDSFhoOEN6cmthRWZYdTFVZFpadXhpMFBjbXVjeFpwYTdGMlNGbFFFUEU5RHhVNW5XVl8zUm5neVFQaFVWeTQzbkFpSg?oc=5\" target=\"_blank\">LVMH to Sell Marc Jacobs Fashion Brand to WHP, G-III Apparel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>"
-    },
-    {
-      "title": "It’s Not Over: This Major 2025 Shoe Trend Is Going to Be Even More Popular This Summer - Who What Wear",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE52T0VvbFRMajIwTDJ1c0NRSzVzUTBzMW1qNzVQWjFTWWk3Z0RNN3p4dXl2VkowNEpGMjloNF9uUXk1ZHBXNG5hdWg1b0MtTkVXazEtQU5uc3pzNHRmOFlEU1htSU9qVEFjY0xhcEJOc2wtNGR4TklLaGdn?oc=5",
-      "source": "Who What Wear",
-      "published": "Thu, 14 May 2026 15:48:37 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE52T0VvbFRMajIwTDJ1c0NRSzVzUTBzMW1qNzVQWjFTWWk3Z0RNN3p4dXl2VkowNEpGMjloNF9uUXk1ZHBXNG5hdWg1b0MtTkVXazEtQU5uc3pzNHRmOFlEU1htSU9qVEFjY0xhcEJOc2wtNGR4TklLaGdn?oc=5\" target=\"_blank\">It’s Not Over: This Major 2025 Shoe Trend Is Going to Be Even More Popular This Summer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Who What Wear</font>"
-    },
-    {
-      "title": "All in the mind: are exercise slides the next ugly shoe? - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVWhUZ1VhM1JkU2hUUjlSTVYyQndVZ1BWQVVva2VWb3JHUlBJSHVNQUNkREZ1UmF3MGZlNmRvdWthMHlDWm9CZnRsbk5QSGVXZEFtVUxZWVNxX0NudUVJT3cxYTlOM001MHh3Z1dIdDRmeDZJUjZoOXlUR0V3TGItZFp5b0taOTBkbjBRdTNDd1NRUnU1Tm45UHkybzlkZUlEa3pn?oc=5",
-      "source": "The Guardian",
-      "published": "Fri, 15 May 2026 09:06:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOVWhUZ1VhM1JkU2hUUjlSTVYyQndVZ1BWQVVva2VWb3JHUlBJSHVNQUNkREZ1UmF3MGZlNmRvdWthMHlDWm9CZnRsbk5QSGVXZEFtVUxZWVNxX0NudUVJT3cxYTlOM001MHh3Z1dIdDRmeDZJUjZoOXlUR0V3TGItZFp5b0taOTBkbjBRdTNDd1NRUnU1Tm45UHkybzlkZUlEa3pn?oc=5\" target=\"_blank\">All in the mind: are exercise slides the next ugly shoe?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>"
-    },
-    {
-      "title": "The Ballet Flat Era Is Over. Meet the Spring Shoe That’s Replacing It - ELLE",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0a0hWMmtndFZGSHZWQ284ZGdZbV9MN0k3Z2g3YVJqWmYyZ3lSSVZYVFhjUVpGOWhuQzRWV1IyOHhhVmZ5V1lyeXNpQjdsaUxqOW5BTENGSUh1M2xHSFRQc0dRWW9uTzdleWZyWHVDaTRxQQ?oc=5",
-      "source": "ELLE",
-      "published": "Wed, 13 May 2026 17:19:25 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFB0a0hWMmtndFZGSHZWQ284ZGdZbV9MN0k3Z2g3YVJqWmYyZ3lSSVZYVFhjUVpGOWhuQzRWV1IyOHhhVmZ5V1lyeXNpQjdsaUxqOW5BTENGSUh1M2xHSFRQc0dRWW9uTzdleWZyWHVDaTRxQQ?oc=5\" target=\"_blank\">The Ballet Flat Era Is Over. Meet the Spring Shoe That’s Replacing It</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ELLE</font>"
-    },
-    {
-      "title": "How to spot quality clothing, according to a fashion expert - NPR",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcnV6MUJpMk5iQkZuQzk2V2J6dFB5ZjdSOFdjLWhDajNVaDVNUm56WmEzWWhERDFiNjFSa01VTGtxQXhRMWh4UjZEMklZQmRCMEdCeXNWZ0RXQ3dSMHhoTktOcklkUUQ0alIxdGd6WUFaZTQyN2Q0UGhYVk02c1VQWUFR?oc=5",
-      "source": "NPR",
-      "published": "Thu, 14 May 2026 09:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQcnV6MUJpMk5iQkZuQzk2V2J6dFB5ZjdSOFdjLWhDajNVaDVNUm56WmEzWWhERDFiNjFSa01VTGtxQXhRMWh4UjZEMklZQmRCMEdCeXNWZ0RXQ3dSMHhoTktOcklkUUQ0alIxdGd6WUFaZTQyN2Q0UGhYVk02c1VQWUFR?oc=5\" target=\"_blank\">How to spot quality clothing, according to a fashion expert</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NPR</font>"
-    },
-    {
-      "title": "I found the 42 best Memorial Day clothing deals to refresh your summer wardrobe - CNN",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQal9UeGZtZm5Sd3JMTC05SWl0RWcxcTJMMmRzaGM2Z3hmSGVWVTVxX0EyRC12anRPcjFDZkJ0bk1YeFlVS0NQX3pSODdOWjRMcjQzQmZsNHhicWhMUHkxTFdEZ3NDM0FPTjZyYXBKZ0ZxaVlPaGVCZU9SNVJfMks5UElOTFloYmM?oc=5",
-      "source": "CNN",
-      "published": "Thu, 14 May 2026 19:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQal9UeGZtZm5Sd3JMTC05SWl0RWcxcTJMMmRzaGM2Z3hmSGVWVTVxX0EyRC12anRPcjFDZkJ0bk1YeFlVS0NQX3pSODdOWjRMcjQzQmZsNHhicWhMUHkxTFdEZ3NDM0FPTjZyYXBKZ0ZxaVlPaGVCZU9SNVJfMks5UElOTFloYmM?oc=5\" target=\"_blank\">I found the 42 best Memorial Day clothing deals to refresh your summer wardrobe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>"
+      "published": "Fri, 15 May 2026 14:34:18 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVW5KZ2EwR3RnVDhHeWljWERreENDbFJtZ0R4em9pVnNmZDFDdUFpOFUxdVhrLXBlWU84RWZrVWlYV3VhWVJZdF9DTE9ab2MxbVZxYzNIMUZfMHNDUDNHSmM0RG4tSWVYSE03R0hsdERJdVZJaE9qR192eXZRREZjMVVDaGVYT3I5Y1NZUFhrZ0kyc2hwZUZHUXJnOHFLQlhwcEZMQk0xS1ZRcUtIMXk3N2F4VkQ5VnRMNE5B?oc=5\" target=\"_blank\">Is Fashion’s ‘Resilient’ Future Leaving Workers Behind?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WWD</font>"
     },
     {
       "title": "Inside Dior’s LACMA Extravaganza — High Fashion, Cool Convertibles, and a Parade of Stylish Stars - The Hollywood Reporter",
@@ -390,11 +334,88 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQU1ZNREg0RFpKYjkyejRsQVFqM01iODc5N0djR2p1bUdyMnA1T0gtb1Mzd0JudnRCeEk4T09JTk1EQ194WWluRTNJR2xZRHIxRkpZUUZQank2OHpmajBzTVZieU1oLUI5MUkyMkt2R015REFoYlJmNDR0MklBQThZZFJGZ1h1VWQ1T2dkOXlwblVoY2hTT3FyUDRzNWt2QVB0TGpnS2pYTGZ4ci1jY3c?oc=5\" target=\"_blank\">See Al Pacino, 86, and Girlfriend Noor Alfallah, 32, in Rare Outing at Dior Fashion Show</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">E! News</font>"
     },
     {
-      "title": "Christian Dior Resort 2027 Fashion Show - Vogue",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTTRzQ2RBOXhOdk1qWEtCbVl6OE0xc2NSbVlQS2xsVUxFTVBVMTJTWlVuckZVREhLN2JkandYTkxMT014QVpLWmZUYTBRZnZuR3l2ejhpOXVWUlpQYVBvRXVOaFBkWTJSZ1FPdmdCT3FINWpxc0VXandNZ051YmlON2pIdTk5UQ?oc=5",
+      "title": "American Psycho: Does Jonathan Anderson’s New Dior Book Tote Hint at His Next Costuming Gig? - Vogue",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYW9nYm9tSXJZOTB5V1RVNDdYOTZub2JIMDFFdWkxUVRreW5mN1d6Q2JLMkpLYWVrV25jQUlQUC12YWhPUDhhTWU0dmQycFB1UmlrZFk5SGt3SkxqR1NxbzFQcllvTUxFMC1FRTBFc3VrajhhRzlkY3BFRW1teWJtd2VFYmg?oc=5",
       "source": "Vogue",
-      "published": "Thu, 14 May 2026 16:04:11 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQTTRzQ2RBOXhOdk1qWEtCbVl6OE0xc2NSbVlQS2xsVUxFTVBVMTJTWlVuckZVREhLN2JkandYTkxMT014QVpLWmZUYTBRZnZuR3l2ejhpOXVWUlpQYVBvRXVOaFBkWTJSZ1FPdmdCT3FINWpxc0VXandNZ051YmlON2pIdTk5UQ?oc=5\" target=\"_blank\">Christian Dior Resort 2027 Fashion Show</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vogue</font>"
+      "published": "Fri, 15 May 2026 14:35:19 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOYW9nYm9tSXJZOTB5V1RVNDdYOTZub2JIMDFFdWkxUVRreW5mN1d6Q2JLMkpLYWVrV25jQUlQUC12YWhPUDhhTWU0dmQycFB1UmlrZFk5SGt3SkxqR1NxbzFQcllvTUxFMC1FRTBFc3VrajhhRzlkY3BFRW1teWJtd2VFYmg?oc=5\" target=\"_blank\">American Psycho: Does Jonathan Anderson’s New Dior Book Tote Hint at His Next Costuming Gig?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vogue</font>"
+    },
+    {
+      "title": "The dark side of fast fashion recycling - CNN",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOGU3dXl4NkRXSnVjTGVQWHg5OVpQUHFpa1VsN05OdjFYMGZtaktiOFR1eW8wTEJZclFUclpEOFNldEloVmhQVno1R3RjN2pEWmg1aWlOWVgtbmxaZTdpSVVnZllSdXhSRUlnYVppcnhBVmpFekVoLTZUWVdILTBTQWZvQ3p6NFpjWVpsQ245OTQ?oc=5",
+      "source": "CNN",
+      "published": "Fri, 15 May 2026 06:15:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQOGU3dXl4NkRXSnVjTGVQWHg5OVpQUHFpa1VsN05OdjFYMGZtaktiOFR1eW8wTEJZclFUclpEOFNldEloVmhQVno1R3RjN2pEWmg1aWlOWVgtbmxaZTdpSVVnZllSdXhSRUlnYVppcnhBVmpFekVoLTZUWVdILTBTQWZvQ3p6NFpjWVpsQ245OTQ?oc=5\" target=\"_blank\">The dark side of fast fashion recycling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>"
+    },
+    {
+      "title": "Boat Shoes Are the Anti-Sneaker Trend of Summer 2026 - Marie Claire",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GcVEzVnpRWmtBSTFhclh0cGFlMDlZY3NzRkpER2N0ZGRjaEF0OHU2MU40cU9DRnNacnRmXzVqYW90aTR0a2tLb2dIZlBIdDd0SU9oakttVVA0X0JJNGRsYWNYSXFEMGlqbVZXUVVla0d4bHBQUlZRemRJTQ?oc=5",
+      "source": "Marie Claire",
+      "published": "Fri, 15 May 2026 15:01:14 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5GcVEzVnpRWmtBSTFhclh0cGFlMDlZY3NzRkpER2N0ZGRjaEF0OHU2MU40cU9DRnNacnRmXzVqYW90aTR0a2tLb2dIZlBIdDd0SU9oakttVVA0X0JJNGRsYWNYSXFEMGlqbVZXUVVla0d4bHBQUlZRemRJTQ?oc=5\" target=\"_blank\">Boat Shoes Are the Anti-Sneaker Trend of Summer 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Marie Claire</font>"
+    },
+    {
+      "title": "All in the mind: are exercise slides the next ugly shoe? - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVWhUZ1VhM1JkU2hUUjlSTVYyQndVZ1BWQVVva2VWb3JHUlBJSHVNQUNkREZ1UmF3MGZlNmRvdWthMHlDWm9CZnRsbk5QSGVXZEFtVUxZWVNxX0NudUVJT3cxYTlOM001MHh3Z1dIdDRmeDZJUjZoOXlUR0V3TGItZFp5b0taOTBkbjBRdTNDd1NRUnU1Tm45UHkybzlkZUlEa3pn?oc=5",
+      "source": "The Guardian",
+      "published": "Fri, 15 May 2026 13:34:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOVWhUZ1VhM1JkU2hUUjlSTVYyQndVZ1BWQVVva2VWb3JHUlBJSHVNQUNkREZ1UmF3MGZlNmRvdWthMHlDWm9CZnRsbk5QSGVXZEFtVUxZWVNxX0NudUVJT3cxYTlOM001MHh3Z1dIdDRmeDZJUjZoOXlUR0V3TGItZFp5b0taOTBkbjBRdTNDd1NRUnU1Tm45UHkybzlkZUlEa3pn?oc=5\" target=\"_blank\">All in the mind: are exercise slides the next ugly shoe?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>"
+    },
+    {
+      "title": "The Ballet Flat Era Is Over. Meet the Spring Shoe That’s Replacing It - ELLE",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0a0hWMmtndFZGSHZWQ284ZGdZbV9MN0k3Z2g3YVJqWmYyZ3lSSVZYVFhjUVpGOWhuQzRWV1IyOHhhVmZ5V1lyeXNpQjdsaUxqOW5BTENGSUh1M2xHSFRQc0dRWW9uTzdleWZyWHVDaTRxQQ?oc=5",
+      "source": "ELLE",
+      "published": "Wed, 13 May 2026 17:19:25 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFB0a0hWMmtndFZGSHZWQ284ZGdZbV9MN0k3Z2g3YVJqWmYyZ3lSSVZYVFhjUVpGOWhuQzRWV1IyOHhhVmZ5V1lyeXNpQjdsaUxqOW5BTENGSUh1M2xHSFRQc0dRWW9uTzdleWZyWHVDaTRxQQ?oc=5\" target=\"_blank\">The Ballet Flat Era Is Over. Meet the Spring Shoe That’s Replacing It</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ELLE</font>"
+    },
+    {
+      "title": "LVMH to Sell Marc Jacobs Fashion Brand to WHP, G-III Apparel - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuSnRIMDE5c2kxVjZxQWJhRnhiVFBCRG55SGQyU21ydmNCWDJnWlE0SHZzVWNDSFhoOEN6cmthRWZYdTFVZFpadXhpMFBjbXVjeFpwYTdGMlNGbFFFUEU5RHhVNW5XVl8zUm5neVFQaFVWeTQzbkFpSg?oc=5",
+      "source": "WSJ",
+      "published": "Thu, 14 May 2026 22:41:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBuSnRIMDE5c2kxVjZxQWJhRnhiVFBCRG55SGQyU21ydmNCWDJnWlE0SHZzVWNDSFhoOEN6cmthRWZYdTFVZFpadXhpMFBjbXVjeFpwYTdGMlNGbFFFUEU5RHhVNW5XVl8zUm5neVFQaFVWeTQzbkFpSg?oc=5\" target=\"_blank\">LVMH to Sell Marc Jacobs Fashion Brand to WHP, G-III Apparel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>"
+    },
+    {
+      "title": "How to spot quality clothing, according to a fashion expert - NPR",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcnV6MUJpMk5iQkZuQzk2V2J6dFB5ZjdSOFdjLWhDajNVaDVNUm56WmEzWWhERDFiNjFSa01VTGtxQXhRMWh4UjZEMklZQmRCMEdCeXNWZ0RXQ3dSMHhoTktOcklkUUQ0alIxdGd6WUFaZTQyN2Q0UGhYVk02c1VQWUFR?oc=5",
+      "source": "NPR",
+      "published": "Thu, 14 May 2026 09:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQcnV6MUJpMk5iQkZuQzk2V2J6dFB5ZjdSOFdjLWhDajNVaDVNUm56WmEzWWhERDFiNjFSa01VTGtxQXhRMWh4UjZEMklZQmRCMEdCeXNWZ0RXQ3dSMHhoTktOcklkUUQ0alIxdGd6WUFaZTQyN2Q0UGhYVk02c1VQWUFR?oc=5\" target=\"_blank\">How to spot quality clothing, according to a fashion expert</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NPR</font>"
+    },
+    {
+      "title": "In Italy, Princess Catherine Puts Her Wardrobe to Work - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObFpDcjBneVFDOXMxa2hfbkU2SFpzcmRuMEtqRS1rVW00YTB0TDFGc2M4ZVFJZGZlQXREanBWeG5Id1V6XzZFaFJrdFJqbFZHb2pJR1R1RjlHSDFUckxIZ01CMF9fcUNTVXhRSzlMd25CTW9CTW1NWWNFUnJTX21NVmJVa1k?oc=5",
+      "source": "The New York Times",
+      "published": "Fri, 15 May 2026 13:45:16 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxObFpDcjBneVFDOXMxa2hfbkU2SFpzcmRuMEtqRS1rVW00YTB0TDFGc2M4ZVFJZGZlQXREanBWeG5Id1V6XzZFaFJrdFJqbFZHb2pJR1R1RjlHSDFUckxIZ01CMF9fcUNTVXhRSzlMd25CTW9CTW1NWWNFUnJTX21NVmJVa1k?oc=5\" target=\"_blank\">In Italy, Princess Catherine Puts Her Wardrobe to Work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+    },
+    {
+      "title": "Petra Collins Loves Fashion That Makes You Uncomfortable - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdVFSYjA3cUdEM3RiclBUUjZzb2xqdHpTWHFhMlFjSHFzczYxZGFjOGxzQy1Hem1rQ0t3a3RpSkRXcWpZRW1nYno5bGdWYTlYNDJZMmI5aFQ3OXpXYmYyN3lfU1ZlSFJRT3FhU0hLd25hT1g1cjh0WW9va1BkY2xuX3lRZlZpMkFrTEdBOF9nQXZPS1I4djUzdFVCTGE3R1NQTVpjREdR?oc=5",
+      "source": "Yahoo",
+      "published": "Fri, 15 May 2026 14:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPdVFSYjA3cUdEM3RiclBUUjZzb2xqdHpTWHFhMlFjSHFzczYxZGFjOGxzQy1Hem1rQ0t3a3RpSkRXcWpZRW1nYno5bGdWYTlYNDJZMmI5aFQ3OXpXYmYyN3lfU1ZlSFJRT3FhU0hLd25hT1g1cjh0WW9va1BkY2xuX3lRZlZpMkFrTEdBOF9nQXZPS1I4djUzdFVCTGE3R1NQTVpjREdR?oc=5\" target=\"_blank\">Petra Collins Loves Fashion That Makes You Uncomfortable</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>"
+    },
+    {
+      "title": "All the Fashion From the Cannes Film Festival 2026 - Vanity Fair",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONEVTYXluTVpya2c5aS1JWjJfeTFSYXlYS2RrVHc3Z09iWW8tSTdzd1dEVlhwMzhqdUFYY1RFTXA0aEtUd2FCY1BMMERPOG5MbE10eFgxaTBjMDdRdUlHTHAxRzgwd0EzaFlCTS1udnRhSjZWXzVDZnlCc2loZ09NNlhYMzZsWEdGNE1HeDc0Z2NLdzJLRlR6b2RR?oc=5",
+      "source": "Vanity Fair",
+      "published": "Fri, 15 May 2026 13:59:15 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxONEVTYXluTVpya2c5aS1JWjJfeTFSYXlYS2RrVHc3Z09iWW8tSTdzd1dEVlhwMzhqdUFYY1RFTXA0aEtUd2FCY1BMMERPOG5MbE10eFgxaTBjMDdRdUlHTHAxRzgwd0EzaFlCTS1udnRhSjZWXzVDZnlCc2loZ09NNlhYMzZsWEdGNE1HeDc0Z2NLdzJLRlR6b2RR?oc=5\" target=\"_blank\">All the Fashion From the Cannes Film Festival 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vanity Fair</font>"
+    },
+    {
+      "title": "Jamie Knowles ’10: Sculpting a Creative Career Across Art, Fashion and Media - Davidson College",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbFltQWwtZDhnTVN4ZW8wMFhiM2RlaEF1TDBLT0xCS3FzLWRIOUFEWWk4bHl4dTRyd2phUjV5MmM2MENMVG9laTFGLUNaZjI1TnZWRV9BUUhvZXNJR3c3Nk1pb3J2bUJvOWx4Y252ZS1kS3p3UE4weDNBdEV3dm45WWVwa2lNN1E0cnNQYTg4bnp4R2h5NmFjQ0hES0psNG9Jckc1QmRlN0xnOEV2R3VieHJB?oc=5",
+      "source": "Davidson College",
+      "published": "Fri, 15 May 2026 15:56:15 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQbFltQWwtZDhnTVN4ZW8wMFhiM2RlaEF1TDBLT0xCS3FzLWRIOUFEWWk4bHl4dTRyd2phUjV5MmM2MENMVG9laTFGLUNaZjI1TnZWRV9BUUhvZXNJR3c3Nk1pb3J2bUJvOWx4Y252ZS1kS3p3UE4weDNBdEV3dm45WWVwa2lNN1E0cnNQYTg4bnp4R2h5NmFjQ0hES0psNG9Jckc1QmRlN0xnOEV2R3VieHJB?oc=5\" target=\"_blank\">Jamie Knowles ’10: Sculpting a Creative Career Across Art, Fashion and Media</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Davidson College</font>"
+    },
+    {
+      "title": "WTA to debut athlete-focused fashion series - Sports Business Journal",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUmhYalJqTjNyMjhLRnF3dGFxcVNCMm5MdmI1Rk1NNWU0enRXaVkwcTJWSjcxZWVLdXNiNWVlZXloTGt5NUdYZGROalVuZnpIdF9fSVRMOUdPaUtqTUJEeDA3bnlxY1JKcmNBcFA3UVJBU1RKUW5PWTJLcElMMHNZLUFoZENmSHphZjhBUEJLcmd0QlM1UWNxT2xkRWZkbDB5SDNqSQ?oc=5",
+      "source": "Sports Business Journal",
+      "published": "Fri, 15 May 2026 12:41:55 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPUmhYalJqTjNyMjhLRnF3dGFxcVNCMm5MdmI1Rk1NNWU0enRXaVkwcTJWSjcxZWVLdXNiNWVlZXloTGt5NUdYZGROalVuZnpIdF9fSVRMOUdPaUtqTUJEeDA3bnlxY1JKcmNBcFA3UVJBU1RKUW5PWTJLcElMMHNZLUFoZENmSHphZjhBUEJLcmd0QlM1UWNxT2xkRWZkbDB5SDNqSQ?oc=5\" target=\"_blank\">WTA to debut athlete-focused fashion series</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sports Business Journal</font>"
     },
     {
       "title": "Dressing well is an exercise. These activewear, beauty and fashion items will get you there this May - Los Angeles Times",
@@ -402,30 +423,16 @@
       "source": "Los Angeles Times",
       "published": "Fri, 15 May 2026 10:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPekhObFlndkE3U2Y2MmtRRnpvX0xMc3BYTHE3alhRcFB1WGY4WjlnSnh4WEtSdm1iQWNUZVpzV1NaUTl1N21WTGtxakVmdk9uUk5xeDQ2bVVaUWRoMFk3ZWxmVkF2MDFZazVkLXFuV2hZaE5tV2R3R2JKVWlHSDZNWnJKVXBwTHpNTWR3?oc=5\" target=\"_blank\">Dressing well is an exercise. These activewear, beauty and fashion items will get you there this May</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>"
-    },
-    {
-      "title": "From sketch to runway, Cleveland students showcase their fashion visions - Signal Cleveland",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS0duR05fUmVDNlpIU003MXlsTXZJT1g4bC1UdXhJcjN5M0c3NTJRUmc0eXE0RjU4OHZ4bWN0QWxyM01DQzdMalcxYUFSRmFzTWVCWUlxeGktRVhKRUN5X2FmcmpLVnRCM3JYNS1GTDZHZ1ZQVkMxV3B1SU03NDF1RHBYeGdFN3dHakh6OTJSV2ZpRmc2X1NqQVN2MGhaa0hHVVpNVDhwbUh1UWVqRHc?oc=5",
-      "source": "Signal Cleveland",
-      "published": "Fri, 15 May 2026 04:05:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPS0duR05fUmVDNlpIU003MXlsTXZJT1g4bC1UdXhJcjN5M0c3NTJRUmc0eXE0RjU4OHZ4bWN0QWxyM01DQzdMalcxYUFSRmFzTWVCWUlxeGktRVhKRUN5X2FmcmpLVnRCM3JYNS1GTDZHZ1ZQVkMxV3B1SU03NDF1RHBYeGdFN3dHakh6OTJSV2ZpRmc2X1NqQVN2MGhaa0hHVVpNVDhwbUh1UWVqRHc?oc=5\" target=\"_blank\">From sketch to runway, Cleveland students showcase their fashion visions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Signal Cleveland</font>"
-    },
-    {
-      "title": "SCAD Fashion Jury Show from a Non-Fashion Major - scadconnector.com",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcFd4dFF3TUJBNjZ6WHE3RGdla3lsMG1GaXk1RXowZi0zVG5iMVprRkZGRHQ4ckZaYmhlNmtNbkgwczF2MnZfVnZ3dVNwbDlWWUlaTUFxbEhjWmd4UEFtTVljR3kyS1hlV19tRi1WZTY4NmI0UmhONG1sQUQyaGszWWtKclFPZ3c4Ym1nWTd3?oc=5",
-      "source": "scadconnector.com",
-      "published": "Fri, 15 May 2026 09:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNcFd4dFF3TUJBNjZ6WHE3RGdla3lsMG1GaXk1RXowZi0zVG5iMVprRkZGRHQ4ckZaYmhlNmtNbkgwczF2MnZfVnZ3dVNwbDlWWUlaTUFxbEhjWmd4UEFtTVljR3kyS1hlV19tRi1WZTY4NmI0UmhONG1sQUQyaGszWWtKclFPZ3c4Ym1nWTd3?oc=5\" target=\"_blank\">SCAD Fashion Jury Show from a Non-Fashion Major</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">scadconnector.com</font>"
-    },
-    {
-      "title": "Interwoven: Stephens College’s 82nd Annual Fashion Show Highlights Emerging Designers - COMO Magazine",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbWVfbk5LblFOcnhibzJCRmF5bmpuMlFKVHhla3ZYNnEtcUhpMVN5S2VZVWtZMHJYWFAyUy1OZFBmVmY2ZVdoMUNfbk02Q3FHMk0tZmxTQnQtd0ZLeWJaVUdjZDZPRldXMEJpRmN2OGZyVHNQYUoxWEhmdV9xTkFuYlBfa3E5NzIxQzIxSlFFZ2poeW82MHFWMklNS1l0Vk5qVzBUQ1VmX2lkT2E2SFNjcGd1NGdRZw?oc=5",
-      "source": "COMO Magazine",
-      "published": "Fri, 15 May 2026 13:03:48 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQbWVfbk5LblFOcnhibzJCRmF5bmpuMlFKVHhla3ZYNnEtcUhpMVN5S2VZVWtZMHJYWFAyUy1OZFBmVmY2ZVdoMUNfbk02Q3FHMk0tZmxTQnQtd0ZLeWJaVUdjZDZPRldXMEJpRmN2OGZyVHNQYUoxWEhmdV9xTkFuYlBfa3E5NzIxQzIxSlFFZ2poeW82MHFWMklNS1l0Vk5qVzBUQ1VmX2lkT2E2SFNjcGd1NGdRZw?oc=5\" target=\"_blank\">Interwoven: Stephens College’s 82nd Annual Fashion Show Highlights Emerging Designers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">COMO Magazine</font>"
     }
   ],
   "NationalDevelopment": [
+    {
+      "title": "Chinese government officials meet with CEOs of US enterprises Boeing, GE Aerospace, Qualcomm, Cargill - Global Times",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04ZTB3eGgtSlNta3d6TnVTMlMzRDlsbjN5S3ZoTE9TQnZZNGgwVldONXRrcm5RQkNSdHhCcHVuSnNNcUNHWVg4a0M0TEhDVjhjaEk0bDdmZi04RnFNcF8wUE1R?oc=5",
+      "source": "Global Times",
+      "published": "Fri, 15 May 2026 14:46:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE04ZTB3eGgtSlNta3d6TnVTMlMzRDlsbjN5S3ZoTE9TQnZZNGgwVldONXRrcm5RQkNSdHhCcHVuSnNNcUNHWVg4a0M0TEhDVjhjaEk0bDdmZi04RnFNcF8wUE1R?oc=5\" target=\"_blank\">Chinese government officials meet with CEOs of US enterprises Boeing, GE Aerospace, Qualcomm, Cargill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global Times</font>"
+    },
     {
       "title": "Contribute to national development by telling ‘good stories’ of China and Hong Kong, John Lee tells journalists - Hong Kong Free Press HKFP",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaUVZcjJLSWdVM2FvMXp4WFVLLWJYaWlLSWo1T1A0MW9tb1dZZ3BVVDhpOVlKRGppUU80LXlkeVVKTDRESWxfVG1nN0xhY1BnWmI4S1YwRGhqSU90bXdFM25rUFVXWjFzY0lKQVhHSldhdDZBQW1GTzFkY043b0FYNlZ2RGtHcF9oZkswNDF2d21aeTZWSVd1SVlqU1NqNXZIS1hrejBkdEx4dlZ2V1A0WGxoTnl2Qmt0NjBaUUZtRkZyWkdnZEROa3cxdTZnbVVfMG4wbWMxcEYtb00?oc=5",
@@ -439,6 +446,13 @@
       "source": "Charlotte County, FL (.gov)",
       "published": "Wed, 13 May 2026 14:43:58 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN3RrWHJtai1VNVlLUmNfei1GWkFLYlpubU5pY0lvNU9QdnZKUzcyUFJnc1FiaWUyX2N0TGtDZkNsNi00azBOSXRhZTh3Rk14dGJBUXJjY1JUcnB6S3o5SlJXYThua0NFbFlUNmRwLUtYa2JMaTBnV0MtejF2Ql9QYzRYUE10LUdJX3dCLVNHVDZrWk9yblQ4TnhuWVlxTmFCYWx1VGsyX0JBRjQ?oc=5\" target=\"_blank\">Charlotte County Recognizes National Economic Development Week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Charlotte County, FL (.gov)</font>"
+    },
+    {
+      "title": "Business and philanthropy giant Dennis Lalor dies - Jamaica Gleaner",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUDBaMi1RZmE3MTMwNFdlTXZ6Z0dxUzk1SG9heDR1bnlnVmFKYkxIVmE3REJmY1NERk11T0ttaFQwbGdYWDdfQjhTTDEzd2JHaU9IMmY5ZDdRQ3ZsZUUxYllhTnhnS1I2ODUyc0NwMnQ1M3lrM01GNXdDamJNVjBmcWVtOUIxR0FobGFGVUJhUTVfNTRrRGtzTmZDanJtSUk?oc=5",
+      "source": "Jamaica Gleaner",
+      "published": "Fri, 15 May 2026 13:42:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQUDBaMi1RZmE3MTMwNFdlTXZ6Z0dxUzk1SG9heDR1bnlnVmFKYkxIVmE3REJmY1NERk11T0ttaFQwbGdYWDdfQjhTTDEzd2JHaU9IMmY5ZDdRQ3ZsZUUxYllhTnhnS1I2ODUyc0NwMnQ1M3lrM01GNXdDamJNVjBmcWVtOUIxR0FobGFGVUJhUTVfNTRrRGtzTmZDanJtSUk?oc=5\" target=\"_blank\">Business and philanthropy giant Dennis Lalor dies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jamaica Gleaner</font>"
     },
     {
       "title": "Hong Kong urged to shift from role as ‘superconnector’ to ‘value-adder’ - South China Morning Post",
@@ -455,18 +469,25 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNzlCRTlXRmZmcUYtc240VVZEMzA2aTRxMEZ0QzZRcHZkdzhyM0EzY1VEaWtVYnBKVjJCankwU003MS1aU3ZGd0NNcUl6YzZVM2JldV81c21GVGlBRWxTcHRQZHg1dnhFQWdXeDdNcnpFNmlzN0lxX3pIODVOMTZYcmwwS3I2OEMwSkdSZG9FVGZVbm9ONFZKWnp0b1NhUWpDdWMxb0tOT1p1ck0wMnRRTmFCZ08xX0dTNVNoNUdod3B0dHRXbzR2bkc3dWt6SGFrdUk4c0k5X0RYWnpZa2kxQk5NYy1qdFJHRG5Qblh0X0JnQQ?oc=5\" target=\"_blank\">North Korea's Kim urges workers to drive development goals as socialist 'vanguard'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Korea JoongAng Daily</font>"
     },
     {
-      "title": "China-Central Asia forum focuses on promoting human rights progress through high-quality development - Global Times",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PcHFabkhZWWhKOTN3Q3pWeU9WUUtxS0VfMjZNUUlUcXQ0VUpxZU8wcHpzYzJuNU1YMUQ0aUtEWVRUa3UzQi1vdTNPcEEweFlBZUxsQ01xV1JjQzJVRFB0U1Rn?oc=5",
-      "source": "Global Times",
-      "published": "Fri, 15 May 2026 01:59:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PcHFabkhZWWhKOTN3Q3pWeU9WUUtxS0VfMjZNUUlUcXQ0VUpxZU8wcHpzYzJuNU1YMUQ0aUtEWVRUa3UzQi1vdTNPcEEweFlBZUxsQ01xV1JjQzJVRFB0U1Rn?oc=5\" target=\"_blank\">China-Central Asia forum focuses on promoting human rights progress through high-quality development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global Times</font>"
-    },
-    {
       "title": "Hyundai Motor’s Chung Says Labor Disputes Must Consider Shareholders, National Development - bloomingbit",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JaTUxQzhNcWVGLXppWElCT2dXaFNmM1dYSGJudC1KSGRNMGlfQ1ZUTXJodVptOXp0U0tLTi1ZekNlYTlCa2YweHhaTnkxVDEtd2dTNA?oc=5",
       "source": "bloomingbit",
       "published": "Thu, 14 May 2026 09:18:49 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JaTUxQzhNcWVGLXppWElCT2dXaFNmM1dYSGJudC1KSGRNMGlfQ1ZUTXJodVptOXp0U0tLTi1ZekNlYTlCa2YweHhaTnkxVDEtd2dTNA?oc=5\" target=\"_blank\">Hyundai Motor’s Chung Says Labor Disputes Must Consider Shareholders, National Development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bloomingbit</font>"
+    },
+    {
+      "title": "Union Minister Shri Jayant Chaudhary Represents India at Uganda Presidential Swearing-In Ceremony - PIB",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rUUlhYnNyY2c2NXR1cGN3UEh3Vi1JOXFtUlA3SW9LeDRhX3oxYmRwWEdIMjdNTVZwOENQR1pBU19xbS1IejNRREg1VmZDVGJVUmV5N2tCMDhjTGgtZHQ2UzBzWDQ0cU1L?oc=5",
+      "source": "PIB",
+      "published": "Fri, 15 May 2026 14:40:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rUUlhYnNyY2c2NXR1cGN3UEh3Vi1JOXFtUlA3SW9LeDRhX3oxYmRwWEdIMjdNTVZwOENQR1pBU19xbS1IejNRREg1VmZDVGJVUmV5N2tCMDhjTGgtZHQ2UzBzWDQ0cU1L?oc=5\" target=\"_blank\">Union Minister Shri Jayant Chaudhary Represents India at Uganda Presidential Swearing-In Ceremony</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PIB</font>"
+    },
+    {
+      "title": "Egypt keen to lure more FDIs, boost private sector role in development - Egyptian Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVWEwN0NPY1ZGbC1TSFZBeFlnTGtmQ3pfaWFaM2tHNHVzdWZ0eHBFNEdJWm9rLXFOcWNlV0QwLXk2RzI1aWZlOTUybGpjXy1GYVh5OVVyZ0FXeU9hUDJHaXdWeThfeG4zaFB1cUhhUTBUM3doWXJlYm5BVGE0TzROdlZBT3FubmhYOG1INm82V1lHN2ZYbWtCcGJ1VllfUUJmRkJUbVJRWGo?oc=5",
+      "source": "Egyptian Gazette",
+      "published": "Fri, 15 May 2026 09:15:03 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVWEwN0NPY1ZGbC1TSFZBeFlnTGtmQ3pfaWFaM2tHNHVzdWZ0eHBFNEdJWm9rLXFOcWNlV0QwLXk2RzI1aWZlOTUybGpjXy1GYVh5OVVyZ0FXeU9hUDJHaXdWeThfeG4zaFB1cUhhUTBUM3doWXJlYm5BVGE0TzROdlZBT3FubmhYOG1INm82V1lHN2ZYbWtCcGJ1VllfUUJmRkJUbVJRWGo?oc=5\" target=\"_blank\">Egypt keen to lure more FDIs, boost private sector role in development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Egyptian Gazette</font>"
     },
     {
       "title": "National support empowers city’s first five-year plan - chinadailyasia.com",
@@ -476,6 +497,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YUTNET3UzeUtTY1FHYk8tTl8tY2QwTU9kZ3BaSHVqZmRfUWZqa3MwMnB3b3Y2RjNTT25TeFdRMHNrRElOTnR6dGRyd214c2xlUkh2WU1nTHg?oc=5\" target=\"_blank\">National support empowers city’s first five-year plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">chinadailyasia.com</font>"
     },
     {
+      "title": "National Development Secures Approval for 950,000 SF State-of-the-Art Industrial Campus in Hudson, MA - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOYXBmZUY2M2l0a21YT0xPYmJvUWxuTWRHOWt6ZklGaHNnYU8wNlVraVlRbHY4Z0YyU1NoSGtmcDVMOUZGODU2WURncVFqa19kRFZ5MVVpbW5lRmRadmJqcnBCdkJQSGNxaVBuVzJRemVhWUY4VXZIOWprQnVqWmVlS3JZdWRZUUZZaWg2VndSMkxBdVN4SDJZcUVqbmxncUxsWklHNGRNM0R1STV2T2tjRS1xUXkyMG51VmNiS2owdE85eXdYYk9vNDRja1NRRFlSY0dnSndxcWRwUDdDMElCc3hHUS1qQkx5Y1UxbQ?oc=5",
+      "source": "PR Newswire",
+      "published": "Mon, 13 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOYXBmZUY2M2l0a21YT0xPYmJvUWxuTWRHOWt6ZklGaHNnYU8wNlVraVlRbHY4Z0YyU1NoSGtmcDVMOUZGODU2WURncVFqa19kRFZ5MVVpbW5lRmRadmJqcnBCdkJQSGNxaVBuVzJRemVhWUY4VXZIOWprQnVqWmVlS3JZdWRZUUZZaWg2VndSMkxBdVN4SDJZcUVqbmxncUxsWklHNGRNM0R1STV2T2tjRS1xUXkyMG51VmNiS2owdE85eXdYYk9vNDRja1NRRFlSY0dnSndxcWRwUDdDMElCc3hHUS1qQkx5Y1UxbQ?oc=5\" target=\"_blank\">National Development Secures Approval for 950,000 SF State-of-the-Art Industrial Campus in Hudson, MA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>"
+    },
+    {
+      "title": "National development pathways shape climate stress at cultural world heritage sites globally - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80eUVzS3Qzb202LTRRREN4WUdFcjBBelhKYUhzZGc5UDh3a3NlNXoyYVhtVW1kNk4yLUUxZHpPVmp2V2R4YXN3ckZFTzNqZjc1WEZ6TUc3UkVscXZiV21B?oc=5",
+      "source": "Nature",
+      "published": "Thu, 16 Apr 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE80eUVzS3Qzb202LTRRREN4WUdFcjBBelhKYUhzZGc5UDh3a3NlNXoyYVhtVW1kNk4yLUUxZHpPVmp2V2R4YXN3ckZFTzNqZjc1WEZ6TUc3UkVscXZiV21B?oc=5\" target=\"_blank\">National development pathways shape climate stress at cultural world heritage sites globally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>"
+    },
+    {
       "title": "Boakai Calls for Shared Responsibility in Nation-Building - liberianobserver.com",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOR0RVRU1tRzRUaHFheDYxeVFtUE5nQW1HMWJET3JYZnhkMHBSOVdnVEZJY1BOcm4yNER2M21xcTZFdXBpVlFiNGJRdDhXNllwVVZsNTQyQzlXb2l1OFNYTEw1d2tNQ1Njbmw2dUNPU01yZVB6YlZoS09tSFVkbTdoUGRPcHN4cFBRNmZnQjhqRXhhMXNPS2dDRHVVdUExRTByem5KcFEtWFFWZHRhdGlqbVdHT2hHakdRXzFGSUtjU2pKM2c4aWFYNGdqb055NUlIeFpHUW9ObzB1cXo4aUE?oc=5",
       "source": "liberianobserver.com",
@@ -483,11 +518,11 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOR0RVRU1tRzRUaHFheDYxeVFtUE5nQW1HMWJET3JYZnhkMHBSOVdnVEZJY1BOcm4yNER2M21xcTZFdXBpVlFiNGJRdDhXNllwVVZsNTQyQzlXb2l1OFNYTEw1d2tNQ1Njbmw2dUNPU01yZVB6YlZoS09tSFVkbTdoUGRPcHN4cFBRNmZnQjhqRXhhMXNPS2dDRHVVdUExRTByem5KcFEtWFFWZHRhdGlqbVdHT2hHakdRXzFGSUtjU2pKM2c4aWFYNGdqb055NUlIeFpHUW9ObzB1cXo4aUE?oc=5\" target=\"_blank\">Boakai Calls for Shared Responsibility in Nation-Building</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">liberianobserver.com</font>"
     },
     {
-      "title": "Transitioning JUTC for national development - Jamaica Observer",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZEJaOXhEbVB4OVJqTllHTTBSdnprdHF6ZXNFNm14VXMxQUE3cnBXRVY5bGZSX2hsdjYtdjNTTGo1Zmh0Um5tZ2hGTEd1c0JGYmtRMDhsLXIweldfRFZneFJKek9icGFBUndhUng0c1ZrV2szWktldVhYb1cyc3VHWDFNWTB0UkNqUk9B?oc=5",
-      "source": "Jamaica Observer",
-      "published": "Fri, 15 May 2026 05:05:36 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZEJaOXhEbVB4OVJqTllHTTBSdnprdHF6ZXNFNm14VXMxQUE3cnBXRVY5bGZSX2hsdjYtdjNTTGo1Zmh0Um5tZ2hGTEd1c0JGYmtRMDhsLXIweldfRFZneFJKek9icGFBUndhUng0c1ZrV2szWktldVhYb1cyc3VHWDFNWTB0UkNqUk9B?oc=5\" target=\"_blank\">Transitioning JUTC for national development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jamaica Observer</font>"
+      "title": "Pension Funds urged to be proactive partners in national growth - The Herald ZW",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWDZ6R3FGLVBheFJVM1lHUTVUWmI2c200SHJjYUNBRVRYR0VmV0pVQmZBMzh3VWRyODV4VERyMzBBYWlyNDFjdnUwMVE5c0JlcVdlQ1hGanRpeHdYc3pMeEZuWkJqQ2FraGYyR0d1dDAtZThaekUzYjFsRDBOcUIzdnp1ZkU4M2RkOUgyRXJVb2pCaXRhTzd5M21SZw?oc=5",
+      "source": "The Herald ZW",
+      "published": "Fri, 15 May 2026 15:04:59 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNWDZ6R3FGLVBheFJVM1lHUTVUWmI2c200SHJjYUNBRVRYR0VmV0pVQmZBMzh3VWRyODV4VERyMzBBYWlyNDFjdnUwMVE5c0JlcVdlQ1hGanRpeHdYc3pMeEZuWkJqQ2FraGYyR0d1dDAtZThaekUzYjFsRDBOcUIzdnp1ZkU4M2RkOUgyRXJVb2pCaXRhTzd5M21SZw?oc=5\" target=\"_blank\">Pension Funds urged to be proactive partners in national growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Herald ZW</font>"
     },
     {
       "title": "Four local swimming clubs unite for National Development Camp in Cayman Brac - Cayman Compass",
@@ -497,74 +532,39 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPbWptLXNHNTd2YXdEWXlsODlacU5jTFYzY01FeUJwc2JmcUlLb2t0SUNBUGgyRUwtNnpMdTVINWdCQ0Z1Zk1yRFR6TVBjZDhSdFo2REJUOURLTmc4TER0ekk3UktZWWZsMk56ZXVxNkdHS01MLWRQVXZTbHNlMWg3OFhoS3lWSl8wZUUwV2ZYQWlBV3UxUzFEdnhoUlhFUXJxYzhpbDVTV0hsenY5amt5b1J1SjdrTVlxWEE?oc=5\" target=\"_blank\">Four local swimming clubs unite for National Development Camp in Cayman Brac</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cayman Compass</font>"
     },
     {
-      "title": "Julius Debrah tasks NCDS Course 3-2026 participants to drive Africa’s security and sustainable development - Modern Ghana",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM3RnQ01MU0h5WTJCRDU2XzNPVE5tQ0pSekVRRnl3NXJEN3ZIVWFsWmdHWU5LNl9iR1Q1dkJLMWtSMnZHU1lud1luYnFmR1o4aHkwT3V5NThUWnhYNDljcDlOV1FScUxqQmw4enFNajExTm1pN3hlWlR1TVlKWEI1cGpzMUtYRVd6NUoydmhnbDNtLXNhSmtXaWNmZ2XSAZsBQVVfeXFMTUVmMFF1dnBjeXM4Rm81c2p6MzRTb0w3Rl9PVWFFZU5VaGpkbDQ2dnBwdEl4ZTduWW9ETk9ESTFmazVFZFFuT1BjSVo1Mjl0VW5ISEhGcXpBU2lBUnZGcnFmVGZ3azZYTnNLV3dmOHJtVE4xQTVkLVhMekFYZjBnNjRzRE00bG93S0JjVGRyWGFPa2FBMXNlcERkVEE?oc=5",
-      "source": "Modern Ghana",
-      "published": "Thu, 14 May 2026 18:27:01 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNM3RnQ01MU0h5WTJCRDU2XzNPVE5tQ0pSekVRRnl3NXJEN3ZIVWFsWmdHWU5LNl9iR1Q1dkJLMWtSMnZHU1lud1luYnFmR1o4aHkwT3V5NThUWnhYNDljcDlOV1FScUxqQmw4enFNajExTm1pN3hlWlR1TVlKWEI1cGpzMUtYRVd6NUoydmhnbDNtLXNhSmtXaWNmZ2XSAZsBQVVfeXFMTUVmMFF1dnBjeXM4Rm81c2p6MzRTb0w3Rl9PVWFFZU5VaGpkbDQ2dnBwdEl4ZTduWW9ETk9ESTFmazVFZFFuT1BjSVo1Mjl0VW5ISEhGcXpBU2lBUnZGcnFmVGZ3azZYTnNLV3dmOHJtVE4xQTVkLVhMekFYZjBnNjRzRE00bG93S0JjVGRyWGFPa2FBMXNlcERkVEE?oc=5\" target=\"_blank\">Julius Debrah tasks NCDS Course 3-2026 participants to drive Africa’s security and sustainable development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Modern Ghana</font>"
+      "title": "National Development Plan Keeps Revolutionary War–Era Glover House Intact - Swampscott Tides",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNER2RDBjckZLMWtsVi02cWFJeXFMdG5kZlJJMkhlT2ZCUXgwSUs2V0J3eEtnNTNXVlhkYi1qcE9CMENHZGRuU1NLVVJZa2JEMnJsV3YyZ2c5empiR1hGLTNvVkZ0X1dIelF2NW5kUzN1NjRGOThHaHBiUC1PSlRyUVdEdWVzUFBlNlU5UFJsbkdaTi1JQmJnamZQaVd2bFl1Y19KcXUtWkFtajA?oc=5",
+      "source": "Swampscott Tides",
+      "published": "Tue, 10 Mar 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNER2RDBjckZLMWtsVi02cWFJeXFMdG5kZlJJMkhlT2ZCUXgwSUs2V0J3eEtnNTNXVlhkYi1qcE9CMENHZGRuU1NLVVJZa2JEMnJsV3YyZ2c5empiR1hGLTNvVkZ0X1dIelF2NW5kUzN1NjRGOThHaHBiUC1PSlRyUVdEdWVzUFBlNlU5UFJsbkdaTi1JQmJnamZQaVd2bFl1Y19KcXUtWkFtajA?oc=5\" target=\"_blank\">National Development Plan Keeps Revolutionary War–Era Glover House Intact</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Swampscott Tides</font>"
     },
     {
-      "title": "National Development Acquires Class A Wellesley Offices for Repositioning - Connect CRE",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPXzNscndhS0hpMHB5MmpHUzFHYkdFZl9weHYzYmg4QWlndlNoYWROWmhXdm9LNmlzRnlLcmRMUVNELWh2TFZlWldrbU1lVFZCQ3JUakdDOVAtOUV3S3RUaTVMTkJPLUl2TlZKV2EzdG45VEE3T0JzSFBzd0Z0d1lyUXRmdEdqY1lKNnN3c0xkOFdhNEdzUElOVUcteDRJdlVUY0RpZnEwR20zcXlKLUE?oc=5",
-      "source": "Connect CRE",
-      "published": "Tue, 28 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPXzNscndhS0hpMHB5MmpHUzFHYkdFZl9weHYzYmg4QWlndlNoYWROWmhXdm9LNmlzRnlLcmRMUVNELWh2TFZlWldrbU1lVFZCQ3JUakdDOVAtOUV3S3RUaTVMTkJPLUl2TlZKV2EzdG45VEE3T0JzSFBzd0Z0d1lyUXRmdEdqY1lKNnN3c0xkOFdhNEdzUElOVUcteDRJdlVUY0RpZnEwR20zcXlKLUE?oc=5\" target=\"_blank\">National Development Acquires Class A Wellesley Offices for Repositioning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Connect CRE</font>"
+      "title": "Augusta National, Masters Tournament Charities Commit $1.5 Million to USNDP's State Junior Teams - USGA",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTTJDNHk0OXA0WTBTNWpIanFMNXVmWmkzWTdoNUpMck9IRTNXU05Wa09fWmQzSEd3NU1uMnh6WVh1elZraWEtdVo3aWlXSFNHdHh0ZHNhZmNyaUtELVgyQ2F0UkF0el9iaHMyeUdybGhTZzdoRUpwOU1JYVpUVE44WlY0dHJyRV81Zk1tRTBHUGYyLWhTTG1WLXZhNnJsa25KOUlDOUp3?oc=5",
+      "source": "USGA",
+      "published": "Thu, 26 Feb 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOTTJDNHk0OXA0WTBTNWpIanFMNXVmWmkzWTdoNUpMck9IRTNXU05Wa09fWmQzSEd3NU1uMnh6WVh1elZraWEtdVo3aWlXSFNHdHh0ZHNhZmNyaUtELVgyQ2F0UkF0el9iaHMyeUdybGhTZzdoRUpwOU1JYVpUVE44WlY0dHJyRV81Zk1tRTBHUGYyLWhTTG1WLXZhNnJsa25KOUlDOUp3?oc=5\" target=\"_blank\">Augusta National, Masters Tournament Charities Commit $1.5 Million to USNDP's State Junior Teams</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USGA</font>"
     },
     {
-      "title": "Top Vietnamese leader calls for clearer national development model - VOV",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVEc5V3FNSGtpbFFEeGoxbWxoZWdNSi1CMWtjNFpUTV8xOUg3V2M4MGRkX2JYYW8tZEVib25HamxDVmRvZWppbGJBZ1IxdmF1OW8xa2l6NkdfRGlYOG84OGloNzRZNk1LTzgxQUtnNnVpLXVXSUVlUjgydm9GQWJNTHZvY1NMNU1XRVo1dS1NQ2hWTnptN2VILWhDLVFxbXhlM2d5QUtPUDUyLW9EU21XbWNndWpQMHpi?oc=5",
-      "source": "VOV",
-      "published": "Thu, 14 May 2026 07:03:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVEc5V3FNSGtpbFFEeGoxbWxoZWdNSi1CMWtjNFpUTV8xOUg3V2M4MGRkX2JYYW8tZEVib25HamxDVmRvZWppbGJBZ1IxdmF1OW8xa2l6NkdfRGlYOG84OGloNzRZNk1LTzgxQUtnNnVpLXVXSUVlUjgydm9GQWJNTHZvY1NMNU1XRVo1dS1NQ2hWTnptN2VILWhDLVFxbXhlM2d5QUtPUDUyLW9EU21XbWNndWpQMHpi?oc=5\" target=\"_blank\">Top Vietnamese leader calls for clearer national development model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VOV</font>"
+      "title": "Team NC and Team SC Announce 2026 U.S. National Development Program Rosters - Carolinas Golf Association",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQd1ZsTG8tdU5vX0lBTm5yTHFwOWtYeUNpN0thNjAtS0NuaFpLVVhZODU4MTBDdTZab0IxaHk1aWhvdG5HOXpkNFdLcGVwcDdwOGlDVnpyWWlHajNpRHhVNzBtZFowVDVHV3B1UnUwWEkxajk5aklhMk5ELTRYSmQ2VmJRbEx2bUx6Tkx5WHhhZmRWTUFYTUpBUG51VjdmUHg0STBldHg1OXZGb1FHSngtdnZ0Zm04aWxZYmw5NmczS0xIV21UazZVRF9R?oc=5",
+      "source": "Carolinas Golf Association",
+      "published": "Thu, 08 Jan 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQd1ZsTG8tdU5vX0lBTm5yTHFwOWtYeUNpN0thNjAtS0NuaFpLVVhZODU4MTBDdTZab0IxaHk1aWhvdG5HOXpkNFdLcGVwcDdwOGlDVnpyWWlHajNpRHhVNzBtZFowVDVHV3B1UnUwWEkxajk5aklhMk5ELTRYSmQ2VmJRbEx2bUx6Tkx5WHhhZmRWTUFYTUpBUG51VjdmUHg0STBldHg1OXZGb1FHSngtdnZ0Zm04aWxZYmw5NmczS0xIV21UazZVRF9R?oc=5\" target=\"_blank\">Team NC and Team SC Announce 2026 U.S. National Development Program Rosters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Carolinas Golf Association</font>"
     },
     {
-      "title": "Chung Eui-sun Responds to Labor-Management Issues: \"National Development Must Also Be Considered\" - 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54Z3RnQjVGMGc5OHNBOS13bjgzUVhFdkstRVd0NjdHLW5vQlBsMC1pdWo2M29PUTZieFN0a3V2Wjd0dU1yRkZ0TFZNa25aYWVvVVp3?oc=5",
-      "source": "매일경제",
-      "published": "Thu, 14 May 2026 07:25:53 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE54Z3RnQjVGMGc5OHNBOS13bjgzUVhFdkstRVd0NjdHLW5vQlBsMC1pdWo2M29PUTZieFN0a3V2Wjd0dU1yRkZ0TFZNa25aYWVvVVp3?oc=5\" target=\"_blank\">Chung Eui-sun Responds to Labor-Management Issues: \"National Development Must Also Be Considered\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>"
+      "title": "24 Players Named To U.S. National Team Development Camp Which Will Run Concurrently With USWNT Training Camp in Los Angeles - US Soccer",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeEJXR0NhNHRYbTdmd29VdnY0RHRJTm9lRnRybDdkLTZaQjd6V2V2bzRPOVdIdzdvODRSbjZZT21tUUtPcGNVMFBBZHhmLXd4NmsxZElCREpTa2QySTE5YzA1bWxMU0poTkVUNmcyb0VRVUpvSmQ3dlJiTk10NXNGQmhBaE1MS1dFVUdhdDhaVDYydExCazFkMGZ3NDFYeXhKMTY3UTR3ZzllWndOTzNZZ3p5SVlNczd3WWc2dTVOMFVpekx4bnlmVjBlbWIyZUdhRWduY0NpemNpWGo5?oc=5",
+      "source": "US Soccer",
+      "published": "Sat, 24 Jan 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeEJXR0NhNHRYbTdmd29VdnY0RHRJTm9lRnRybDdkLTZaQjd6V2V2bzRPOVdIdzdvODRSbjZZT21tUUtPcGNVMFBBZHhmLXd4NmsxZElCREpTa2QySTE5YzA1bWxMU0poTkVUNmcyb0VRVUpvSmQ3dlJiTk10NXNGQmhBaE1MS1dFVUdhdDhaVDYydExCazFkMGZ3NDFYeXhKMTY3UTR3ZzllWndOTzNZZ3p5SVlNczd3WWc2dTVOMFVpekx4bnlmVjBlbWIyZUdhRWduY0NpemNpWGo5?oc=5\" target=\"_blank\">24 Players Named To U.S. National Team Development Camp Which Will Run Concurrently With USWNT Training Camp in Los Angeles</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">US Soccer</font>"
     },
     {
-      "title": "Telecom sector pillar of national development - Chamber CEO at 15th anniversary launch - Graphic Online",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVGpDeUkxNlVjOE53Zy1WWFVkYjhVblAzQWxOQ0E3UzlhcTdfb0xtWUYxRlMxazJNNTlJNmVLcnBlUzhZREZIZE9Ncnh3eG03ajd0aDlCeXdQVy1GMV9aakc1aVVfNTlEeVFDbFBhak9oNi1xeDZWY0lKU0VBS1NTRXBIcy01clhJanJSNW9sWDZsanFvRXFmUU95Z3gzckg2YktQU3dNclhsQlk3OWx2aV9MTl9OMTcwQ0pMYktiSW9RQ0syZWlMem5zbHp1ZkZ1VFozc01Yd0R0U0VLalE?oc=5",
-      "source": "Graphic Online",
-      "published": "Fri, 15 May 2026 09:58:06 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVGpDeUkxNlVjOE53Zy1WWFVkYjhVblAzQWxOQ0E3UzlhcTdfb0xtWUYxRlMxazJNNTlJNmVLcnBlUzhZREZIZE9Ncnh3eG03ajd0aDlCeXdQVy1GMV9aakc1aVVfNTlEeVFDbFBhak9oNi1xeDZWY0lKU0VBS1NTRXBIcy01clhJanJSNW9sWDZsanFvRXFmUU95Z3gzckg2YktQU3dNclhsQlk3OWx2aV9MTl9OMTcwQ0pMYktiSW9RQ0syZWlMem5zbHp1ZkZ1VFozc01Yd0R0U0VLalE?oc=5\" target=\"_blank\">Telecom sector pillar of national development - Chamber CEO at 15th anniversary launch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Graphic Online</font>"
-    },
-    {
-      "title": "President Ho Chi Minh’s “people-first” ideology promoted for national development - VOV World",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMUFrekwwXzFWeld3UldWQ081bjhBc3F6Q0N3S1p6WlNFN1d0X1l3b1NHTF9ReVNmejRjRVJpVWYzWkdxakw0aHJkeEVOUzhYeHV0UG9MdWUyMUNOMWs3SkhHU0VCMnFqMGR3UExYNWVJS1ZBQkt2RjFCTkFyZDVvcEhJV0VaZzJUSC1tVmFuRnpoY3daYjhwYkQzZjJpUmdHcW5paFBjUk1tb3VDWFJPZTZpTF9iRWpUSG1VczNYTlZLLVNRRURXUHBn?oc=5",
-      "source": "VOV World",
-      "published": "Thu, 14 May 2026 09:26:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQMUFrekwwXzFWeld3UldWQ081bjhBc3F6Q0N3S1p6WlNFN1d0X1l3b1NHTF9ReVNmejRjRVJpVWYzWkdxakw0aHJkeEVOUzhYeHV0UG9MdWUyMUNOMWs3SkhHU0VCMnFqMGR3UExYNWVJS1ZBQkt2RjFCTkFyZDVvcEhJV0VaZzJUSC1tVmFuRnpoY3daYjhwYkQzZjJpUmdHcW5paFBjUk1tb3VDWFJPZTZpTF9iRWpUSG1VczNYTlZLLVNRRURXUHBn?oc=5\" target=\"_blank\">President Ho Chi Minh’s “people-first” ideology promoted for national development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VOV World</font>"
-    },
-    {
-      "title": "Gabi-Williams: Knowledge Infrastructure Key to Sustainable Development - THISDAYLIVE",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVkFaRmZIeVpYU3FuLXpxeDJBMG9menE4b3VlOVpVRFBnMlI3eVNsbjJySzNLNGpHZjVJTjlvbHZDeFl5RE5KeXh3RWRGSGJMR1hEdjR6RWtMSl9xaEh3dzBTR2lOV1hNVnVIenVGeFpjRjhXUThoTGdSNjVqSWpuN09TZElUS2tzUDZ4cDN4VFZjaU9hYnlFLXc2VHhveHdXN2owZ3VRczlxbi14bEE?oc=5",
-      "source": "THISDAYLIVE",
-      "published": "Fri, 15 May 2026 10:39:06 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOVkFaRmZIeVpYU3FuLXpxeDJBMG9menE4b3VlOVpVRFBnMlI3eVNsbjJySzNLNGpHZjVJTjlvbHZDeFl5RE5KeXh3RWRGSGJMR1hEdjR6RWtMSl9xaEh3dzBTR2lOV1hNVnVIenVGeFpjRjhXUThoTGdSNjVqSWpuN09TZElUS2tzUDZ4cDN4VFZjaU9hYnlFLXc2VHhveHdXN2owZ3VRczlxbi14bEE?oc=5\" target=\"_blank\">Gabi-Williams: Knowledge Infrastructure Key to Sustainable Development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">THISDAYLIVE</font>"
-    },
-    {
-      "title": "National Development receives approval for 950,000 s/f industrial project in Hudson - NEREJ",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSmRfdHMtTVludDJ2SzFBWFRpaHhMbFZNR2psZFNIS203dUxZMU9ZdDhxMXJhTDRHS1JpVFlibEFFRVRDZDhvYUJZWXJIQndYU0E4UVh5czFaNmZUOTltaHVwT2RwSmdLS0dlby16RWVJM0I5cjVUbVlNSVdwQV9PckZn?oc=5",
-      "source": "NEREJ",
-      "published": "Fri, 24 Apr 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPSmRfdHMtTVludDJ2SzFBWFRpaHhMbFZNR2psZFNIS203dUxZMU9ZdDhxMXJhTDRHS1JpVFlibEFFRVRDZDhvYUJZWXJIQndYU0E4UVh5czFaNmZUOTltaHVwT2RwSmdLS0dlby16RWVJM0I5cjVUbVlNSVdwQV9PckZn?oc=5\" target=\"_blank\">National Development receives approval for 950,000 s/f industrial project in Hudson</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NEREJ</font>"
-    },
-    {
-      "title": "Green Economy is a necessity for Bangladesh's sustainable development - Prothom Alo English",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FLW55VEVBZTNfUVFNTmJDSm1OcmEyZzJNS2R2TkRfOEI2dlBsb2wwbXB1azJqbkduVE9OZlNSTlA2ejRpSDBUOUN4XzBIS2NHRU91SVRNdWNXSUdvM29n0gFsQVVfeXFMT1J6NEpGV0h4ZnZTZHBvZkJoaGh1TlF2WVczb2xHREVaNkVPdTVyaDg3ZnpLNnU0YjRlVnktQ1FOQ1gzWG5ucG1ZRlpZeFNWb0d6XzQ3TTc0dHpYOWlrdkFWQXAzRG1kcGFlVmYz?oc=5",
-      "source": "Prothom Alo English",
-      "published": "Fri, 15 May 2026 13:00:53 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FLW55VEVBZTNfUVFNTmJDSm1OcmEyZzJNS2R2TkRfOEI2dlBsb2wwbXB1azJqbkduVE9OZlNSTlA2ejRpSDBUOUN4XzBIS2NHRU91SVRNdWNXSUdvM29n0gFsQVVfeXFMT1J6NEpGV0h4ZnZTZHBvZkJoaGh1TlF2WVczb2xHREVaNkVPdTVyaDg3ZnpLNnU0YjRlVnktQ1FOQ1gzWG5ucG1ZRlpZeFNWb0d6XzQ3TTc0dHpYOWlrdkFWQXAzRG1kcGFlVmYz?oc=5\" target=\"_blank\">Green Economy is a necessity for Bangladesh's sustainable development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Prothom Alo English</font>"
-    },
-    {
-      "title": "Top leader expects national major summary project with profound value - vietnamnews.vn",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbXJsWjJRd3dXa01DQ0xFeHMyNjZ5WHdybEdQWHlLUF9ZTEtBNXRrUHpWSmdFMU1HVzVOMnhSSEEwVGVMUzdoM1dueXNjRUFzcXhwd05zZjBVTW9iTElIZHJkYUppdHpqQ3dwYkNmVXU2dXJvMTJLTUwyZnRXcXdPZ3ZVdFhGMWdySm45MVN0cWxTNkVxWGROV3FoalB1anBETWd4MW9sNXZlRWxjcnJWQ0MzcXN2elhpRWJZ?oc=5",
-      "source": "vietnamnews.vn",
-      "published": "Thu, 14 May 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbXJsWjJRd3dXa01DQ0xFeHMyNjZ5WHdybEdQWHlLUF9ZTEtBNXRrUHpWSmdFMU1HVzVOMnhSSEEwVGVMUzdoM1dueXNjRUFzcXhwd05zZjBVTW9iTElIZHJkYUppdHpqQ3dwYkNmVXU2dXJvMTJLTUwyZnRXcXdPZ3ZVdFhGMWdySm45MVN0cWxTNkVxWGROV3FoalB1anBETWd4MW9sNXZlRWxjcnJWQ0MzcXN2elhpRWJZ?oc=5\" target=\"_blank\">Top leader expects national major summary project with profound value</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vietnamnews.vn</font>"
+      "title": "China-Central Asia forum focuses on promoting human rights progress through high-quality development - Global Times",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PcHFabkhZWWhKOTN3Q3pWeU9WUUtxS0VfMjZNUUlUcXQ0VUpxZU8wcHpzYzJuNU1YMUQ0aUtEWVRUa3UzQi1vdTNPcEEweFlBZUxsQ01xV1JjQzJVRFB0U1Rn?oc=5",
+      "source": "Global Times",
+      "published": "Fri, 15 May 2026 01:59:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PcHFabkhZWWhKOTN3Q3pWeU9WUUtxS0VfMjZNUUlUcXQ0VUpxZU8wcHpzYzJuNU1YMUQ0aUtEWVRUa3UzQi1vdTNPcEEweFlBZUxsQ01xV1JjQzJVRFB0U1Rn?oc=5\" target=\"_blank\">China-Central Asia forum focuses on promoting human rights progress through high-quality development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global Times</font>"
     }
   ],
   "Education": [
@@ -576,18 +576,32 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOV0dtNlhuOGZ2aWgzdEVWNmRNRTdGTFl6emVObEtaZUZWd3lvTHcwVXN3SWZ4ZHd5SWFtbWJtb0c5TTRkVkFmWVowc1NDVXJ1NXV6NUNCcjRDTTRVUWJiM2hJaF96bkdDd0tKWlNzU2gtanVVODJHWUQ0OEZwc2EzTl9XZG1PMHgwLVBOd1dyc094dTRGSXAw?oc=5\" target=\"_blank\">Linda McMahon defends dismantling the Education Department, shifting its work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NPR</font>"
     },
     {
+      "title": "President Trump pushes major changes at Department of Education - KOMO",
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPbFcwVkNWY3QtT2FRQU1NRWpFLWl5TDhmN20zb3pSNUlYM2lwaEdDa3h2b1lvYW5Qd1VZOVBLQ3QxWlJBc29VVmVueEVwYjdZVkNDM3UyTUhoWmw0NV9ZTlM0blZHRUgwLTNXQV80RDREX2E3ajdSbFI0eU1GeVNKNHNfTFRNazJpNWZpa0xoU2NWTFF1em5famx2NUJ5WWZfVkZmekM4bnJGYUoxZV9raWxRUXF6LUVoLUF1c1EwVlQxZXNiZmEydU9HMndNZm93eVVRTElVeVNROUE3N2RRU0dVUWw1SXJaTGNIUTFUQTFZQXlNT1VLYWNielZxV3IxS1p5RnJBbW5DWExUcVdaUXBxTE5lQzJHaDhPRXlJenY4M2MwMEFF?oc=5",
+      "source": "KOMO",
+      "published": "Fri, 15 May 2026 14:34:38 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwJBVV95cUxPbFcwVkNWY3QtT2FRQU1NRWpFLWl5TDhmN20zb3pSNUlYM2lwaEdDa3h2b1lvYW5Qd1VZOVBLQ3QxWlJBc29VVmVueEVwYjdZVkNDM3UyTUhoWmw0NV9ZTlM0blZHRUgwLTNXQV80RDREX2E3ajdSbFI0eU1GeVNKNHNfTFRNazJpNWZpa0xoU2NWTFF1em5famx2NUJ5WWZfVkZmekM4bnJGYUoxZV9raWxRUXF6LUVoLUF1c1EwVlQxZXNiZmEydU9HMndNZm93eVVRTElVeVNROUE3N2RRU0dVUWw1SXJaTGNIUTFUQTFZQXlNT1VLYWNielZxV3IxS1p5RnJBbW5DWExUcVdaUXBxTE5lQzJHaDhPRXlJenY4M2MwMEFF?oc=5\" target=\"_blank\">President Trump pushes major changes at Department of Education</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOMO</font>"
+    },
+    {
+      "title": "President Trump pushes major changes at Department of Education - KMPH",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPaU1CM0Y0OGJYTjYxMTFnbk9GbEFrMml5a2hEaXFKSFFWSGJuU3ljSGJObjgyemlCV2hCb3dENlZndk5pVFcxWV9JcTRaTlhOdEdnZkNYcDZMRzQ2WkQ3ZXE2WnJZbTR5anBrUjJNRjA0eUN2TGZqYjBSazZHcThHU2NpbW1GYThwb1ZXSVZ4dEVqeUtVdHR6cWdjdjZCYzlaWi1SamNSU3FOcjdqT01xdVkybzg1RzNpMWU4WWNuWHp4d3hUWndXeWo5OEx3UU9TS3NyTGt6ekFyOGN3akJhREtORVQ1REZmcnBFX05DZVA2dkp0ZVNEX2ZNSGV6TnVEeEZVVkpHR2NwS2cxS3VBNTdDTXBSMF9BYURoQV9LMEV5QQ?oc=5",
+      "source": "KMPH",
+      "published": "Fri, 15 May 2026 14:33:04 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogJBVV95cUxPaU1CM0Y0OGJYTjYxMTFnbk9GbEFrMml5a2hEaXFKSFFWSGJuU3ljSGJObjgyemlCV2hCb3dENlZndk5pVFcxWV9JcTRaTlhOdEdnZkNYcDZMRzQ2WkQ3ZXE2WnJZbTR5anBrUjJNRjA0eUN2TGZqYjBSazZHcThHU2NpbW1GYThwb1ZXSVZ4dEVqeUtVdHR6cWdjdjZCYzlaWi1SamNSU3FOcjdqT01xdVkybzg1RzNpMWU4WWNuWHp4d3hUWndXeWo5OEx3UU9TS3NyTGt6ekFyOGN3akJhREtORVQ1REZmcnBFX05DZVA2dkp0ZVNEX2ZNSGV6TnVEeEZVVkpHR2NwS2cxS3VBNTdDTXBSMF9BYURoQV9LMEV5QQ?oc=5\" target=\"_blank\">President Trump pushes major changes at Department of Education</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KMPH</font>"
+    },
+    {
+      "title": "The School Trying to Rebuild Education for an AI World - The Free Press",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpaE9WdnpZVFJlWkVWV040cUgwVnY3M1R0dkxVRXoyV09OODMzaUctc0JZNzN3R1l2Wk1HRVBHRkxrMkFNY3NETXRmRDhwYkthYW1NNzBvUWNkbmxTb1FaMUU2ejFyaFJpcFM5NkdLQQ?oc=5",
+      "source": "The Free Press",
+      "published": "Thu, 14 May 2026 22:03:40 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBpaE9WdnpZVFJlWkVWV040cUgwVnY3M1R0dkxVRXoyV09OODMzaUctc0JZNzN3R1l2Wk1HRVBHRkxrMkFNY3NETXRmRDhwYkthYW1NNzBvUWNkbmxTb1FaMUU2ejFyaFJpcFM5NkdLQQ?oc=5\" target=\"_blank\">The School Trying to Rebuild Education for an AI World</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Free Press</font>"
+    },
+    {
       "title": "Kids' test scores began declining way before COVID. These schools are making gains - NPR",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBwc2lhMmtvdGF2d1pMV2s1VkQzYUVyVUhPR0ROVnAyR196MXlKcmc0WUtidWdxR2tsRGc4SHUxTW9kOHBmZ0kwNTU2Qk9YODdZbkZPckNWSlBrVWtfcXQ2NFZzZHJCTHppNGVkV0RqVURQSDNybTFVVg?oc=5",
       "source": "NPR",
       "published": "Wed, 13 May 2026 04:01:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBwc2lhMmtvdGF2d1pMV2s1VkQzYUVyVUhPR0ROVnAyR196MXlKcmc0WUtidWdxR2tsRGc4SHUxTW9kOHBmZ0kwNTU2Qk9YODdZbkZPckNWSlBrVWtfcXQ2NFZzZHJCTHppNGVkV0RqVURQSDNybTFVVg?oc=5\" target=\"_blank\">Kids' test scores began declining way before COVID. These schools are making gains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NPR</font>"
-    },
-    {
-      "title": "Kentucky schools rank nationally for reading, math growth. See the districts named - Lexington Herald Leader",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNUE8wZ1BLV1oxNFdwYVN6OXRtdF8zT1BoaEpObVBJc2RwRGJhQkd1MUZTU2hvMzNZT2NUQmg1WGhrS1lUNjhaXzFFX3VwT2R4NkV0TEExakp1TmNkdDJNUVhmX1BROHhBNEhqbzN3SHpULUppV3fSAXZBVV95cUxQYUpZeDVoS1haSnZMQ1Mya2hxRU1kYnZlUk5YbG5BSmt0OE5BZmx4M2lfXzNVbHQtUDFHVWxLZ01EV2VxSktwUVF3ZWV3S24tWHU1MzNtb1pWTW9oQzBiLUdUZzlsNUNscVZLV0pZOExQRnNISXRn?oc=5",
-      "source": "Lexington Herald Leader",
-      "published": "Fri, 15 May 2026 12:00:45 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBNUE8wZ1BLV1oxNFdwYVN6OXRtdF8zT1BoaEpObVBJc2RwRGJhQkd1MUZTU2hvMzNZT2NUQmg1WGhrS1lUNjhaXzFFX3VwT2R4NkV0TEExakp1TmNkdDJNUVhmX1BROHhBNEhqbzN3SHpULUppV3fSAXZBVV95cUxQYUpZeDVoS1haSnZMQ1Mya2hxRU1kYnZlUk5YbG5BSmt0OE5BZmx4M2lfXzNVbHQtUDFHVWxLZ01EV2VxSktwUVF3ZWV3S24tWHU1MzNtb1pWTW9oQzBiLUdUZzlsNUNscVZLV0pZOExQRnNISXRn?oc=5\" target=\"_blank\">Kentucky schools rank nationally for reading, math growth. See the districts named</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lexington Herald Leader</font>"
     },
     {
       "title": "Breaking down the U.S. \"learning recession\" found in new Education Scorecard report - CBS News",
@@ -597,25 +611,25 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOdFI5Vk50ZWtraW5yMG1xNTFvc0xPREVkUlhHQXZQRzBtSFZUYjRrRzBBVElvaGRUYlczTTR2Y2MtOFBVcVFNbktIbFhyT1F1d0xFUkhKVjB4SW0tWGlINWVSeWR5aU85X0cxWmQzaktZa001ZEZTWTVHM1hPM1NyN3ZRYUdzbHRjRmhfWTFIbUE0QmtWZlpxRWFVMHg4eVRk?oc=5\" target=\"_blank\">Breaking down the U.S. \"learning recession\" found in new Education Scorecard report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>"
     },
     {
-      "title": "Whole Hog Politics: Idiocracy alert - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTTNlQk4weFEzeEp2RzFMQWpIRm9TWUg3Z0NERUt6T3VXc0sxS2w5VHZRVGJhUER1R0QxQUhBOU9nTVZpRmhxVWdXODVlYS1aQ21NSFczZ3A2Y0JMOVRrS19vSmplb1pocWl6UnFKVUtteFN6WDlhcHZBVzRqenBUTHMzWDZHaVBwVDA2aV9wdVpXNGN2TVHSAZsBQVVfeXFMUENWZlpxR09PeXZxa1NONUNNU2llQzJMREF6enlHQ0ZlZWZjaXl6WWVTWk5halpqOEZuNlZWT3dOd2JidWNaLXFfWGxXcmR1NHJQTTBzQnFUZmFIRWppNlQ0RlNrU1lyUUxHM0xpM21ueEhpRDl3a2dPdV81MVczX2dWaDRqdDAxbXFYOExhc1hua2VNT3Q1QkJyQ0U?oc=5",
-      "source": "The Hill",
-      "published": "Fri, 15 May 2026 12:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNTTNlQk4weFEzeEp2RzFMQWpIRm9TWUg3Z0NERUt6T3VXc0sxS2w5VHZRVGJhUER1R0QxQUhBOU9nTVZpRmhxVWdXODVlYS1aQ21NSFczZ3A2Y0JMOVRrS19vSmplb1pocWl6UnFKVUtteFN6WDlhcHZBVzRqenBUTHMzWDZHaVBwVDA2aV9wdVpXNGN2TVHSAZsBQVVfeXFMUENWZlpxR09PeXZxa1NONUNNU2llQzJMREF6enlHQ0ZlZWZjaXl6WWVTWk5halpqOEZuNlZWT3dOd2JidWNaLXFfWGxXcmR1NHJQTTBzQnFUZmFIRWppNlQ0RlNrU1lyUUxHM0xpM21ueEhpRDl3a2dPdV81MVczX2dWaDRqdDAxbXFYOExhc1hua2VNT3Q1QkJyQ0U?oc=5\" target=\"_blank\">Whole Hog Politics: Idiocracy alert</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hill</font>"
+      "title": "AI is wiping out entry-level jobs. Here’s how colleges can fill the gap - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONzliSjkzNzF4Z2N3aTNESGNtMWhYNlZyMDBfNENuN3VzQ1gtUVhVWXhHTHAyb18zNE5wZlh0SDB5cmh6ZnN0cWRoMWxiYWpTQ1Rmbk4zdTdQX0ZaQzZHTjZpY1ZLT1hId3N2RWxnQjRYMXJYc1YzRzFYRnNYOUE1UWFGZm1qTGNZMGk0?oc=5",
+      "source": "Fortune",
+      "published": "Fri, 15 May 2026 11:33:33 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxONzliSjkzNzF4Z2N3aTNESGNtMWhYNlZyMDBfNENuN3VzQ1gtUVhVWXhHTHAyb18zNE5wZlh0SDB5cmh6ZnN0cWRoMWxiYWpTQ1Rmbk4zdTdQX0ZaQzZHTjZpY1ZLT1hId3N2RWxnQjRYMXJYc1YzRzFYRnNYOUE1UWFGZm1qTGNZMGk0?oc=5\" target=\"_blank\">AI is wiping out entry-level jobs. Here’s how colleges can fill the gap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>"
     },
     {
-      "title": "Students should be on school boards, but adults should also listen to them - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxON216QVVIQnFIUHVOQ0VqZkVESWQzaWdVUGdKWEJzVnYyVXlwR2ZqbFdfWnFUaHdqV2RpM0Z6Z09ZazM0Z1JvUVBOWE5GRTVsQkoteU95S3BiMWpPMjVJd3pJNkNDOVZZU01qRng4UmtPRWJWb2JlYTI1ZGN6SXRfSWdEdktNWFcycTRVa09jbkV6X1lkUzlkd0ZTQ29zcUYxOEpybzdXbndpTFR5NVlRbzdMNXhCVzhVVHR2UXlYYWdCU21HdDFWcDR0ZzgzNU5ZSGFybVhmX3otcGM0d0JTQ18yTnhjMXFrald4T09teGRUVnBoVzYzRVVCem9ZLVlMem04eEJ3eUV0a25GamZOazRHQnVBUGtUa0xBckdvR0pRYXhkalk0T2VTY29wekk?oc=5",
+      "title": "The Grand Tradition of Suing the City for School Tuition - New York Magazine",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNnFJWmtFd2VjTmU1ZlBCZmhSRUJoTnNnTHhZWVJCNC12OUpONWtQNmlteUhQUk1NNnBReFNMdm5TcWFlOXBDemdwbzdKdHBaZklqckxIQl9jaWdiUmJHYlZDcmY0el9GUmdNLVBfVlc5Q2k4aU84a1pSZVNETGxvWkZIclJCRUw3NG1wVFhDQlZ3Vlh0YUxPQmU5a0w4cUVONTl2RGhwc2JYNVdialZtVDBLdk8?oc=5",
+      "source": "New York Magazine",
+      "published": "Thu, 14 May 2026 18:00:40 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNNnFJWmtFd2VjTmU1ZlBCZmhSRUJoTnNnTHhZWVJCNC12OUpONWtQNmlteUhQUk1NNnBReFNMdm5TcWFlOXBDemdwbzdKdHBaZklqckxIQl9jaWdiUmJHYlZDcmY0el9GUmdNLVBfVlc5Q2k4aU84a1pSZVNETGxvWkZIclJCRUw3NG1wVFhDQlZ3Vlh0YUxPQmU5a0w4cUVONTl2RGhwc2JYNVdialZtVDBLdk8?oc=5\" target=\"_blank\">The Grand Tradition of Suing the City for School Tuition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Magazine</font>"
+    },
+    {
+      "title": "DOJ says Yale medical school discriminated against Asian, White applicants - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVDQ0elBIM1F2c01JYkhreC1wQk44X1VHZ3JObFhWa3BqdmxOTjFpOWpubWtoeGJ6R1JoUGdCNzFxTDhJRWpOWEFzWmRFZGR6ckhtb0RyWkZZamIzSFdrdl92ZlJUVjV4YnFJeWYxYWZEZ3hLd1B6T0ZHME9KbEN0anhCYXVBY2hyRVJwVE9XVkx2Qm1CaThVWFhPM0hxMzU2NXYyMVZfTEVLWFhqZG1kQ2EyVjR6U210bEo2WmlNSmVSaDZF?oc=5",
       "source": "The Washington Post",
-      "published": "Fri, 15 May 2026 13:42:26 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwJBVV95cUxON216QVVIQnFIUHVOQ0VqZkVESWQzaWdVUGdKWEJzVnYyVXlwR2ZqbFdfWnFUaHdqV2RpM0Z6Z09ZazM0Z1JvUVBOWE5GRTVsQkoteU95S3BiMWpPMjVJd3pJNkNDOVZZU01qRng4UmtPRWJWb2JlYTI1ZGN6SXRfSWdEdktNWFcycTRVa09jbkV6X1lkUzlkd0ZTQ29zcUYxOEpybzdXbndpTFR5NVlRbzdMNXhCVzhVVHR2UXlYYWdCU21HdDFWcDR0ZzgzNU5ZSGFybVhmX3otcGM0d0JTQ18yTnhjMXFrald4T09teGRUVnBoVzYzRVVCem9ZLVlMem04eEJ3eUV0a25GamZOazRHQnVBUGtUa0xBckdvR0pRYXhkalk0T2VTY29wekk?oc=5\" target=\"_blank\">Students should be on school boards, but adults should also listen to them</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>"
-    },
-    {
-      "title": "15-year-old college graduate earns education degree, shares family’s love for Liberty - Liberty University",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSVJmdnlsRmREVnlYcFRfSEF2TW9QTGk3QVdKZ2YtSEttdWxfUlFvdmlDYXlGcDZ0Yjg3SllFQV9xWk5UdVA4VjZCb0VQaTN4cmZlQ3otb2VPNUNhSHdSQmhTMmtpR002Y25QZGhwZVQxNWpLcDBGVUtNZFR1MHducDF2cGMyakhWaXZrUTVBUDNfbjRVQU1TT1V2ODU4WWRLZTdHY1ByOGdqbkx1RzlCRkVaVDFlbHowVXBoSExjTEtYQQ?oc=5",
-      "source": "Liberty University",
-      "published": "Thu, 14 May 2026 22:12:59 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSVJmdnlsRmREVnlYcFRfSEF2TW9QTGk3QVdKZ2YtSEttdWxfUlFvdmlDYXlGcDZ0Yjg3SllFQV9xWk5UdVA4VjZCb0VQaTN4cmZlQ3otb2VPNUNhSHdSQmhTMmtpR002Y25QZGhwZVQxNWpLcDBGVUtNZFR1MHducDF2cGMyakhWaXZrUTVBUDNfbjRVQU1TT1V2ODU4WWRLZTdHY1ByOGdqbkx1RzlCRkVaVDFlbHowVXBoSExjTEtYQQ?oc=5\" target=\"_blank\">15-year-old college graduate earns education degree, shares family’s love for Liberty</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Liberty University</font>"
+      "published": "Fri, 15 May 2026 06:01:53 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQVDQ0elBIM1F2c01JYkhreC1wQk44X1VHZ3JObFhWa3BqdmxOTjFpOWpubWtoeGJ6R1JoUGdCNzFxTDhJRWpOWEFzWmRFZGR6ckhtb0RyWkZZamIzSFdrdl92ZlJUVjV4YnFJeWYxYWZEZ3hLd1B6T0ZHME9KbEN0anhCYXVBY2hyRVJwVE9XVkx2Qm1CaThVWFhPM0hxMzU2NXYyMVZfTEVLWFhqZG1kQ2EyVjR6U210bEo2WmlNSmVSaDZF?oc=5\" target=\"_blank\">DOJ says Yale medical school discriminated against Asian, White applicants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>"
     },
     {
       "title": "Wyoming Supreme Court ends block on public money for private education - WyoFile",
@@ -625,46 +639,11 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQX3Jha0tSOWZEN0ZnYXVYeHFkZ1F3Z0R3NUVDWjRXZXZ3V3F4eHZKQm4xeTBCMUlEOW96Z2JOc2pxTWZweFFZT3IycmREVGNHYVhTaS10R29GM2tEeHBYN0FzdHFETFo2YlJPZy0yMENOcmt6WlJxQ2pTUXliTm9FSjVCeENVcE9mdF8wV3oyZE5sbEJQa3c?oc=5\" target=\"_blank\">Wyoming Supreme Court ends block on public money for private education</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WyoFile</font>"
     },
     {
-      "title": "From policy to practice: supporting the future of AI in education - blog.google",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSjBtQy1lTGpLMjFCLXU3YVN1ZTVQajc5enNleENvRlRSaEpoak56bGxWVktMdFFWcEVrRmVsVjJBYks5dGZuQTIwdnpUX05QUEJXcENxcFlGMVRwdUIzNWwwU2FfWENBaW9SMGtadExPeXhldk5BWWg0T1hUVENoWU5kUVZ5a3k2SEJQbHV0MA?oc=5",
-      "source": "blog.google",
-      "published": "Fri, 15 May 2026 08:01:45 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOSjBtQy1lTGpLMjFCLXU3YVN1ZTVQajc5enNleENvRlRSaEpoak56bGxWVktMdFFWcEVrRmVsVjJBYks5dGZuQTIwdnpUX05QUEJXcENxcFlGMVRwdUIzNWwwU2FfWENBaW9SMGtadExPeXhldk5BWWg0T1hUVENoWU5kUVZ5a3k2SEJQbHV0MA?oc=5\" target=\"_blank\">From policy to practice: supporting the future of AI in education</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blog.google</font>"
-    },
-    {
-      "title": "In a state first, Maine will hold citizens' assembly on education - The Portland Press Herald",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HdmwydHlKMlM0cFZHWUtGVXl5eHBKcUc4dDUyQndhTy1lLVgwMk5SMXBxY0dHSGYzY1laYmprX1pmN0w5ckhuT1F0eFhJWmM?oc=5",
-      "source": "The Portland Press Herald",
-      "published": "Fri, 15 May 2026 08:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HdmwydHlKMlM0cFZHWUtGVXl5eHBKcUc4dDUyQndhTy1lLVgwMk5SMXBxY0dHSGYzY1laYmprX1pmN0w5ckhuT1F0eFhJWmM?oc=5\" target=\"_blank\">In a state first, Maine will hold citizens' assembly on education</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Portland Press Herald</font>"
-    },
-    {
-      "title": "Ed Department Unleashes $144 Million For Special Education - Disability Scoop",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRk1rQ0ZGanItNU1oU0hvNnFhbGlqUUhVMmJyZHVxR2FsdThSSmtBTUl3djNfaGJHZlpmd1RpcG5UQ3Ytb19UbVNQUGctZUFWOVc1UHVxQjN0YVlwZWlMZ2NqZ01CMVBVRkNiSjI0eXJKeFc2d3FkcndRY3NIbmhGSVhxMjlNOG1fWDJBZGJvZW5IWEUwUXhNdmlTOElTczZ3eEZBUmp3dXlLdFE?oc=5",
-      "source": "Disability Scoop",
-      "published": "Thu, 14 May 2026 03:50:19 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRk1rQ0ZGanItNU1oU0hvNnFhbGlqUUhVMmJyZHVxR2FsdThSSmtBTUl3djNfaGJHZlpmd1RpcG5UQ3Ytb19UbVNQUGctZUFWOVc1UHVxQjN0YVlwZWlMZ2NqZ01CMVBVRkNiSjI0eXJKeFc2d3FkcndRY3NIbmhGSVhxMjlNOG1fWDJBZGJvZW5IWEUwUXhNdmlTOElTczZ3eEZBUmp3dXlLdFE?oc=5\" target=\"_blank\">Ed Department Unleashes $144 Million For Special Education</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Disability Scoop</font>"
-    },
-    {
-      "title": "Governor Newsom announces revised budget that eliminates California’s deficit, maintains investments for working families, healthcare, education, and businesses - California State Portal | CA.gov",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qekUzaVBmLTZ1N2V0YXJBWVFYWWtXVHh3Rkl2bVA5eWQtVlQ1cTNGRXctTUxBZFJiU2xLYkRhem83T1NFNExrcGtYaTN1RFN6dmx5RjNYa0o?oc=5",
-      "source": "California State Portal | CA.gov",
-      "published": "Thu, 14 May 2026 17:40:26 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qekUzaVBmLTZ1N2V0YXJBWVFYWWtXVHh3Rkl2bVA5eWQtVlQ1cTNGRXctTUxBZFJiU2xLYkRhem83T1NFNExrcGtYaTN1RFN6dmx5RjNYa0o?oc=5\" target=\"_blank\">Governor Newsom announces revised budget that eliminates California’s deficit, maintains investments for working families, healthcare, education, and businesses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">California State Portal | CA.gov</font>"
-    },
-    {
-      "title": "‘That Was a Mistake’: The Education Ideas That Teachers Learned to Reject (Opinion) - Education Week",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX3cyaXBjeHBGNDdEWEFSdF9sV05CbzMyQm9YRXRpdno4Z0dvWFd2eTIzclFCQk4yNm9oUWJXWGtodGhRNmFkRkZYXzFtVnk1VlpMU3J5QVJzcmFzRERIM3JsWWw1LTNuSDhhY2NRM1V5MV9aLWdFTWJyRGpiLVBhOGRSTTZJdlhOc2hpSFI4bC03TktYSmRyNlBWZHFHMHJ0eGdzUDl2aDc5UjF1OVE1TG1raUpINUVycHNBOTc3ZG1HSHBIaHc?oc=5",
-      "source": "Education Week",
-      "published": "Fri, 15 May 2026 05:10:42 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOX3cyaXBjeHBGNDdEWEFSdF9sV05CbzMyQm9YRXRpdno4Z0dvWFd2eTIzclFCQk4yNm9oUWJXWGtodGhRNmFkRkZYXzFtVnk1VlpMU3J5QVJzcmFzRERIM3JsWWw1LTNuSDhhY2NRM1V5MV9aLWdFTWJyRGpiLVBhOGRSTTZJdlhOc2hpSFI4bC03TktYSmRyNlBWZHFHMHJ0eGdzUDl2aDc5UjF1OVE1TG1raUpINUVycHNBOTc3ZG1HSHBIaHc?oc=5\" target=\"_blank\">‘That Was a Mistake’: The Education Ideas That Teachers Learned to Reject (Opinion)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Education Week</font>"
-    },
-    {
-      "title": "What Newsom’s proposed budget means for education in California - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTFZxU0xjeDRLeXNsM1k1MUZWUGRXVDhOaHZEQjdTZUJVQlN3VUhBRkx1WXY5MnhkakdWcGRxanNNblJyVTdDaFVRMnhGenhsSWoyZ1lUNW85Z3ZOaWFRZE9QMW01eVE1cmtvMW1DbU1VeDBwTE53dTVCM1hOdzBFcmFHUTlsY3ZCZENIcDdKc293Zl9mSzlhaDFMUWNiTXEtVmlXamN3dVBkQzh0WlRLWExOYlJUQk5ac2c?oc=5",
-      "source": "Los Angeles Times",
-      "published": "Thu, 14 May 2026 22:13:32 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOTFZxU0xjeDRLeXNsM1k1MUZWUGRXVDhOaHZEQjdTZUJVQlN3VUhBRkx1WXY5MnhkakdWcGRxanNNblJyVTdDaFVRMnhGenhsSWoyZ1lUNW85Z3ZOaWFRZE9QMW01eVE1cmtvMW1DbU1VeDBwTE53dTVCM1hOdzBFcmFHUTlsY3ZCZENIcDdKc293Zl9mSzlhaDFMUWNiTXEtVmlXamN3dVBkQzh0WlRLWExOYlJUQk5ac2c?oc=5\" target=\"_blank\">What Newsom’s proposed budget means for education in California</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>"
+      "title": "15-year-old college graduate earns education degree, shares family’s love for Liberty - Liberty University",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSVJmdnlsRmREVnlYcFRfSEF2TW9QTGk3QVdKZ2YtSEttdWxfUlFvdmlDYXlGcDZ0Yjg3SllFQV9xWk5UdVA4VjZCb0VQaTN4cmZlQ3otb2VPNUNhSHdSQmhTMmtpR002Y25QZGhwZVQxNWpLcDBGVUtNZFR1MHducDF2cGMyakhWaXZrUTVBUDNfbjRVQU1TT1V2ODU4WWRLZTdHY1ByOGdqbkx1RzlCRkVaVDFlbHowVXBoSExjTEtYQQ?oc=5",
+      "source": "Liberty University",
+      "published": "Thu, 14 May 2026 22:12:59 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSVJmdnlsRmREVnlYcFRfSEF2TW9QTGk3QVdKZ2YtSEttdWxfUlFvdmlDYXlGcDZ0Yjg3SllFQV9xWk5UdVA4VjZCb0VQaTN4cmZlQ3otb2VPNUNhSHdSQmhTMmtpR002Y25QZGhwZVQxNWpLcDBGVUtNZFR1MHducDF2cGMyakhWaXZrUTVBUDNfbjRVQU1TT1V2ODU4WWRLZTdHY1ByOGdqbkx1RzlCRkVaVDFlbHowVXBoSExjTEtYQQ?oc=5\" target=\"_blank\">15-year-old college graduate earns education degree, shares family’s love for Liberty</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Liberty University</font>"
     },
     {
       "title": "Apple ends education discount loophole for non-students and non-teachers - Mashable",
@@ -674,11 +653,39 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNak9rWXFQSDlFUnBFTFlpVmVUX3NzS1V1N3pxSGVqcnZ6a0JXZTh5VFFqRk4yem56b1dHWVotRlVWUjVEWWNQaFFJMUNDQTNlNXctQ2NPLVR2M24waHA3MUgwT3dNMDZjUGFFWDBTM0RrN3V0TzcxYVVOV3E5OHJlcmNub3hubTNMNF84N1VJdWw2LXN5aV9nQ0c5Q1FVQzNNYVF4dGVWMVVjZw?oc=5\" target=\"_blank\">Apple ends education discount loophole for non-students and non-teachers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mashable</font>"
     },
     {
+      "title": "From policy to practice: supporting the future of AI in education - blog.google",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSjBtQy1lTGpLMjFCLXU3YVN1ZTVQajc5enNleENvRlRSaEpoak56bGxWVktMdFFWcEVrRmVsVjJBYks5dGZuQTIwdnpUX05QUEJXcENxcFlGMVRwdUIzNWwwU2FfWENBaW9SMGtadExPeXhldk5BWWg0T1hUVENoWU5kUVZ5a3k2SEJQbHV0MA?oc=5",
+      "source": "blog.google",
+      "published": "Fri, 15 May 2026 08:01:45 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOSjBtQy1lTGpLMjFCLXU3YVN1ZTVQajc5enNleENvRlRSaEpoak56bGxWVktMdFFWcEVrRmVsVjJBYks5dGZuQTIwdnpUX05QUEJXcENxcFlGMVRwdUIzNWwwU2FfWENBaW9SMGtadExPeXhldk5BWWg0T1hUVENoWU5kUVZ5a3k2SEJQbHV0MA?oc=5\" target=\"_blank\">From policy to practice: supporting the future of AI in education</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">blog.google</font>"
+    },
+    {
+      "title": "Anthropic, Gates Foundation launch $200 million partnership for AI in health, education - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS2dwalFlVlRNQWZUYVA1cmVCeHkwdXltZF9aZlZyZjJCb3lNTmFMVV82VXdNajZSS1pDT0RuTlRMUmM1ellzRmRYcEtXblZrbDRYcnJLMW9acGVLRkZQUmVCaTZ0ckpUcFJtVURRSTZBUUFKS3ZrQWtLSy0tNUFjbDA0blpKcEVZSzYwSGl4TGFkNTZ4bm1UeHlyWWZrSlBkdDN5Zy1JblFYdw?oc=5",
+      "source": "Yahoo Finance",
+      "published": "Thu, 14 May 2026 15:03:54 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS2dwalFlVlRNQWZUYVA1cmVCeHkwdXltZF9aZlZyZjJCb3lNTmFMVV82VXdNajZSS1pDT0RuTlRMUmM1ellzRmRYcEtXblZrbDRYcnJLMW9acGVLRkZQUmVCaTZ0ckpUcFJtVURRSTZBUUFKS3ZrQWtLSy0tNUFjbDA0blpKcEVZSzYwSGl4TGFkNTZ4bm1UeHlyWWZrSlBkdDN5Zy1JblFYdw?oc=5\" target=\"_blank\">Anthropic, Gates Foundation launch $200 million partnership for AI in health, education</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+    },
+    {
+      "title": "Student research uncovers education’s impact on democracy - Denison University",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WNXM2RnZHQTVrUWRuOUdVTDNRYjJLQzVnNS1RWkttT0JQbG5CUlI3WXFqWDFIZWlRbVhxSGlseVlLN1ZtOXgwbkNZWE9GOFk0dXp3aDlONnk0Y21YQnE4U1lCQ0U3dEYzUTh6aTJoV2dTQQ?oc=5",
+      "source": "Denison University",
+      "published": "Fri, 15 May 2026 15:39:54 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5WNXM2RnZHQTVrUWRuOUdVTDNRYjJLQzVnNS1RWkttT0JQbG5CUlI3WXFqWDFIZWlRbVhxSGlseVlLN1ZtOXgwbkNZWE9GOFk0dXp3aDlONnk0Y21YQnE4U1lCQ0U3dEYzUTh6aTJoV2dTQQ?oc=5\" target=\"_blank\">Student research uncovers education’s impact on democracy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Denison University</font>"
+    },
+    {
       "title": "Colorado lawmakers debated education bills over teacher housing, state testing and more. Here’s where they landed. - The Colorado Sun",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObndDM0FTVDNBWXdCci1hd2tDZVRWUGtBdU5wbHN5SmVRZWVuWHc0UFRKNWhDR1JJb2dTdVc1NWhPNDNHYVI2ZE1ka0EtNFZNNXFENXRrWldVSDJBaElyQlZtS004VW5qTHNXNThrNklia25GbUxjZEJWdjVPWjlBSXpNRmh1eFU?oc=5",
       "source": "The Colorado Sun",
       "published": "Fri, 15 May 2026 09:58:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxObndDM0FTVDNBWXdCci1hd2tDZVRWUGtBdU5wbHN5SmVRZWVuWHc0UFRKNWhDR1JJb2dTdVc1NWhPNDNHYVI2ZE1ka0EtNFZNNXFENXRrWldVSDJBaElyQlZtS004VW5qTHNXNThrNklia25GbUxjZEJWdjVPWjlBSXpNRmh1eFU?oc=5\" target=\"_blank\">Colorado lawmakers debated education bills over teacher housing, state testing and more. Here’s where they landed.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Colorado Sun</font>"
+    },
+    {
+      "title": "‘That Was a Mistake’: The Education Ideas That Teachers Learned to Reject (Opinion) - Education Week",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX3cyaXBjeHBGNDdEWEFSdF9sV05CbzMyQm9YRXRpdno4Z0dvWFd2eTIzclFCQk4yNm9oUWJXWGtodGhRNmFkRkZYXzFtVnk1VlpMU3J5QVJzcmFzRERIM3JsWWw1LTNuSDhhY2NRM1V5MV9aLWdFTWJyRGpiLVBhOGRSTTZJdlhOc2hpSFI4bC03TktYSmRyNlBWZHFHMHJ0eGdzUDl2aDc5UjF1OVE1TG1raUpINUVycHNBOTc3ZG1HSHBIaHc?oc=5",
+      "source": "Education Week",
+      "published": "Fri, 15 May 2026 05:10:42 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOX3cyaXBjeHBGNDdEWEFSdF9sV05CbzMyQm9YRXRpdno4Z0dvWFd2eTIzclFCQk4yNm9oUWJXWGtodGhRNmFkRkZYXzFtVnk1VlpMU3J5QVJzcmFzRERIM3JsWWw1LTNuSDhhY2NRM1V5MV9aLWdFTWJyRGpiLVBhOGRSTTZJdlhOc2hpSFI4bC03TktYSmRyNlBWZHFHMHJ0eGdzUDl2aDc5UjF1OVE1TG1raUpINUVycHNBOTc3ZG1HSHBIaHc?oc=5\" target=\"_blank\">‘That Was a Mistake’: The Education Ideas That Teachers Learned to Reject (Opinion)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Education Week</font>"
     },
     {
       "title": "Changes to state funding hits Pittsburgh arts and education programs - 90.5 WESA",
@@ -688,25 +695,18 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOX1pOMmZxajdHd2hlTllvOXlSZDVWbHhfRkJGNE9rZHRyXzFYZHFTVEQ1ZEJBblRhWGRTN0hqYzFqQldGN2JDWk1pcWFzMGNia3FJSUU4V2dXVkpQS2tLTXIzamljSWNVZHZsRlMwa0JEM1F1NzFVQ1dLNE1vcmh4YUdjeWliOXd6SlVfT3l3?oc=5\" target=\"_blank\">Changes to state funding hits Pittsburgh arts and education programs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">90.5 WESA</font>"
     },
     {
-      "title": "We're disassembling public education | Opinion - The News-Press",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOTlMVU94NkJpVkFITG5RVWJpcENCUFJCWmNRVXliY0gtVUpMQkl0UEp3YnE0QktQeDJvTnBlWXhDQ19JTTlLY25reTQwR015N0VlN2QyR2IzTjk2RXdsbUhLLWFsbHhhZXVoZmVjSjdESXNoUWxfUktiM1pkOUxVMUE4N1p3VEtVRjRaZkFFemUtQ3A0ZnBvMmxGTVVVQ0JlcmRiaVFFbVNGLWR2?oc=5",
-      "source": "The News-Press",
-      "published": "Fri, 15 May 2026 10:03:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOOTlMVU94NkJpVkFITG5RVWJpcENCUFJCWmNRVXliY0gtVUpMQkl0UEp3YnE0QktQeDJvTnBlWXhDQ19JTTlLY25reTQwR015N0VlN2QyR2IzTjk2RXdsbUhLLWFsbHhhZXVoZmVjSjdESXNoUWxfUktiM1pkOUxVMUE4N1p3VEtVRjRaZkFFemUtQ3A0ZnBvMmxGTVVVQ0JlcmRiaVFFbVNGLWR2?oc=5\" target=\"_blank\">We're disassembling public education | Opinion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The News-Press</font>"
+      "title": "Dozens of parents speak out against Houston ISD’s special education changes - Houston Public Media",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcUxRZ2c3RU9SVUhscEQwbnB0Mk1UZVV5Tm40RENyZVdBb1UzeWNYeVpacEtCMXdMczM1M3Ita01MRVZXZnR4dmt5VEVtRUpieUxlVFZsMkpzdm82YkZ0RzJyRjVSa3Q0TUdVS3Mzb3pEZ1U3eVlnVE9pNlplNVc2cDBMN2o1R1pMNlM1QUJEQUZPRlhBZmtnMUd3MUpOaU5TV1ZZR0RUTG9SaVE3Qk5neU00VFcxSUI4eTdOTHZFRFRMOWw1ZkVuQzUzazdfNm5sX2hF0gHbAUFVX3lxTFAwbkV6Xy1OQWVEMVlKR3lKbWtYZGxNY3FPd2NCZmdfWVAtS3FLVXJOaUFuQ0FTU1RWdkZpY013d2lyck85djBXOEdGM1UxUGJyNnROV1dCRVFTdmhQVEQ2VnJOVTMxNHh2SVdRLVdxSkp5OFpTbFZSamhGSEg0T25tdm5aLXhWQmw1NHZRa1RQVDkteUVSZTBodDlfOTZfZVVHSzdONmlmUkM4eV9XSG9CLXBCZEg0R09VR3c5NFIxYmlkYWpOd3pTTGxNVWFUWUxVdmxWaEJwc2ZTZw?oc=5",
+      "source": "Houston Public Media",
+      "published": "Fri, 15 May 2026 13:55:49 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcUxRZ2c3RU9SVUhscEQwbnB0Mk1UZVV5Tm40RENyZVdBb1UzeWNYeVpacEtCMXdMczM1M3Ita01MRVZXZnR4dmt5VEVtRUpieUxlVFZsMkpzdm82YkZ0RzJyRjVSa3Q0TUdVS3Mzb3pEZ1U3eVlnVE9pNlplNVc2cDBMN2o1R1pMNlM1QUJEQUZPRlhBZmtnMUd3MUpOaU5TV1ZZR0RUTG9SaVE3Qk5neU00VFcxSUI4eTdOTHZFRFRMOWw1ZkVuQzUzazdfNm5sX2hF0gHbAUFVX3lxTFAwbkV6Xy1OQWVEMVlKR3lKbWtYZGxNY3FPd2NCZmdfWVAtS3FLVXJOaUFuQ0FTU1RWdkZpY013d2lyck85djBXOEdGM1UxUGJyNnROV1dCRVFTdmhQVEQ2VnJOVTMxNHh2SVdRLVdxSkp5OFpTbFZSamhGSEg0T25tdm5aLXhWQmw1NHZRa1RQVDkteUVSZTBodDlfOTZfZVVHSzdONmlmUkM4eV9XSG9CLXBCZEg0R09VR3c5NFIxYmlkYWpOd3pTTGxNVWFUWUxVdmxWaEJwc2ZTZw?oc=5\" target=\"_blank\">Dozens of parents speak out against Houston ISD’s special education changes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Houston Public Media</font>"
     },
     {
-      "title": "UNMC, UNK celebrate opening of rural health education complex - University of Nebraska Medical Center",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU2N2amxKNG01cDQ1OWp0dHNXWmlaTDh0eGJoQjNfc3BUVWRKdmxrYmhNX2ZHbDloMl93MzZoOW9uV185d0pmLWV0VHB3ZmtrNldMS3JyZXNJREozY0JXeTF6bzBITFoyTTJuY05DOXZWU01tRVlnXzM0YnlUMnh1Q2V2QU5KWEZzTlRqcU1VaURQSVJnWENKYm94SHh6c0V4bDRlMw?oc=5",
-      "source": "University of Nebraska Medical Center",
-      "published": "Fri, 15 May 2026 07:00:54 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPU2N2amxKNG01cDQ1OWp0dHNXWmlaTDh0eGJoQjNfc3BUVWRKdmxrYmhNX2ZHbDloMl93MzZoOW9uV185d0pmLWV0VHB3ZmtrNldMS3JyZXNJREozY0JXeTF6bzBITFoyTTJuY05DOXZWU01tRVlnXzM0YnlUMnh1Q2V2QU5KWEZzTlRqcU1VaURQSVJnWENKYm94SHh6c0V4bDRlMw?oc=5\" target=\"_blank\">UNMC, UNK celebrate opening of rural health education complex</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">University of Nebraska Medical Center</font>"
-    },
-    {
-      "title": "Tree-planting exemplifies ‘best’ of education - The Newsleaders",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9aZ1plOXR3TVRtWW1pd0JVMmxyUGVTU0JGUDJmSGlxMHhBeWFvaE55TjA3Uks0cFFqWEJKOU02Z2hCUEktZF9ud2RKSF9WRjBlVUZfU3NDSWJwZG9iWFlrbDZFQlppSGF1X3B3MGhwUERkTUpqMnVPTS1HQQ?oc=5",
-      "source": "The Newsleaders",
-      "published": "Fri, 15 May 2026 06:55:49 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9aZ1plOXR3TVRtWW1pd0JVMmxyUGVTU0JGUDJmSGlxMHhBeWFvaE55TjA3Uks0cFFqWEJKOU02Z2hCUEktZF9ud2RKSF9WRjBlVUZfU3NDSWJwZG9iWFlrbDZFQlppSGF1X3B3MGhwUERkTUpqMnVPTS1HQQ?oc=5\" target=\"_blank\">Tree-planting exemplifies ‘best’ of education</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Newsleaders</font>"
+      "title": "Cornell’s investment in local education anchors a broader economic story - Cornell Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQemZWX0std3BuUW8xS0hOSUZ1bE9CdE5XRlJ2Y2NUbldNWmZkTWNzQVdkcFVBUW5HRk1mSzBweElFM1NDRjlldEJrdElFbS1pdDFNU19tN3I4ZWNrQTU1VERZYnpoc3BYMi1Ob1FmZ045UW5qR3M1RU0xdkFEeVRhSm1hZ1ZfOWU4WjRXM1drdk1GY3RIZUdWOXcyVndUbktOOGREZWxEMlJHS2c?oc=5",
+      "source": "Cornell Chronicle",
+      "published": "Fri, 15 May 2026 14:02:40 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQemZWX0std3BuUW8xS0hOSUZ1bE9CdE5XRlJ2Y2NUbldNWmZkTWNzQVdkcFVBUW5HRk1mSzBweElFM1NDRjlldEJrdElFbS1pdDFNU19tN3I4ZWNrQTU1VERZYnpoc3BYMi1Ob1FmZ045UW5qR3M1RU0xdkFEeVRhSm1hZ1ZfOWU4WjRXM1drdk1GY3RIZUdWOXcyVndUbktOOGREZWxEMlJHS2c?oc=5\" target=\"_blank\">Cornell’s investment in local education anchors a broader economic story</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cornell Chronicle</font>"
     }
   ]
 }
