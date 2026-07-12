@@ -57,13 +57,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPNVpLWjNRa1IyTl9JTkJGRmc3RDJWMUR1bGNtY01IUllWd2dIWDNoNnF4THE4MFRYNWpyejU5QXFSYXNiRXJmdXRwODFuNGFyVWZ3MnZSV3ppcWJIb0dQUVF1TFNycHlYVF9KR28tVVo3LTlWRFFjdEw0NU10bkFtMzNYYmNXTWdUSWZqb3pyWm1QT29oYWc?oc=5\" target=\"_blank\">CISA details security lapses that led to GitHub leak of passwords, cloud access keys</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cybersecurity Dive</font>"
     },
     {
-      "title": "Fake Go DNS scanner spread malware through over 200 GitHub repos — 'Operation Muck and Load' has published 700 malicious modules since January - Tom's Hardware",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcGFaMXpzRl9VQ2pJWnFfandva2hPQ0RtY3ZoWXFlalg1R2lheU4tY3kzaTBUVjZtZ0NNOGROR0tZZXdOTmU2T2Y4RXdJR0FHMUZNcjJ2TEE2UElUbzNUODFWdW5zV3pET0cyUzI2TEo5QmY5UXFkckVtN1IzVEFzOEZYVlFBS2VsdFViMWVjWFJoNlB6T0dqby1zZ0RUc3pQNkdNWVY1WlU1TXNSU3kzWVdqSnBTTFgtNXJuRExPbUg4cnlJRFVJeVUxbVZRRzB2cm5tNkg3MTVSYXdFQVR0Z0d0X0RMQ3pFU2Z1ai1PTGw?oc=5",
-      "source": "Tom's Hardware",
-      "published": "Sat, 11 Jul 2026 11:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcGFaMXpzRl9VQ2pJWnFfandva2hPQ0RtY3ZoWXFlalg1R2lheU4tY3kzaTBUVjZtZ0NNOGROR0tZZXdOTmU2T2Y4RXdJR0FHMUZNcjJ2TEE2UElUbzNUODFWdW5zV3pET0cyUzI2TEo5QmY5UXFkckVtN1IzVEFzOEZYVlFBS2VsdFViMWVjWFJoNlB6T0dqby1zZ0RUc3pQNkdNWVY1WlU1TXNSU3kzWVdqSnBTTFgtNXJuRExPbUg4cnlJRFVJeVUxbVZRRzB2cm5tNkg3MTVSYXdFQVR0Z0d0X0RMQ3pFU2Z1ai1PTGw?oc=5\" target=\"_blank\">Fake Go DNS scanner spread malware through over 200 GitHub repos — 'Operation Muck and Load' has published 700 malicious modules since January</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Hardware</font>"
-    },
-    {
       "title": "Week in review: Accenture data breach, great open-source cybersecurity tools - Help Net Security",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOFNQd0hTSFBHamJwU1BGdXNDR0NNekRhNk5mMGpvOFRuRWxKbGdPZlRteE1rQ1J4bl9Pd1VlS3VrRjdHVl9GV2tXTFlrb2I0OVRpc1c5RmVuWkxUTnB3TFlWb20tMVE0U2RaQXVrUlFqWDczVlZTdkNRVG9rdXBpUTFsNHNrMktjUlVtX0tFdXRTTlA3ZEV5U1dzejVQX1ppbzN4TnJtOVEzNnRfT2F5UThQVEJ0OTRQRGc?oc=5",
       "source": "Help Net Security",
@@ -71,11 +64,25 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPOFNQd0hTSFBHamJwU1BGdXNDR0NNekRhNk5mMGpvOFRuRWxKbGdPZlRteE1rQ1J4bl9Pd1VlS3VrRjdHVl9GV2tXTFlrb2I0OVRpc1c5RmVuWkxUTnB3TFlWb20tMVE0U2RaQXVrUlFqWDczVlZTdkNRVG9rdXBpUTFsNHNrMktjUlVtX0tFdXRTTlA3ZEV5U1dzejVQX1ppbzN4TnJtOVEzNnRfT2F5UThQVEJ0OTRQRGc?oc=5\" target=\"_blank\">Week in review: Accenture data breach, great open-source cybersecurity tools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Help Net Security</font>"
     },
     {
+      "title": "Fake Go DNS scanner spread malware through over 200 GitHub repos — 'Operation Muck and Load' has published 700 malicious modules since January - Tom's Hardware",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcGFaMXpzRl9VQ2pJWnFfandva2hPQ0RtY3ZoWXFlalg1R2lheU4tY3kzaTBUVjZtZ0NNOGROR0tZZXdOTmU2T2Y4RXdJR0FHMUZNcjJ2TEE2UElUbzNUODFWdW5zV3pET0cyUzI2TEo5QmY5UXFkckVtN1IzVEFzOEZYVlFBS2VsdFViMWVjWFJoNlB6T0dqby1zZ0RUc3pQNkdNWVY1WlU1TXNSU3kzWVdqSnBTTFgtNXJuRExPbUg4cnlJRFVJeVUxbVZRRzB2cm5tNkg3MTVSYXdFQVR0Z0d0X0RMQ3pFU2Z1ai1PTGw?oc=5",
+      "source": "Tom's Hardware",
+      "published": "Sat, 11 Jul 2026 11:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcGFaMXpzRl9VQ2pJWnFfandva2hPQ0RtY3ZoWXFlalg1R2lheU4tY3kzaTBUVjZtZ0NNOGROR0tZZXdOTmU2T2Y4RXdJR0FHMUZNcjJ2TEE2UElUbzNUODFWdW5zV3pET0cyUzI2TEo5QmY5UXFkckVtN1IzVEFzOEZYVlFBS2VsdFViMWVjWFJoNlB6T0dqby1zZ0RUc3pQNkdNWVY1WlU1TXNSU3kzWVdqSnBTTFgtNXJuRExPbUg4cnlJRFVJeVUxbVZRRzB2cm5tNkg3MTVSYXdFQVR0Z0d0X0RMQ3pFU2Z1ai1PTGw?oc=5\" target=\"_blank\">Fake Go DNS scanner spread malware through over 200 GitHub repos — 'Operation Muck and Load' has published 700 malicious modules since January</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Hardware</font>"
+    },
+    {
       "title": "2026 Cybersecurity Assessment Report - Bitdefender",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdFV5THcyNTNvSnc0ZGdjQ3pjeXhaNlZOSlBSUjU4M3ZUTGZwQS1GZTNrekxPUWtMNk1KRlo4Z29qYTNRYnBMUkRlczJ1M2VzVHpLTlBwTkN3QnItS0lRZGxNSXdza1FvcEdnT04tamFxNVd2U1RIMlN6R2RCcHl6NEJYYjRxckI5?oc=5",
       "source": "Bitdefender",
       "published": "Sat, 11 Jul 2026 21:34:25 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdFV5THcyNTNvSnc0ZGdjQ3pjeXhaNlZOSlBSUjU4M3ZUTGZwQS1GZTNrekxPUWtMNk1KRlo4Z29qYTNRYnBMUkRlczJ1M2VzVHpLTlBwTkN3QnItS0lRZGxNSXdza1FvcEdnT04tamFxNVd2U1RIMlN6R2RCcHl6NEJYYjRxckI5?oc=5\" target=\"_blank\">2026 Cybersecurity Assessment Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitdefender</font>"
+    },
+    {
+      "title": "Marshall’s cybersecurity students receive top scores in national competition - herald-dispatch.com",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPbGdrbHlFRmNEU3luaEExSHhZclZUMDRaTEhMZlJSUENycDRwTzA4c1Z4WmE4bFctZVd0aUVvX1lpMTRSUEVIUjZESi1JSHo0NmpvdmdKRGhsM3JoMlFDekF1LURsZ2lfV2NfYmdtelpyWkpNbGhEVWZQOUE5Wl9XYW5SbnFVSHNLOC1tenFOazVPWXM2MUNFSk1EdXUwWHZWWkYzNkU4TTZiSXduQThqY0NjcnB1VlVNejVuOWlEMFNVaXVMUkxkcjNTOGR2dTFSWUhjcVl1RE0xRjRFVmFjVkNYbE1feWx3VWtONkpVWmdwSkw1RG9JQkdNWm5wODM1N1hmMXZ5TExEakFsT3c?oc=5",
+      "source": "herald-dispatch.com",
+      "published": "Sun, 12 Jul 2026 18:29:06 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxPbGdrbHlFRmNEU3luaEExSHhZclZUMDRaTEhMZlJSUENycDRwTzA4c1Z4WmE4bFctZVd0aUVvX1lpMTRSUEVIUjZESi1JSHo0NmpvdmdKRGhsM3JoMlFDekF1LURsZ2lfV2NfYmdtelpyWkpNbGhEVWZQOUE5Wl9XYW5SbnFVSHNLOC1tenFOazVPWXM2MUNFSk1EdXUwWHZWWkYzNkU4TTZiSXduQThqY0NjcnB1VlVNejVuOWlEMFNVaXVMUkxkcjNTOGR2dTFSWUhjcVl1RE0xRjRFVmFjVkNYbE1feWx3VWtONkpVWmdwSkw1RG9JQkdNWm5wODM1N1hmMXZ5TExEakFsT3c?oc=5\" target=\"_blank\">Marshall’s cybersecurity students receive top scores in national competition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">herald-dispatch.com</font>"
     },
     {
       "title": "UA Little Rock Expands Cybersecurity Support for Arkansas Communities - University of Arkansas at Little Rock",
@@ -92,13 +99,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQeXhFYmI4aVVPdUVaSXBPVktKNzhCMjZ1YkhsUThQVnFqMTFZMFRIVDRZemtRNV9zN2RsNTUyN1c3TE5Cc1dsa0dOTmo1dnNycjdUbTFSa3o3bXBiTFdnUXMxZUlwZWkyNHJ1TTJTU0I0U2lueFFRTUs3SFAyTS02VEJIbEVNdGtwb3lONG1WcU4?oc=5\" target=\"_blank\">Ronald Reagan's Landmark Cybersecurity Policies Were Influenced By A Classic '80s Techno-Thriller</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bgr.com</font>"
     },
     {
-      "title": "Federal agency touts operation of cybersecurity sensors across the North - CBC",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nTFFiS0MxZmxkTWlWU1JuZkxZV1FZU2JBUTY3UUFPcHNGR25sUnR1c0NnaWxjanJ5WEs4YVhGdmpVMkpGd0xsZTRmSTU1bEgtRmprWHRqZE1WT3NfaXJKWVFWcE5kSXlkekktZDE5SlJkQQ?oc=5",
-      "source": "CBC",
-      "published": "Sun, 12 Jul 2026 16:07:16 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5nTFFiS0MxZmxkTWlWU1JuZkxZV1FZU2JBUTY3UUFPcHNGR25sUnR1c0NnaWxjanJ5WEs4YVhGdmpVMkpGd0xsZTRmSTU1bEgtRmprWHRqZE1WT3NfaXJKWVFWcE5kSXlkekktZDE5SlJkQQ?oc=5\" target=\"_blank\">Federal agency touts operation of cybersecurity sensors across the North</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC</font>"
-    },
-    {
       "title": "Chinese AI Models Advance, Causing US Cybersecurity Anxiety - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMFRBakFWVXR3WDZINS1OTVdtamRmdWtfWHBCLXhyVVRXZFZYbjhiLUh6S1RDMC16UU52UnVoWGlZOGFhS2xkNDBhU21zazFFUzY2aml2c1ZHMlBkakJDYnJveEJ6QXRteU50MVo2bkcyenBXVEcyLUpEZ0IyVkZHb2RKOFNpNHVuM1NvR1IxeDFVV1pqVXgySkdLbWVBcVFFejd3YTc5bnRmNVpYT2ZBTHlB?oc=5",
       "source": "Bloomberg.com",
@@ -111,6 +111,13 @@
       "source": "European Commission",
       "published": "Tue, 07 Jul 2026 12:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQN1RWWkhQOEtfcVpqcWtkZXBfTFFMN0xaZno1cmdyRGU3ODVuZ3YycHJGWmxReFd1RnFnZmpDZ3FxZTFUejRhQkN0N1c5UW9fNGVfWWJUOFFDZlhLMFpwUXdFN3d6TlpyWUlRT3pMOTBuOFJqa2ppbU5oUFNVQ1FQUi1LRTBla2lfVjlXczNfVFdZQzVWaF9ublFlZ0pPRlV4RXM0WU9WSGQyN3Y2azF2UXV5ZFMydW5CQVNuTE5KdmxKd2VXdy03ODgxYnM?oc=5\" target=\"_blank\">New EU plan to address the risks and opportunities of advanced AI for cybersecurity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">European Commission</font>"
+    },
+    {
+      "title": "Federal agency touts operation of cybersecurity sensors across the North - CBC",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nTFFiS0MxZmxkTWlWU1JuZkxZV1FZU2JBUTY3UUFPcHNGR25sUnR1c0NnaWxjanJ5WEs4YVhGdmpVMkpGd0xsZTRmSTU1bEgtRmprWHRqZE1WT3NfaXJKWVFWcE5kSXlkekktZDE5SlJkQQ?oc=5",
+      "source": "CBC",
+      "published": "Sun, 12 Jul 2026 16:07:16 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5nTFFiS0MxZmxkTWlWU1JuZkxZV1FZU2JBUTY3UUFPcHNGR25sUnR1c0NnaWxjanJ5WEs4YVhGdmpVMkpGd0xsZTRmSTU1bEgtRmprWHRqZE1WT3NfaXJKWVFWcE5kSXlkekktZDE5SlJkQQ?oc=5\" target=\"_blank\">Federal agency touts operation of cybersecurity sensors across the North</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC</font>"
     },
     {
       "title": "CIRCIA, other big cyber rules expected to get finalized this fall - Federal News Network",
@@ -132,64 +139,64 @@
       "source": "Ropes & Gray LLP",
       "published": "Fri, 10 Jul 2026 10:35:29 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNTlhNYXdjbWRsa2RSU1FZelFFdmdnTUJGQk9tbEZHSnp0OTJhLU9PeHZuckhyaldzMzJlM2lkdF82ZzA1UkhOc0E1MHc0akFaWXl2OFFuRU52Um5aYXNtLUJySFV6RGNOYTdiN19zVnMzb2hjVE90aWFzeDRHa2FaZ29haGxLSTFxQ2R5bDNxWGtSRko3dEZlUU9kT3lJYUdPQ0M4Q3ZxN1c1cUJXaFdGWnhfdkl0WklDOFNpd0VGcWs5UHlS?oc=5\" target=\"_blank\">Regulatory Frontier: Cybersecurity In A World Of New AI Models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ropes & Gray LLP</font>"
-    },
-    {
-      "title": "Schema Markup for Security Content: The Structured Data That Actually Gets Cybersecurity Vendors Cited by AI - Security Boulevard",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVjdyYXJkaVBIWXFBYk1xQ3ctMDlkZnpCMkREazRENG5GUjVPQmhPZXNpYUJocnViVUZjdzhhNDVlb2xXTUktdllValR3SGJlb0VzMHpUcHhsOGtKODRkZ2NZU25rMzZZRmlxMUpER3dHUHp3WVFQNkJFRDd1T3k4Slo5eW5DS2FqbWNVVEpITjJtNkZfVUI4a1ZTeHhrLUVJZXRjZ1p6WnpKZ1d1ME1RMHphMEpIUzh6cHRzV09Vc1FyZ3UyV1BZSVVfdDZmZE8wZktYemdoVkhRUkdiLWR3?oc=5",
-      "source": "Security Boulevard",
-      "published": "Sun, 12 Jul 2026 07:07:30 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVjdyYXJkaVBIWXFBYk1xQ3ctMDlkZnpCMkREazRENG5GUjVPQmhPZXNpYUJocnViVUZjdzhhNDVlb2xXTUktdllValR3SGJlb0VzMHpUcHhsOGtKODRkZ2NZU25rMzZZRmlxMUpER3dHUHp3WVFQNkJFRDd1T3k4Slo5eW5DS2FqbWNVVEpITjJtNkZfVUI4a1ZTeHhrLUVJZXRjZ1p6WnpKZ1d1ME1RMHphMEpIUzh6cHRzV09Vc1FyZ3UyV1BZSVVfdDZmZE8wZktYemdoVkhRUkdiLWR3?oc=5\" target=\"_blank\">Schema Markup for Security Content: The Structured Data That Actually Gets Cybersecurity Vendors Cited by AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Security Boulevard</font>"
     }
   ],
   "Sports": [
     {
-      "title": "World Cup schedule, results: Argentina joins England, Spain and France in stacked semifinal field - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUTVwY1cyejlPY2hMeWtranAtX2t1RnhTbGdZWkxFVFZaS2VEY3ZOUHZ3d2hNSGd6OFJxRVJXSEJXMUFobk9ZSDF0Tnh5UWY0YWVCS050QUswTUZlYTQ3dmhnWEpxbHk3a3p6UzI5TjAwTVhaSVIyckcxMDhjVHlncC04VW90eGFaRW5UN0dvWUU1Tm5FYVhERWpnWlh6WFFQUE5Ra1FhZkc5cTlaUUcwRXV1TnBlbDhKZXQ4Wg?oc=5",
-      "source": "Yahoo Sports",
-      "published": "Sun, 12 Jul 2026 13:00:30 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPUTVwY1cyejlPY2hMeWtranAtX2t1RnhTbGdZWkxFVFZaS2VEY3ZOUHZ3d2hNSGd6OFJxRVJXSEJXMUFobk9ZSDF0Tnh5UWY0YWVCS050QUswTUZlYTQ3dmhnWEpxbHk3a3p6UzI5TjAwTVhaSVIyckcxMDhjVHlncC04VW90eGFaRW5UN0dvWUU1Tm5FYVhERWpnWlh6WFFQUE5Ra1FhZkc5cTlaUUcwRXV1TnBlbDhKZXQ4Wg?oc=5\" target=\"_blank\">World Cup schedule, results: Argentina joins England, Spain and France in stacked semifinal field</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>"
-    },
-    {
-      "title": "World Cup 2026: England advances, but 'Cable of God' and contentious VAR call stoke fires of conspiracy - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRlNpbXliUHI3MmJseDAyWERmREdvc2NhUGpielBOdmNNNFM3YldqakdDUEotdGMwV0U0aXh4ajJlZ2U1U3BuaWlPYU5SNTdvM3pySzM0dkFFbEFmYXBNa0pjZHdxckM2d2NLdFhoWFNjdndCUkxETHdqZEQtejRvbW9qcDAxNzRrQ3kyUmxiZGl1Rk9kS2VYSjBjRGNmU0habkVCX1J4VTNacUhPcVZ0RVpuZ3RFaV9ZN1BoXzAtRUNuT05WR3ZiV3NJYjFvX2k1ZmhOendPMlRYMHFsa3JVOFNzYXFxNmd2M1E?oc=5",
-      "source": "Yahoo Sports",
-      "published": "Sun, 12 Jul 2026 01:28:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRlNpbXliUHI3MmJseDAyWERmREdvc2NhUGpielBOdmNNNFM3YldqakdDUEotdGMwV0U0aXh4ajJlZ2U1U3BuaWlPYU5SNTdvM3pySzM0dkFFbEFmYXBNa0pjZHdxckM2d2NLdFhoWFNjdndCUkxETHdqZEQtejRvbW9qcDAxNzRrQ3kyUmxiZGl1Rk9kS2VYSjBjRGNmU0habkVCX1J4VTNacUhPcVZ0RVpuZ3RFaV9ZN1BoXzAtRUNuT05WR3ZiV3NJYjFvX2k1ZmhOendPMlRYMHFsa3JVOFNzYXFxNmd2M1E?oc=5\" target=\"_blank\">World Cup 2026: England advances, but 'Cable of God' and contentious VAR call stoke fires of conspiracy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>"
-    },
-    {
-      "title": "World Cup 2026: Argentina 3-1 Switzerland (AET): Julian Alvarez scores stunner to set up blockbuster semi-final vs England - Sky Sports",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaEhHdTlLd0VGY0VpTkxUSmVDa25qRkNCQUkta1lueVJaQ0NaRWZva1ZmN1RjeGhZRGxiZXhPa0daRk1fZVlBMDhibmdDT19FZWw3RVpVZWJKMnEtb3VfVThMZDVpT3MzVGhyVW8zaFN4M1NkaFFYOV85OHd2ZDFIQVpDWVN6cTBEZW42S29Sa3M0RjJCSUNzZFZR?oc=5",
-      "source": "Sky Sports",
-      "published": "Sun, 12 Jul 2026 16:28:15 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPaEhHdTlLd0VGY0VpTkxUSmVDa25qRkNCQUkta1lueVJaQ0NaRWZva1ZmN1RjeGhZRGxiZXhPa0daRk1fZVlBMDhibmdDT19FZWw3RVpVZWJKMnEtb3VfVThMZDVpT3MzVGhyVW8zaFN4M1NkaFFYOV85OHd2ZDFIQVpDWVN6cTBEZW42S29Sa3M0RjJCSUNzZFZR?oc=5\" target=\"_blank\">World Cup 2026: Argentina 3-1 Switzerland (AET): Julian Alvarez scores stunner to set up blockbuster semi-final vs England</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sky Sports</font>"
-    },
-    {
-      "title": "France vs. Spain: Major Tournament Matchups Through The Years - FOX Sports",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUlRSOS1QdmotUW9TVFdialNudDdnQUFZcHNHNlZHWkIwa19uQVlMeHJiVWRidlRWeFhkZmdoNzVuTVRiaUR1dGlReGx1ZEFPNDNKQ2dnbllOQV8zRHkyVkhZVHVFZ09qcUlNM1hBblA5ZEdXRGZVaUVuWUlXbmJja0FtMzJqaEw2QXBPOUowNUxTSC14b1RPV01xd0vSAZwBQVVfeXFMUEl3WkVQdjk5M3ctUG1hSEFUenNVbHQ1eVNzdVgzNWVHYlhEOF9QRnF5WDhLMFNpbzZDb3dCTW5kUXdvekE1bjhIV2pwZjNXSi1Bbkp6RmtuRFZ0UFZEY2FWY0pSdHota2d2cEdHem9WVGhGMFhaREdiNlNHaXhUY1NUUTRIMC0wSnN6QTdWd0ZrZHhpdENoaFRydjBa?oc=5",
+      "title": "Are There Any World Cup Games Today? Semifinal Schedule France vs Spain, England vs Argentina - FOX Sports",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMF9Eb0p5ejlJNHRxS1BKY0dsamZxR21OTTU5TS1nRGJaYjh4N0ttZVZDemtnMjA5cGZySjg4M0VXZjd5Ti1HSUp3T1k0Tm5ISGpHNlkyTmhUQ1FiaGxJXy1FTXhaZFExTEU4VlVEVEphaE9YZlAzdHVXZ3Vyd19BWWJ0M1A1SmREV095LUo0dGRkdjU5eTFVaU56YUV4OW5vcHVXcXdHZmluOHZ5eTZTRkVuT2lkT0dCckNMblFBaw?oc=5",
       "source": "FOX Sports",
-      "published": "Sun, 12 Jul 2026 17:20:18 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQUlRSOS1QdmotUW9TVFdialNudDdnQUFZcHNHNlZHWkIwa19uQVlMeHJiVWRidlRWeFhkZmdoNzVuTVRiaUR1dGlReGx1ZEFPNDNKQ2dnbllOQV8zRHkyVkhZVHVFZ09qcUlNM1hBblA5ZEdXRGZVaUVuWUlXbmJja0FtMzJqaEw2QXBPOUowNUxTSC14b1RPV01xd0vSAZwBQVVfeXFMUEl3WkVQdjk5M3ctUG1hSEFUenNVbHQ1eVNzdVgzNWVHYlhEOF9QRnF5WDhLMFNpbzZDb3dCTW5kUXdvekE1bjhIV2pwZjNXSi1Bbkp6RmtuRFZ0UFZEY2FWY0pSdHota2d2cEdHem9WVGhGMFhaREdiNlNHaXhUY1NUUTRIMC0wSnN6QTdWd0ZrZHhpdENoaFRydjBa?oc=5\" target=\"_blank\">France vs. Spain: Major Tournament Matchups Through The Years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Sports</font>"
+      "published": "Sun, 12 Jul 2026 12:01:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQMF9Eb0p5ejlJNHRxS1BKY0dsamZxR21OTTU5TS1nRGJaYjh4N0ttZVZDemtnMjA5cGZySjg4M0VXZjd5Ti1HSUp3T1k0Tm5ISGpHNlkyTmhUQ1FiaGxJXy1FTXhaZFExTEU4VlVEVEphaE9YZlAzdHVXZ3Vyd19BWWJ0M1A1SmREV095LUo0dGRkdjU5eTFVaU56YUV4OW5vcHVXcXdHZmluOHZ5eTZTRkVuT2lkT0dCckNMblFBaw?oc=5\" target=\"_blank\">Are There Any World Cup Games Today? Semifinal Schedule France vs Spain, England vs Argentina</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Sports</font>"
     },
     {
-      "title": "Seahawks news: Training camp battles, breakout TE, record sale - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPV2M3VlJRX0p4UktlU2NOMnEzQ2hLVW1mZVgxU1pfY0xEWU95SGRNZ2ZON3g0VDE1NTVfcmpFaE5fMmtoV0lFeEVTa2tkVGVMUXdhZWZzdGtnMWRScm5zbUxuTnBiOVpSRTFFTjhNbEpHcHNlZlJMVzFFeUgzai05YnZFblI0dk9kcDVBZA?oc=5",
+      "title": "World Cup 2026: Julián Álvarez's extra-time golazo powers Argentina's 3-1 quarterfinal win over 10-man Switzerland - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOUzNwY3FSc3hxYy1zT1hOMU5wZ3NMQWtQbEIyaDhwb2JGUWM5REFnQTFGcVgtYlBsZ29tWHg0RnZFdXRYei1Ua1lFOVJsS2s2OVJsZUtMMnpQeENxWGNLZHVLZWpVNFpVQ1lrQjdEbGFiSEV1ZUR5eXJFVGRvV0kyMDMtblBwTTZ0SHhRc1hCbTJMTmVpeXJYa3R2emQ1ODBaUjFwR2NPczdKWXhKa3IzZ2NmLWxJLXpHa2tEM0gycS1YN3lGcTNmUWYwWS14M2l4ZXJNSEdYSGM4RXdZR29PZmZqcTlDb041TEx4Ylk5TXRDQW95Rmdob2twUC04Tm1kLUJReW1xX2QwTzYt?oc=5",
       "source": "Yahoo Sports",
-      "published": "Sun, 12 Jul 2026 17:04:13 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPV2M3VlJRX0p4UktlU2NOMnEzQ2hLVW1mZVgxU1pfY0xEWU95SGRNZ2ZON3g0VDE1NTVfcmpFaE5fMmtoV0lFeEVTa2tkVGVMUXdhZWZzdGtnMWRScm5zbUxuTnBiOVpSRTFFTjhNbEpHcHNlZlJMVzFFeUgzai05YnZFblI0dk9kcDVBZA?oc=5\" target=\"_blank\">Seahawks news: Training camp battles, breakout TE, record sale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>"
+      "published": "Sun, 12 Jul 2026 04:26:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxOUzNwY3FSc3hxYy1zT1hOMU5wZ3NMQWtQbEIyaDhwb2JGUWM5REFnQTFGcVgtYlBsZ29tWHg0RnZFdXRYei1Ua1lFOVJsS2s2OVJsZUtMMnpQeENxWGNLZHVLZWpVNFpVQ1lrQjdEbGFiSEV1ZUR5eXJFVGRvV0kyMDMtblBwTTZ0SHhRc1hCbTJMTmVpeXJYa3R2emQ1ODBaUjFwR2NPczdKWXhKa3IzZ2NmLWxJLXpHa2tEM0gycS1YN3lGcTNmUWYwWS14M2l4ZXJNSEdYSGM4RXdZR29PZmZqcTlDb041TEx4Ylk5TXRDQW95Rmdob2twUC04Tm1kLUJReW1xX2QwTzYt?oc=5\" target=\"_blank\">World Cup 2026: Julián Álvarez's extra-time golazo powers Argentina's 3-1 quarterfinal win over 10-man Switzerland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>"
     },
     {
-      "title": "Steelers top offensive lineman gets no respect from NFL execs - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdGVDdlhhTW05UGJGMDZsclpmc1NKMF9uOXJTSGEwVmxfRFVKd3YyWEo4ZzlSR0dLY1ROZUxlV1IxLUZFLUFKWU1pSUVfRlpaTHQxLXJpSFhwMlJyRUctMTdqTlBzWU81V0hRQWIyaTZfbnFtbXFrQnRDOHF5RjVrYURfY2R4NXU4RFdGcg?oc=5",
+      "title": "Top Kansas City Chiefs players to draft in fantasy football - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZFh0RGU0b25uWjNlc2ppa05WVWdkV2ZmX09DbHR0OGREZTRJMEUxRVRlTlktVHJxRjlpbEFiYUZQWWZEZmZFdHNmOGRXbzMxSDM4ZjNzZWRaSmFUVW5EVnNGSnE2dUVKdmthX1hadDJQUlFsZ1JPaXNOQzk4dlF1dl9fRDFvZw?oc=5",
       "source": "Yahoo Sports",
-      "published": "Sun, 12 Jul 2026 17:12:39 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOdGVDdlhhTW05UGJGMDZsclpmc1NKMF9uOXJTSGEwVmxfRFVKd3YyWEo4ZzlSR0dLY1ROZUxlV1IxLUZFLUFKWU1pSUVfRlpaTHQxLXJpSFhwMlJyRUctMTdqTlBzWU81V0hRQWIyaTZfbnFtbXFrQnRDOHF5RjVrYURfY2R4NXU4RFdGcg?oc=5\" target=\"_blank\">Steelers top offensive lineman gets no respect from NFL execs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>"
+      "published": "Sun, 12 Jul 2026 18:30:47 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPZFh0RGU0b25uWjNlc2ppa05WVWdkV2ZmX09DbHR0OGREZTRJMEUxRVRlTlktVHJxRjlpbEFiYUZQWWZEZmZFdHNmOGRXbzMxSDM4ZjNzZWRaSmFUVW5EVnNGSnE2dUVKdmthX1hadDJQUlFsZ1JPaXNOQzk4dlF1dl9fRDFvZw?oc=5\" target=\"_blank\">Top Kansas City Chiefs players to draft in fantasy football</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>"
     },
     {
-      "title": "Dodgers Injury Update: Encouraging Blake Snell, Kiké Hernández News Revealed - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOFNWaVpjYnliU2ZWSGZlZl8xUi1rRGo1U0h5VzJKWXlsOWVqTFBlNThFVWpZbll3TEhkbGN4c3o5OFdXM3g5eUlFMkRIWFZkMHh2ZHJWbE5YTGxZVWVhaGdlbVpmTEsxdzI1Q3E2enNiMGVvczdBMEZtZnhBUmFqektCUkJ4blFOVEJ2dERCbTA?oc=5",
+      "title": "Pittsburgh Steelers top 10 players ahead of 2026 season - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVzJ0ZWhFMHEtQkRtY3pLMkFGWkJyM3RVTTBqcXdhWEpsbjBxNjcxUVlkSmJLNFFPYnBrcHBHekp0UmRkZlpxX1h1di12enFLZmE4c3JLcF94bUdzTzRnRHJUX2ZCdmtlZkQyNzYyTlBmckRnMWs0OS1qNEFGTmduRkFWRDl1VzNSM2RZ?oc=5",
       "source": "Yahoo Sports",
-      "published": "Sun, 12 Jul 2026 17:12:22 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNOFNWaVpjYnliU2ZWSGZlZl8xUi1rRGo1U0h5VzJKWXlsOWVqTFBlNThFVWpZbll3TEhkbGN4c3o5OFdXM3g5eUlFMkRIWFZkMHh2ZHJWbE5YTGxZVWVhaGdlbVpmTEsxdzI1Q3E2enNiMGVvczdBMEZtZnhBUmFqektCUkJ4blFOVEJ2dERCbTA?oc=5\" target=\"_blank\">Dodgers Injury Update: Encouraging Blake Snell, Kiké Hernández News Revealed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>"
+      "published": "Sun, 12 Jul 2026 18:03:56 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVzJ0ZWhFMHEtQkRtY3pLMkFGWkJyM3RVTTBqcXdhWEpsbjBxNjcxUVlkSmJLNFFPYnBrcHBHekp0UmRkZlpxX1h1di12enFLZmE4c3JLcF94bUdzTzRnRHJUX2ZCdmtlZkQyNzYyTlBmckRnMWs0OS1qNEFGTmduRkFWRDl1VzNSM2RZ?oc=5\" target=\"_blank\">Pittsburgh Steelers top 10 players ahead of 2026 season</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>"
+    },
+    {
+      "title": "Browns roster: DT depth chart and expectations - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR0lZVS1mSVNacHJnZEViZjlyOUVOYjBwbmIwZzZ3angzU0ZuVGp0TGphZXpVNHU4NUtnamZRZ2xPYlRpdmM5elBEVlFOMVhLMUxIU0N3ay1mTXpwSGV6c24xZFotSDhfZWxaSjZ6ODhfOVdLUFhBNGNDemlWSkJ6MGhFUQ?oc=5",
+      "source": "Yahoo Sports",
+      "published": "Sun, 12 Jul 2026 17:48:16 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNR0lZVS1mSVNacHJnZEViZjlyOUVOYjBwbmIwZzZ3angzU0ZuVGp0TGphZXpVNHU4NUtnamZRZ2xPYlRpdmM5elBEVlFOMVhLMUxIU0N3ay1mTXpwSGV6c24xZFotSDhfZWxaSjZ6ODhfOVdLUFhBNGNDemlWSkJ6MGhFUQ?oc=5\" target=\"_blank\">Browns roster: DT depth chart and expectations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>"
+    },
+    {
+      "title": "Caitlin Clark WNBA letter a ‘wild overstep,’ sports editor says - NewsNation",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRUhPM0dRcHpIejVqbjdzOHVHb2NiT1Q0ZDJjcGlQTXpET0d6cVlQQzF5RWNBS19wWjRUeU9mN1huUEJqM1Y4SlJ6cEpNVVNVNGVYSDY5cFFZYTJRaVR6LUdKRlRENGtibHlTT19UMTJaSWZjaXVWTWZyQWotOGRuc093aUt0eDlt0gGOAUFVX3lxTFAxeTNSb095Qm5aMVJjTmVJSzZ0QWhDZk5MTk8yLWQ2dzBkenJpTVdXUmt5V1RtQ19SRDdyc0w2ZzcwQ2xKZ0UzWkRsZC16WlhtY0tzb2pRbzBwVVRWNVZ0Rkl5MS1rbVF1aWp4M0NBdTFJeVdFa0pNelEyQjg0N0dqOTlwZlRQbFZ2REtpbFE?oc=5",
+      "source": "NewsNation",
+      "published": "Sun, 12 Jul 2026 12:46:37 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRUhPM0dRcHpIejVqbjdzOHVHb2NiT1Q0ZDJjcGlQTXpET0d6cVlQQzF5RWNBS19wWjRUeU9mN1huUEJqM1Y4SlJ6cEpNVVNVNGVYSDY5cFFZYTJRaVR6LUdKRlRENGtibHlTT19UMTJaSWZjaXVWTWZyQWotOGRuc093aUt0eDlt0gGOAUFVX3lxTFAxeTNSb095Qm5aMVJjTmVJSzZ0QWhDZk5MTk8yLWQ2dzBkenJpTVdXUmt5V1RtQ19SRDdyc0w2ZzcwQ2xKZ0UzWkRsZC16WlhtY0tzb2pRbzBwVVRWNVZ0Rkl5MS1rbVF1aWp4M0NBdTFJeVdFa0pNelEyQjg0N0dqOTlwZlRQbFZ2REtpbFE?oc=5\" target=\"_blank\">Caitlin Clark WNBA letter a ‘wild overstep,’ sports editor says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NewsNation</font>"
+    },
+    {
+      "title": "Phillies select Tyler Spangler, a ‘total package' shortstop, in MLB draft - NBC Sports Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZVMtWGhQZFVBMFRoSHJkNGpVdUtjMXp4a1dhZXlNV0g4Ynh4STd5dWpUUlNEYVg5emJpOUZ1MldPdnlodkRVS2tWVkUyM25Cb2dBSkNKM1lXOTRkZnhNVVB3bDFrWGtJdnBCdWVZODh1dHdhQS1NdnlZQ2oySTAxZE9QZC1fcnhKSGxXR1BvQ1lGV2hZbVUwemJiWDhLaENEajZRNElVZWM3eUxNY19nVWxsWWtmdUh4aEJvSdIBxAFBVV95cUxNOU43SmFLUzNlVzdRWkszdVhBNFZMbXdIUlZ6T21TX2dxQnJjMjhRcUNWM2ZZOW9EazNYbmR3ZHFrdHVaejRlT3lzQWVwUFJIMDNyQ2x1VXl4VUlTYXdrejhaWUlXY3NyRU9GZ1N6TE4zQTJrUHVpYi1rX3piNENQbUlWNXhKa1BuSlhZYnJaRG5sd19tWXhFNUV2MUFLNkxIV0lMNndhcHRBT2tkNk94LXNEVU9MN3Y1S2J6V1FjWW44X2Vk?oc=5",
+      "source": "NBC Sports Philadelphia",
+      "published": "Sun, 12 Jul 2026 02:18:04 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQZVMtWGhQZFVBMFRoSHJkNGpVdUtjMXp4a1dhZXlNV0g4Ynh4STd5dWpUUlNEYVg5emJpOUZ1MldPdnlodkRVS2tWVkUyM25Cb2dBSkNKM1lXOTRkZnhNVVB3bDFrWGtJdnBCdWVZODh1dHdhQS1NdnlZQ2oySTAxZE9QZC1fcnhKSGxXR1BvQ1lGV2hZbVUwemJiWDhLaENEajZRNElVZWM3eUxNY19nVWxsWWtmdUh4aEJvSdIBxAFBVV95cUxNOU43SmFLUzNlVzdRWkszdVhBNFZMbXdIUlZ6T21TX2dxQnJjMjhRcUNWM2ZZOW9EazNYbmR3ZHFrdHVaejRlT3lzQWVwUFJIMDNyQ2x1VXl4VUlTYXdrejhaWUlXY3NyRU9GZ1N6TE4zQTJrUHVpYi1rX3piNENQbUlWNXhKa1BuSlhZYnJaRG5sd19tWXhFNUV2MUFLNkxIV0lMNndhcHRBT2tkNk94LXNEVU9MN3Y1S2J6V1FjWW44X2Vk?oc=5\" target=\"_blank\">Phillies select Tyler Spangler, a ‘total package' shortstop, in MLB draft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Sports Philadelphia</font>"
+    },
+    {
+      "title": "I questioned Ja Morant. To my surprise, he answered | Bill Oram - OregonLive.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMHRtbENQd01OUXRfc0FXWnlUTUJKYktLdVNNWkRvZjNCdFVKX3VTeXJNTmJDYk9QU3RHZ2dFY0ZNR1BCMEdKb1o4MU1qTld4U2lpeHc0ZnhidUdUMkJxN0Joc29TLTE4VXdCM1I5NDdJODhaSmg0dWdabTBJaldtdnJJUFR1ZWNVOFZLdHBpZ3hCUElfMm5lWFhudmwtTmFWOEZkWTNiOHRPdw?oc=5",
+      "source": "OregonLive.com",
+      "published": "Sun, 12 Jul 2026 03:05:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMHRtbENQd01OUXRfc0FXWnlUTUJKYktLdVNNWkRvZjNCdFVKX3VTeXJNTmJDYk9QU3RHZ2dFY0ZNR1BCMEdKb1o4MU1qTld4U2lpeHc0ZnhidUdUMkJxN0Joc29TLTE4VXdCM1I5NDdJODhaSmg0dWdabTBJaldtdnJJUFR1ZWNVOFZLdHBpZ3hCUElfMm5lWFhudmwtTmFWOEZkWTNiOHRPdw?oc=5\" target=\"_blank\">I questioned Ja Morant. To my surprise, he answered | Bill Oram</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OregonLive.com</font>"
     },
     {
       "title": "Seahawks to be sold to Khosla family group for record price - The Seattle Times",
@@ -206,32 +213,18 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU1J5TVJFd3N5NDViR1J5LXBqaldQR3U3S0JGQTZlVUhEWUtPdGNiNlZqS2NNR0sxVi0wdVVhWUhoU0d6ajRteldwempKSlBNLUtkaG5yQUx4YnZvNENFVWpfVENNSjFBU1ViSXMzbWczQm10bkxCYTBrYkpWeng0bkYtN0k3dXhRNFJRNzBmRld5SjducVNINnFwRkd3N2VYZkQ3bFZFOTFjUk9Sa0ZnWDEwSUZLTnJOWEhMaTd1ZWw?oc=5\" target=\"_blank\">FlexWork Sports fumbled Tetairoa McMillan youth football camp</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Sports</font>"
     },
     {
-      "title": "Caitlin Clark WNBA letter a ‘wild overstep,’ Sports editor says - NewsNation",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRUhPM0dRcHpIejVqbjdzOHVHb2NiT1Q0ZDJjcGlQTXpET0d6cVlQQzF5RWNBS19wWjRUeU9mN1huUEJqM1Y4SlJ6cEpNVVNVNGVYSDY5cFFZYTJRaVR6LUdKRlRENGtibHlTT19UMTJaSWZjaXVWTWZyQWotOGRuc093aUt0eDlt0gGOAUFVX3lxTFAxeTNSb095Qm5aMVJjTmVJSzZ0QWhDZk5MTk8yLWQ2dzBkenJpTVdXUmt5V1RtQ19SRDdyc0w2ZzcwQ2xKZ0UzWkRsZC16WlhtY0tzb2pRbzBwVVRWNVZ0Rkl5MS1rbVF1aWp4M0NBdTFJeVdFa0pNelEyQjg0N0dqOTlwZlRQbFZ2REtpbFE?oc=5",
-      "source": "NewsNation",
-      "published": "Sun, 12 Jul 2026 03:43:37 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRUhPM0dRcHpIejVqbjdzOHVHb2NiT1Q0ZDJjcGlQTXpET0d6cVlQQzF5RWNBS19wWjRUeU9mN1huUEJqM1Y4SlJ6cEpNVVNVNGVYSDY5cFFZYTJRaVR6LUdKRlRENGtibHlTT19UMTJaSWZjaXVWTWZyQWotOGRuc093aUt0eDlt0gGOAUFVX3lxTFAxeTNSb095Qm5aMVJjTmVJSzZ0QWhDZk5MTk8yLWQ2dzBkenJpTVdXUmt5V1RtQ19SRDdyc0w2ZzcwQ2xKZ0UzWkRsZC16WlhtY0tzb2pRbzBwVVRWNVZ0Rkl5MS1rbVF1aWp4M0NBdTFJeVdFa0pNelEyQjg0N0dqOTlwZlRQbFZ2REtpbFE?oc=5\" target=\"_blank\">Caitlin Clark WNBA letter a ‘wild overstep,’ Sports editor says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NewsNation</font>"
-    },
-    {
-      "title": "Phillies select Tyler Spangler, a “total package” shortstop, in MLB draft - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZVMtWGhQZFVBMFRoSHJkNGpVdUtjMXp4a1dhZXlNV0g4Ynh4STd5dWpUUlNEYVg5emJpOUZ1MldPdnlodkRVS2tWVkUyM25Cb2dBSkNKM1lXOTRkZnhNVVB3bDFrWGtJdnBCdWVZODh1dHdhQS1NdnlZQ2oySTAxZE9QZC1fcnhKSGxXR1BvQ1lGV2hZbVUwemJiWDhLaENEajZRNElVZWM3eUxNY19nVWxsWWtmdUh4aEJvSdIBxAFBVV95cUxNOU43SmFLUzNlVzdRWkszdVhBNFZMbXdIUlZ6T21TX2dxQnJjMjhRcUNWM2ZZOW9EazNYbmR3ZHFrdHVaejRlT3lzQWVwUFJIMDNyQ2x1VXl4VUlTYXdrejhaWUlXY3NyRU9GZ1N6TE4zQTJrUHVpYi1rX3piNENQbUlWNXhKa1BuSlhZYnJaRG5sd19tWXhFNUV2MUFLNkxIV0lMNndhcHRBT2tkNk94LXNEVU9MN3Y1S2J6V1FjWW44X2Vk?oc=5",
-      "source": "NBC Sports Philadelphia",
-      "published": "Sat, 11 Jul 2026 22:18:21 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQZVMtWGhQZFVBMFRoSHJkNGpVdUtjMXp4a1dhZXlNV0g4Ynh4STd5dWpUUlNEYVg5emJpOUZ1MldPdnlodkRVS2tWVkUyM25Cb2dBSkNKM1lXOTRkZnhNVVB3bDFrWGtJdnBCdWVZODh1dHdhQS1NdnlZQ2oySTAxZE9QZC1fcnhKSGxXR1BvQ1lGV2hZbVUwemJiWDhLaENEajZRNElVZWM3eUxNY19nVWxsWWtmdUh4aEJvSdIBxAFBVV95cUxNOU43SmFLUzNlVzdRWkszdVhBNFZMbXdIUlZ6T21TX2dxQnJjMjhRcUNWM2ZZOW9EazNYbmR3ZHFrdHVaejRlT3lzQWVwUFJIMDNyQ2x1VXl4VUlTYXdrejhaWUlXY3NyRU9GZ1N6TE4zQTJrUHVpYi1rX3piNENQbUlWNXhKa1BuSlhZYnJaRG5sd19tWXhFNUV2MUFLNkxIV0lMNndhcHRBT2tkNk94LXNEVU9MN3Y1S2J6V1FjWW44X2Vk?oc=5\" target=\"_blank\">Phillies select Tyler Spangler, a “total package” shortstop, in MLB draft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Sports Philadelphia</font>"
-    },
-    {
-      "title": "Nine Sports Movies That Scored Big at the Box Office - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT0dBd0pPcUxOSzdjVURJZGV5QXJoa29NREJRRThJQ1F6TE9GWWRpeWs3UEQ3VXhraVIyX0MwNzB5bVFRbWd1Zlotckc0SlZmUWFyaE5KbWhDMUJEbk15cjZFNkJ0Q0dkcXI5RVE2emV3M2lNa1VhQjhKVHJuWklQUVBnQQ?oc=5",
-      "source": "WSJ",
-      "published": "Sat, 11 Jul 2026 19:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOT0dBd0pPcUxOSzdjVURJZGV5QXJoa29NREJRRThJQ1F6TE9GWWRpeWs3UEQ3VXhraVIyX0MwNzB5bVFRbWd1Zlotckc0SlZmUWFyaE5KbWhDMUJEbk15cjZFNkJ0Q0dkcXI5RVE2emV3M2lNa1VhQjhKVHJuWklQUVBnQQ?oc=5\" target=\"_blank\">Nine Sports Movies That Scored Big at the Box Office</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>"
-    },
-    {
       "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch - Yahoo Sports",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
       "source": "Yahoo Sports",
       "published": "Sun, 12 Jul 2026 15:04:08 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5\" target=\"_blank\">2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>"
+    },
+    {
+      "title": "2026 World Cup Title Odds: Argentina, England Surge After Quarterfinal Wins - FOX Sports",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mZHhGU0hWQmRpVVU0UUlEYmduSkxhVk94dGg5eEctenMzUjlHblB6TzBrLVBIUUwtZjk0UHJsVkVlVk5jUkpmSWlHTEtjWXV3T3EwR0IwT3dxSTVFYmtkclotWURpQXpOVVNvdnJRcllpNEFqbTMzONIBeEFVX3lxTE40aldNZG1OMF8tZU4tVURfWkFsSUhPTFJBVjlxUnFYSDIwaEdZbGV0ZDVMZXBFV0tzQ0tDVXZEbngyYW5vM0JSU2RLX2pLNk1TZjd5bVFIR3JBQjhWc2l1clFNMTRYYWxLR3dheWNtT1lQaXhoTk40OA?oc=5",
+      "source": "FOX Sports",
+      "published": "Sun, 12 Jul 2026 15:31:29 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1mZHhGU0hWQmRpVVU0UUlEYmduSkxhVk94dGg5eEctenMzUjlHblB6TzBrLVBIUUwtZjk0UHJsVkVlVk5jUkpmSWlHTEtjWXV3T3EwR0IwT3dxSTVFYmtkclotWURpQXpOVVNvdnJRcllpNEFqbTMzONIBeEFVX3lxTE40aldNZG1OMF8tZU4tVURfWkFsSUhPTFJBVjlxUnFYSDIwaEdZbGV0ZDVMZXBFV0tzQ0tDVXZEbngyYW5vM0JSU2RLX2pLNk1TZjd5bVFIR3JBQjhWc2l1clFNMTRYYWxLR3dheWNtT1lQaXhoTk40OA?oc=5\" target=\"_blank\">2026 World Cup Title Odds: Argentina, England Surge After Quarterfinal Wins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Sports</font>"
     },
     {
       "title": "Connections: Sports Edition today: Hints and answers for July 12, 2026, puzzle No. 657 - The New York Times",
@@ -241,18 +234,11 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNUpTUjVFZTlnYmk3MWViQ0dOc01CZFlMN3hZQ2VsWUZfTnFod2NxZ19YSHR4ZGhycEZSVWFxdkFDSTJxUlpjMm1nQWRYTzBYUjJNTzNMZ2swV3N5UEZOd20zeUE2bmp0My1OT1hUdmlxQWo0dG93eGV0UUJoM245SzgyN2JsRFFuM3F4N0tTcTZCV3UwN2NkMlUtT3NNOEY5eVVON1VsZEQ4QQ?oc=5\" target=\"_blank\">Connections: Sports Edition today: Hints and answers for July 12, 2026, puzzle No. 657</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
     },
     {
-      "title": "How Much Do You Know About the Sports Business? Try Our Quiz - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLcmlGWUU1dl9wTUpNbllCcFUxekhZTDNWVnpha1hYekpFTWhCWGdwN0lveURycVNMNzRmd0JKZkNmck9iU0hmN1psN2xKOHVIamdSWG40ZW15cU5rZzhjU2NFUnJsd1Fzb3ZtZ2JhdGFfVjA?oc=5",
+      "title": "Twenty Years From Now, You Won’t Just Watch Sports—You’ll Enter Them - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rSHNuX2RleGgySzNWMXozOXNtVGZqNDZXcTc0YWVwWUREMjhUQUpCLWZFeXdrY3hmRy00clM1RUJJeENSbmpjbjltdE5oNHBKYjRRbjlVbXZYZ0lrSDNKN19aUjNxWXZLUWc?oc=5",
       "source": "WSJ",
       "published": "Sun, 12 Jul 2026 15:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBLcmlGWUU1dl9wTUpNbllCcFUxekhZTDNWVnpha1hYekpFTWhCWGdwN0lveURycVNMNzRmd0JKZkNmck9iU0hmN1psN2xKOHVIamdSWG40ZW15cU5rZzhjU2NFUnJsd1Fzb3ZtZ2JhdGFfVjA?oc=5\" target=\"_blank\">How Much Do You Know About the Sports Business? Try Our Quiz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>"
-    },
-    {
-      "title": "2026 FIFA World Cup - Watch and Stream Live Matches - FOX Sports",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2NkFyZl9OTnNjcGU4UEN2Q0M3SEdXcWE4cmZQejRpWVpxLUNxRm1YTGY2cGJ3b2RFVDNPVTlILUk4NGZ6Tm5vRVpKY3JWT3BUcVZObDZtQ3dORk0?oc=5",
-      "source": "FOX Sports",
-      "published": "Sun, 12 Jul 2026 14:46:40 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2NkFyZl9OTnNjcGU4UEN2Q0M3SEdXcWE4cmZQejRpWVpxLUNxRm1YTGY2cGJ3b2RFVDNPVTlILUk4NGZ6Tm5vRVpKY3JWT3BUcVZObDZtQ3dORk0?oc=5\" target=\"_blank\">2026 FIFA World Cup - Watch and Stream Live Matches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Sports</font>"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5rSHNuX2RleGgySzNWMXozOXNtVGZqNDZXcTc0YWVwWUREMjhUQUpCLWZFeXdrY3hmRy00clM1RUJJeENSbmpjbjltdE5oNHBKYjRRbjlVbXZYZ0lrSDNKN19aUjNxWXZLUWc?oc=5\" target=\"_blank\">Twenty Years From Now, You Won’t Just Watch Sports—You’ll Enter Them</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>"
     },
     {
       "title": "City Club of Eugene: Minor League Sports in the Community - NPR for Oregonians",
@@ -269,48 +255,48 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1wVEg3OWwzVGttdjktbTFvTmhmdGliUVNYWDBNVzhFdFZzdmtFVWxJMFZpbWRfWUNjbi0tQ0J2YmZNVl9Qb3I5N0pBTkF6azQ2bW9LRnZibGVKczJUc05kUTlkRlVsR2N3Vnc?oc=5\" target=\"_blank\">Inside the culture that makes Norway so good at sports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>"
     },
     {
-      "title": "Twenty Years From Now, You Won’t Just Watch Sports—You’ll Enter Them - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rSHNuX2RleGgySzNWMXozOXNtVGZqNDZXcTc0YWVwWUREMjhUQUpCLWZFeXdrY3hmRy00clM1RUJJeENSbmpjbjltdE5oNHBKYjRRbjlVbXZYZ0lrSDNKN19aUjNxWXZLUWc?oc=5",
-      "source": "WSJ",
-      "published": "Sun, 12 Jul 2026 15:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5rSHNuX2RleGgySzNWMXozOXNtVGZqNDZXcTc0YWVwWUREMjhUQUpCLWZFeXdrY3hmRy00clM1RUJJeENSbmpjbjltdE5oNHBKYjRRbjlVbXZYZ0lrSDNKN19aUjNxWXZLUWc?oc=5\" target=\"_blank\">Twenty Years From Now, You Won’t Just Watch Sports—You’ll Enter Them</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>"
+      "title": "Sports - Valley News",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1CajM3Uk9PMk00eXRIcHk4eGo1NXV5Ni1OVjc0bVRxd1psa01ucUkyZ3FmbDdrMUYwaC1wdjJXeGx6LXVNV09mN1NqZmRzUQ?oc=5",
+      "source": "Valley News",
+      "published": "Fri, 10 Jul 2026 18:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1CajM3Uk9PMk00eXRIcHk4eGo1NXV5Ni1OVjc0bVRxd1psa01ucUkyZ3FmbDdrMUYwaC1wdjJXeGx6LXVNV09mN1NqZmRzUQ?oc=5\" target=\"_blank\">Sports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Valley News</font>"
     },
     {
-      "title": "2026 World Cup Title Odds: Argentina, England Surge After Quarterfinal Wins - FOX Sports",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mZHhGU0hWQmRpVVU0UUlEYmduSkxhVk94dGg5eEctenMzUjlHblB6TzBrLVBIUUwtZjk0UHJsVkVlVk5jUkpmSWlHTEtjWXV3T3EwR0IwT3dxSTVFYmtkclotWURpQXpOVVNvdnJRcllpNEFqbTMzONIBeEFVX3lxTE40aldNZG1OMF8tZU4tVURfWkFsSUhPTFJBVjlxUnFYSDIwaEdZbGV0ZDVMZXBFV0tzQ0tDVXZEbngyYW5vM0JSU2RLX2pLNk1TZjd5bVFIR3JBQjhWc2l1clFNMTRYYWxLR3dheWNtT1lQaXhoTk40OA?oc=5",
+      "title": "How Much Do You Know About the Sports Business? Try Our Quiz - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLcmlGWUU1dl9wTUpNbllCcFUxekhZTDNWVnpha1hYekpFTWhCWGdwN0lveURycVNMNzRmd0JKZkNmck9iU0hmN1psN2xKOHVIamdSWG40ZW15cU5rZzhjU2NFUnJsd1Fzb3ZtZ2JhdGFfVjA?oc=5",
+      "source": "WSJ",
+      "published": "Sun, 12 Jul 2026 15:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBLcmlGWUU1dl9wTUpNbllCcFUxekhZTDNWVnpha1hYekpFTWhCWGdwN0lveURycVNMNzRmd0JKZkNmck9iU0hmN1psN2xKOHVIamdSWG40ZW15cU5rZzhjU2NFUnJsd1Fzb3ZtZ2JhdGFfVjA?oc=5\" target=\"_blank\">How Much Do You Know About the Sports Business? Try Our Quiz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSJ</font>"
+    },
+    {
+      "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match - FOX Sports",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2RtIBpAFBVV95cUxNQnBNVzFVejlFR0RBdTZSRUtvX19acUd4VTNKc3lLVFQ4eFRGV3ZFc202eDJIOWNzenFSUklSdHJLZFBRMGdYZE84UUtYVEVuckRoY0xsVnNvWndKTEcxdUFQLWVad0JzcV9qT0VBRzUyTFowYnQ4V1ExS2lGWFFaWjZ2TTVTeS1EOFh0RkYwWno0YzVFMGphLU9nRDlaZm5uV2Fudg?oc=5",
       "source": "FOX Sports",
-      "published": "Sun, 12 Jul 2026 03:51:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1mZHhGU0hWQmRpVVU0UUlEYmduSkxhVk94dGg5eEctenMzUjlHblB6TzBrLVBIUUwtZjk0UHJsVkVlVk5jUkpmSWlHTEtjWXV3T3EwR0IwT3dxSTVFYmtkclotWURpQXpOVVNvdnJRcllpNEFqbTMzONIBeEFVX3lxTE40aldNZG1OMF8tZU4tVURfWkFsSUhPTFJBVjlxUnFYSDIwaEdZbGV0ZDVMZXBFV0tzQ0tDVXZEbngyYW5vM0JSU2RLX2pLNk1TZjd5bVFIR3JBQjhWc2l1clFNMTRYYWxLR3dheWNtT1lQaXhoTk40OA?oc=5\" target=\"_blank\">2026 World Cup Title Odds: Argentina, England Surge After Quarterfinal Wins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Sports</font>"
+      "published": "Sun, 12 Jul 2026 04:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2RtIBpAFBVV95cUxNQnBNVzFVejlFR0RBdTZSRUtvX19acUd4VTNKc3lLVFQ4eFRGV3ZFc202eDJIOWNzenFSUklSdHJLZFBRMGdYZE84UUtYVEVuckRoY0xsVnNvWndKTEcxdUFQLWVad0JzcV9qT0VBRzUyTFowYnQ4V1ExS2lGWFFaWjZ2TTVTeS1EOFh0RkYwWno0YzVFMGphLU9nRDlaZm5uV2Fudg?oc=5\" target=\"_blank\">How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Sports</font>"
+    },
+    {
+      "title": "Phillies news: Bryce Harper, Kyle Schwarber, Zack Wheeler - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYnJwRHduVnE5OEVxS2JPV1BBblVvUUpTUW94STA0R3lKdC1VVXJ1bzhqOXlFXzVfSmJ5OFZNTDZKNkRydWtpdklPaWFITkszNHRXRHhSMVJ0OXFVemZLNi0xSm5zZmhZbWxhS2oxa1VGMU5jUUZtWjUzbEZkd0IwVUcxdmRKOUE?oc=5",
+      "source": "Yahoo Sports",
+      "published": "Sun, 12 Jul 2026 11:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOYnJwRHduVnE5OEVxS2JPV1BBblVvUUpTUW94STA0R3lKdC1VVXJ1bzhqOXlFXzVfSmJ5OFZNTDZKNkRydWtpdklPaWFITkszNHRXRHhSMVJ0OXFVemZLNi0xSm5zZmhZbWxhS2oxa1VGMU5jUUZtWjUzbEZkd0IwVUcxdmRKOUE?oc=5\" target=\"_blank\">Phillies news: Bryce Harper, Kyle Schwarber, Zack Wheeler</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>"
     }
   ],
   "Fashion": [
+    {
+      "title": "Sabrina Carpenter’s Take on French Girl Fashion Recognizes No Paris Heatwave - Vogue",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc1ZQd2l3SXZ5TnN5eFRsSl9NN3Boc1JDZmNsaDdoTUU0OUg3NGNaUXozRDlRdkxWYnBsbW41TllpTDlvN0J6OFNjOEU4UVFOc1M2Y2RkUHZIcmpLcWRIYVNoSG94OXpGTzBtSE1TT01pNlpnd0ZwSlNkOEFBc0FOa0dXdmwzVTVsNnc?oc=5",
+      "source": "Vogue",
+      "published": "Sun, 12 Jul 2026 09:52:45 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNc1ZQd2l3SXZ5TnN5eFRsSl9NN3Boc1JDZmNsaDdoTUU0OUg3NGNaUXozRDlRdkxWYnBsbW41TllpTDlvN0J6OFNjOEU4UVFOc1M2Y2RkUHZIcmpLcWRIYVNoSG94OXpGTzBtSE1TT01pNlpnd0ZwSlNkOEFBc0FOa0dXdmwzVTVsNnc?oc=5\" target=\"_blank\">Sabrina Carpenter’s Take on French Girl Fashion Recognizes No Paris Heatwave</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vogue</font>"
+    },
     {
       "title": "Back to the future as young England fans embrace fashion of the noughties - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObFNOWGgzSzJjME9BS0xHaUhyajREamNLZG1mSzVZdDFJYmpBdHIzQzAyYjEzZlRBVGlqNVpraFJxT21MejZoY091QUYwSUVNTU9BeHktNF9VdTM1RklPZ1Zwcko0azlDcDA5Sm1CTEF2UmRVTW5lb0g4cXhQaVMySkRabWctcC0ybHNSSXQzZDVvNVp2VjRsZlBaLVAwQlVFVDdicFdVYk1VZw?oc=5",
       "source": "The Guardian",
       "published": "Sun, 12 Jul 2026 14:58:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxObFNOWGgzSzJjME9BS0xHaUhyajREamNLZG1mSzVZdDFJYmpBdHIzQzAyYjEzZlRBVGlqNVpraFJxT21MejZoY091QUYwSUVNTU9BeHktNF9VdTM1RklPZ1Zwcko0azlDcDA5Sm1CTEF2UmRVTW5lb0g4cXhQaVMySkRabWctcC0ybHNSSXQzZDVvNVp2VjRsZlBaLVAwQlVFVDdicFdVYk1VZw?oc=5\" target=\"_blank\">Back to the future as young England fans embrace fashion of the noughties</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>"
-    },
-    {
-      "title": "Sarah Jessica Parker’s Rare Appearance at Paris Couture Fashion Week Came with a Nostalgic Sex and the City Nod - People.com",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcUs2NkhmQkNzTmRibWc0NFdKQmpoWFl2YVVWQWZrX2N4RGpDZnBnN3RJZUVPckVnM2tOS00yajF5bE1IVktQcHNyUmgwMGI3MVhVZXJRaDVxOC1MUG1MWFVQTFUxRGdjc0pXUVIwLUQ2bl9NSVJ2c0NJUy1idGROUVZYSGpmcWwzWmp2NU94Zmt2UjJPc2dTbWVn?oc=5",
-      "source": "People.com",
-      "published": "Thu, 09 Jul 2026 22:23:59 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPcUs2NkhmQkNzTmRibWc0NFdKQmpoWFl2YVVWQWZrX2N4RGpDZnBnN3RJZUVPckVnM2tOS00yajF5bE1IVktQcHNyUmgwMGI3MVhVZXJRaDVxOC1MUG1MWFVQTFUxRGdjc0pXUVIwLUQ2bl9NSVJ2c0NJUy1idGROUVZYSGpmcWwzWmp2NU94Zmt2UjJPc2dTbWVn?oc=5\" target=\"_blank\">Sarah Jessica Parker’s Rare Appearance at Paris Couture Fashion Week Came with a Nostalgic Sex and the City Nod</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">People.com</font>"
-    },
-    {
-      "title": "‘You better love what you see’: Sheryl Lee Ralph brings a self-love lesson to Paris Couture Week - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOTA1VGptelpvWlRmU2gzNkdGODU4dHlCdHJpRGVhY25Edmh0d09SWWhxSjhOb3lBS3JpUVQ4blRvcU1rTmNMRldfbzF6Y1FxbHBEMFg5Y3I2bWxCMEtOUENaMDR0aDVPN0w5ZXMzSmM4MFNLa0h0SXo0dVl3T0xIdU5NUlJ4ZmxTSGluTjRTSTNkbUdSVzFlODRhMDM?oc=5",
-      "source": "Yahoo",
-      "published": "Sun, 12 Jul 2026 16:06:15 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPOTA1VGptelpvWlRmU2gzNkdGODU4dHlCdHJpRGVhY25Edmh0d09SWWhxSjhOb3lBS3JpUVQ4blRvcU1rTmNMRldfbzF6Y1FxbHBEMFg5Y3I2bWxCMEtOUENaMDR0aDVPN0w5ZXMzSmM4MFNLa0h0SXo0dVl3T0xIdU5NUlJ4ZmxTSGluTjRTSTNkbUdSVzFlODRhMDM?oc=5\" target=\"_blank\">‘You better love what you see’: Sheryl Lee Ralph brings a self-love lesson to Paris Couture Week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>"
-    },
-    {
-      "title": "Column | The coolest celebrity looks from a hot Paris Fashion Week - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWGUzbFRndmdxSXo0ejEtVnZ1NWkxNlZ4MXAwSF9OYVJSSGlUaHoyTHcxTHJ3R18wbDh3STFZcDkwVlhGZWl1Nm1DQ29BZUlRVThYZi1OUHVreWw4ZldsQ3cwT0hHWUU1UU8tUkEwSlREaWphdEFqWGE4SWxRTEJ2RDZHdXRiZ3E3dTA1OXlYQWZaUQ?oc=5",
-      "source": "The Washington Post",
-      "published": "Fri, 10 Jul 2026 02:54:53 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNWGUzbFRndmdxSXo0ejEtVnZ1NWkxNlZ4MXAwSF9OYVJSSGlUaHoyTHcxTHJ3R18wbDh3STFZcDkwVlhGZWl1Nm1DQ29BZUlRVThYZi1OUHVreWw4ZldsQ3cwT0hHWUU1UU8tUkEwSlREaWphdEFqWGE4SWxRTEJ2RDZHdXRiZ3E3dTA1OXlYQWZaUQ?oc=5\" target=\"_blank\">Column | The coolest celebrity looks from a hot Paris Fashion Week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>"
     },
     {
       "title": "6 Fashion Trends Kate Middleton Wears on Repeat to Wimbledon Each Year - People.com",
@@ -334,6 +320,27 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOc29aRTFiVEhXcjVfMVFsTUVDcV9vcHVVZkg4VU55WEEtbFIzeDNxdXRGbUQ3QzBCWVRGWGlZZ3BuQm1sYmtzU3diV08xV2xFdVBWR2tFQ3hialJkWkxRMmFxZ25mUkxNTWo5ZzdveDZ0OWxlMUVZaHdxUHlhbmQyZHJPcGI?oc=5\" target=\"_blank\">Kate Middleton Sees Out Wimbledon 2026 in Grassy Green</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vogue</font>"
     },
     {
+      "title": "Jennifer Lopez's Lookalike Sister Lynda Lopez Makes Rare Public Outing With Singer - E! News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPejQ0MHFBS0pUaXJ4OThaY0pwaHVGb0MzS3dPVlpFVEFWQTd2X3dLWC1GX3VDSmJxZ0RMeHN4ZmRaRGNPRjF0SXZjbGFjRlA4LV95SFMxQkFaenZVWUZBX0lDZVY0UDdjUGpYakNmeFVuMjNEVG1qNURBbEFOUndGQVJnczBfci1PdzVkMm9iOWRjbDd5UEw5dUhUTDBEZVVoaTNobjhNOXFpeHRJNEE?oc=5",
+      "source": "E! News",
+      "published": "Thu, 09 Jul 2026 23:44:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPejQ0MHFBS0pUaXJ4OThaY0pwaHVGb0MzS3dPVlpFVEFWQTd2X3dLWC1GX3VDSmJxZ0RMeHN4ZmRaRGNPRjF0SXZjbGFjRlA4LV95SFMxQkFaenZVWUZBX0lDZVY0UDdjUGpYakNmeFVuMjNEVG1qNURBbEFOUndGQVJnczBfci1PdzVkMm9iOWRjbDd5UEw5dUhUTDBEZVVoaTNobjhNOXFpeHRJNEE?oc=5\" target=\"_blank\">Jennifer Lopez's Lookalike Sister Lynda Lopez Makes Rare Public Outing With Singer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">E! News</font>"
+    },
+    {
+      "title": "Sarah Jessica Parker’s Rare Appearance at Paris Couture Fashion Week Came with a Nostalgic Sex and the City Nod - People.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcUs2NkhmQkNzTmRibWc0NFdKQmpoWFl2YVVWQWZrX2N4RGpDZnBnN3RJZUVPckVnM2tOS00yajF5bE1IVktQcHNyUmgwMGI3MVhVZXJRaDVxOC1MUG1MWFVQTFUxRGdjc0pXUVIwLUQ2bl9NSVJ2c0NJUy1idGROUVZYSGpmcWwzWmp2NU94Zmt2UjJPc2dTbWVn?oc=5",
+      "source": "People.com",
+      "published": "Thu, 09 Jul 2026 22:23:59 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPcUs2NkhmQkNzTmRibWc0NFdKQmpoWFl2YVVWQWZrX2N4RGpDZnBnN3RJZUVPckVnM2tOS00yajF5bE1IVktQcHNyUmgwMGI3MVhVZXJRaDVxOC1MUG1MWFVQTFUxRGdjc0pXUVIwLUQ2bl9NSVJ2c0NJUy1idGROUVZYSGpmcWwzWmp2NU94Zmt2UjJPc2dTbWVn?oc=5\" target=\"_blank\">Sarah Jessica Parker’s Rare Appearance at Paris Couture Fashion Week Came with a Nostalgic Sex and the City Nod</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">People.com</font>"
+    },
+    {
+      "title": "‘You better love what you see’: Sheryl Lee Ralph brings a self-love lesson to Paris Couture Week - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOTA1VGptelpvWlRmU2gzNkdGODU4dHlCdHJpRGVhY25Edmh0d09SWWhxSjhOb3lBS3JpUVQ4blRvcU1rTmNMRldfbzF6Y1FxbHBEMFg5Y3I2bWxCMEtOUENaMDR0aDVPN0w5ZXMzSmM4MFNLa0h0SXo0dVl3T0xIdU5NUlJ4ZmxTSGluTjRTSTNkbUdSVzFlODRhMDM?oc=5",
+      "source": "Yahoo",
+      "published": "Sun, 12 Jul 2026 16:06:15 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPOTA1VGptelpvWlRmU2gzNkdGODU4dHlCdHJpRGVhY25Edmh0d09SWWhxSjhOb3lBS3JpUVQ4blRvcU1rTmNMRldfbzF6Y1FxbHBEMFg5Y3I2bWxCMEtOUENaMDR0aDVPN0w5ZXMzSmM4MFNLa0h0SXo0dVl3T0xIdU5NUlJ4ZmxTSGluTjRTSTNkbUdSVzFlODRhMDM?oc=5\" target=\"_blank\">‘You better love what you see’: Sheryl Lee Ralph brings a self-love lesson to Paris Couture Week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>"
+    },
+    {
       "title": "Zendaya Unveils The Odyssey in Haute Couture - FASHION Magazine",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLWFDWFFpdE1OcEw0OHBiTnhKcW9fNjZmQ1pLa0tSS25uNVYya1BZYk4tbm5QNU5qcDY3YTNXR3JuTjFvS2hYSzRTR201RkJFRWNKcWtoZXR1T1NCcFFDbEVxV25rcUNqdng4WDJBYjd1bkxybV9lMTM3NlBPajYyVXg3R2IwVWM1UnJqVm01UWhXSG5oYmRKNzE5TllDQQ?oc=5",
       "source": "FASHION Magazine",
@@ -348,13 +355,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPN2NHZGhMV2FfNEVMUElEZHNnY3JnTllNR1Vab0tmWUpmcXo1RGlXUU45N0I4TUZSa1FKQTVjYlNSTndOR0VoTmotdlNQY3VoY3VoZVVlOXM3ejFHSWFFU3VqRkJxd19IX0NJcnRibmdEUlRRcmRtNFlFV2RHcVkySXVrdllUeFhzejZVc1F1TVlXenJXSXgzU0M2R05aMXVOSHJ3SnBCVUt2c2VEcF91TFBVZw?oc=5\" target=\"_blank\">Cold-weather finery on display at Christian Dior fashion show in Paris</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Seattle Times</font>"
     },
     {
-      "title": "The sculptural bag trend defining 2026. - vogueadria.com",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qSFRYRl9ZaWdDWURVVnM0ZWlYb1RwcW5MN3NMc080VExCR2NESHE2Y0lIWnpucExTenNjUkR1c0FMaUtpQzVSX1hoWmppaE9oX0xzUnNvSnB6dC1GcUlV?oc=5",
-      "source": "vogueadria.com",
-      "published": "Sat, 11 Jul 2026 11:00:45 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qSFRYRl9ZaWdDWURVVnM0ZWlYb1RwcW5MN3NMc080VExCR2NESHE2Y0lIWnpucExTenNjUkR1c0FMaUtpQzVSX1hoWmppaE9oX0xzUnNvSnB6dC1GcUlV?oc=5\" target=\"_blank\">The sculptural bag trend defining 2026.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vogueadria.com</font>"
-    },
-    {
       "title": "Michelle Obama is speaking volumes with her bold style in the wake of MAGA insults - Toronto Star",
       "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPNWxtMTdfRDRFa3FsTGpJRVgwMXV5anhtUDhNelB5UHZsYlp3Zmh0SENVYW5oMHllcTB6R1VDRnNVLWhEc21EbTdudFUtVFFxcllLYV8zQnlPSkhDdVVJVC1ud21wR3MwLXpJeFNXeXU4eTR4YTJ6SUV5S1BNVFFobnhRZ3lDYjgzSWZWai1fbXdkbExHUDNWZXZILU5ZWFduNlFYamowSmVFUnBJeFVGVkFsVVcwaVRXaGZDSS1Hd21lcDFxR0dWcXhnaXA3NExmcmZVZHktUmhOUGFvdWlfUXpvakl5eWJ0SlN0Y2tGUExWTTFYckxlR1M1UERsYnhlLWZHdUJOTUxZZ3RYQ3VrT185YXp2cmozSGFoUE5KNUFkYjBCTnRIdy16UVA4QWEwbFJzZ1BvRENjUmc5Q2c?oc=5",
       "source": "Toronto Star",
@@ -362,11 +362,11 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgJBVV95cUxPNWxtMTdfRDRFa3FsTGpJRVgwMXV5anhtUDhNelB5UHZsYlp3Zmh0SENVYW5oMHllcTB6R1VDRnNVLWhEc21EbTdudFUtVFFxcllLYV8zQnlPSkhDdVVJVC1ud21wR3MwLXpJeFNXeXU4eTR4YTJ6SUV5S1BNVFFobnhRZ3lDYjgzSWZWai1fbXdkbExHUDNWZXZILU5ZWFduNlFYamowSmVFUnBJeFVGVkFsVVcwaVRXaGZDSS1Hd21lcDFxR0dWcXhnaXA3NExmcmZVZHktUmhOUGFvdWlfUXpvakl5eWJ0SlN0Y2tGUExWTTFYckxlR1M1UERsYnhlLWZHdUJOTUxZZ3RYQ3VrT185YXp2cmozSGFoUE5KNUFkYjBCTnRIdy16UVA4QWEwbFJzZ1BvRENjUmc5Q2c?oc=5\" target=\"_blank\">Michelle Obama is speaking volumes with her bold style in the wake of MAGA insults</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Toronto Star</font>"
     },
     {
-      "title": "The Summer Hat Trends Chic Women Are Wearing in 2026 - Who What Wear",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvOENVSWpXTVFMNzdBckdCYmtUX04tQ25NZTRZenJDaVB4VWMtUUh5UXo1SGdlbDl5VU9XUUtLb21YY0M1am1INVd2LXJGaWJmLVJWc2ZnQUR4bm9ROTVTRGZaNk04TFl0czB3?oc=5",
+      "title": "Not a Knee-Length—I've Spotted So Many Londoners Wear This Timeless Skirt Trend Instead - Who What Wear",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVmZBSldEcWdhdWR0Q0E2SkthY2ozTms1RjQ0Vk91NkxjSFNSSjFUZHNLWjhGajV4cXVHTi15QlYyRVFPMW93SkZwTXBpcjBleEFNLTZVU1RwZGlqQkFtX0hwNjdKRjJlWHVud2FPc0h0UHNrN0VteHF5R1ZzU0lXdFpFeVBDdDVYWnhrMmo0dDVQVV9w?oc=5",
       "source": "Who What Wear",
-      "published": "Sun, 12 Jul 2026 07:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBvOENVSWpXTVFMNzdBckdCYmtUX04tQ25NZTRZenJDaVB4VWMtUUh5UXo1SGdlbDl5VU9XUUtLb21YY0M1am1INVd2LXJGaWJmLVJWc2ZnQUR4bm9ROTVTRGZaNk04TFl0czB3?oc=5\" target=\"_blank\">The Summer Hat Trends Chic Women Are Wearing in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Who What Wear</font>"
+      "published": "Sun, 12 Jul 2026 10:30:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNVmZBSldEcWdhdWR0Q0E2SkthY2ozTms1RjQ0Vk91NkxjSFNSSjFUZHNLWjhGajV4cXVHTi15QlYyRVFPMW93SkZwTXBpcjBleEFNLTZVU1RwZGlqQkFtX0hwNjdKRjJlWHVud2FPc0h0UHNrN0VteHF5R1ZzU0lXdFpFeVBDdDVYWnhrMmo0dDVQVV9w?oc=5\" target=\"_blank\">Not a Knee-Length—I've Spotted So Many Londoners Wear This Timeless Skirt Trend Instead</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Who What Wear</font>"
     },
     {
       "title": "Lauren Sánchez and Ivanka Trump Bring Their Summer ‘Fits to Sun Valley - WWD",
@@ -376,39 +376,18 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNc1plTGFxTlVLN0JqZmtCR0pkVjJIZ0ZCMTFZN3pRZUxqVlJvSUlkdW1SaFFfdU5qczU3U3BJYjFkeDVOWXFIMndDekdNMmVrbmRqTk43QXZoVmt5XzU3WF9NWUhTeXNobnJZN2ZNLUk1NVhJb0RpSi1mMi1scE5xVmhGM2FLUkd1U21tcmtUcWlWNXlleFRLVDF5RlhFcGNt?oc=5\" target=\"_blank\">Lauren Sánchez and Ivanka Trump Bring Their Summer ‘Fits to Sun Valley</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WWD</font>"
     },
     {
-      "title": "Jennifer Lawrence’s Jelly Flats Got a Revamp for 2026—I Can’t Leave Home Without Getting Compliments on Them - instyle.com",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5MFNpaGx3dzU3UWpLQkd5QnY0cDBpSVZRNlJBWU5PMTBXUURpUmNZTWNlMHV2emlDT3U1ODFsQmFqNUZ6cXBQY1otazgzNkpJY0EzN29BTXd4ZVN3OXdIdi1NVGRBY04waDZTdTF3UzA0bGU3emtJ?oc=5",
-      "source": "instyle.com",
-      "published": "Sun, 12 Jul 2026 11:30:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFB5MFNpaGx3dzU3UWpLQkd5QnY0cDBpSVZRNlJBWU5PMTBXUURpUmNZTWNlMHV2emlDT3U1ODFsQmFqNUZ6cXBQY1otazgzNkpJY0EzN29BTXd4ZVN3OXdIdi1NVGRBY04waDZTdTF3UzA0bGU3emtJ?oc=5\" target=\"_blank\">Jennifer Lawrence’s Jelly Flats Got a Revamp for 2026—I Can’t Leave Home Without Getting Compliments on Them</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">instyle.com</font>"
-    },
-    {
-      "title": "Sabrina Carpenter’s Take on French Girl Fashion Recognizes No Paris Heatwave - Vogue",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc1ZQd2l3SXZ5TnN5eFRsSl9NN3Boc1JDZmNsaDdoTUU0OUg3NGNaUXozRDlRdkxWYnBsbW41TllpTDlvN0J6OFNjOEU4UVFOc1M2Y2RkUHZIcmpLcWRIYVNoSG94OXpGTzBtSE1TT01pNlpnd0ZwSlNkOEFBc0FOa0dXdmwzVTVsNnc?oc=5",
-      "source": "Vogue",
-      "published": "Sun, 12 Jul 2026 09:52:45 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNc1ZQd2l3SXZ5TnN5eFRsSl9NN3Boc1JDZmNsaDdoTUU0OUg3NGNaUXozRDlRdkxWYnBsbW41TllpTDlvN0J6OFNjOEU4UVFOc1M2Y2RkUHZIcmpLcWRIYVNoSG94OXpGTzBtSE1TT01pNlpnd0ZwSlNkOEFBc0FOa0dXdmwzVTVsNnc?oc=5\" target=\"_blank\">Sabrina Carpenter’s Take on French Girl Fashion Recognizes No Paris Heatwave</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vogue</font>"
+      "title": "Here are the new restaurants, shops added in makeover at Fresno’s Fashion Fair - Fresno Bee",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVdkJMdUk3OHJ3S2g4UWl1T0tfdTNLem85TUVTVUlyNWlhMkVnZkZVOE1YV3c0bmtqRXV2SExwczdTXy02Qm5kaGxIZzFGU2gyRkF3cGNBa0N3eGtVZTJibkU5Zm9ZeU1oczF4TFRPQVBlQ0nSAXNBVV95cUxNRzNNbGJSampjcWFNVE9IQVV6czB3VFpBZEY5bDMzalJPSlVoR2RkYzdLamhUZFhidDNsajFRMXExS0RhQ0I3Ukt1c2dpTXpoZFMtU0RpbG0wNEhBX0EyZXlZY3kzMFN0RFZIeERxcEtKLUVj?oc=5",
+      "source": "Fresno Bee",
+      "published": "Fri, 10 Jul 2026 18:02:40 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBVdkJMdUk3OHJ3S2g4UWl1T0tfdTNLem85TUVTVUlyNWlhMkVnZkZVOE1YV3c0bmtqRXV2SExwczdTXy02Qm5kaGxIZzFGU2gyRkF3cGNBa0N3eGtVZTJibkU5Zm9ZeU1oczF4TFRPQVBlQ0nSAXNBVV95cUxNRzNNbGJSampjcWFNVE9IQVV6czB3VFpBZEY5bDMzalJPSlVoR2RkYzdLamhUZFhidDNsajFRMXExS0RhQ0I3Ukt1c2dpTXpoZFMtU0RpbG0wNEhBX0EyZXlZY3kzMFN0RFZIeERxcEtKLUVj?oc=5\" target=\"_blank\">Here are the new restaurants, shops added in makeover at Fresno’s Fashion Fair</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fresno Bee</font>"
     },
     {
       "title": "Spiral Jewellery! Graphic Tees! Neon Colours! 7 Fashion Trends Making a Comeback for Summer 2026 - Who What Wear",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORnF5U1JDLUFYMEw3ZXptQm1NSHc1MVozUFQyMWhyeldRVzVQeU1BVHNKajNacFdNQlhGemU3cjZNQVQwTGh5cHAwVmxmMjVnR25mUEdSbDZ3ekhtY0ZxdHlwbExKZEcxeVl2c1kzUE9mZklLQUltOWhienpyQmoxTUFlX05aalZ4VnNjQW1rWG0?oc=5",
       "source": "Who What Wear",
-      "published": "Sun, 12 Jul 2026 05:00:00 GMT",
+      "published": "Sun, 12 Jul 2026 05:04:17 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxORnF5U1JDLUFYMEw3ZXptQm1NSHc1MVozUFQyMWhyeldRVzVQeU1BVHNKajNacFdNQlhGemU3cjZNQVQwTGh5cHAwVmxmMjVnR25mUEdSbDZ3ekhtY0ZxdHlwbExKZEcxeVl2c1kzUE9mZklLQUltOWhienpyQmoxTUFlX05aalZ4VnNjQW1rWG0?oc=5\" target=\"_blank\">Spiral Jewellery! Graphic Tees! Neon Colours! 7 Fashion Trends Making a Comeback for Summer 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Who What Wear</font>"
-    },
-    {
-      "title": "Fashion Designer Stacey Bendet on Turning Her Manhattan Home into a Living Art Installation - Artsy",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTERrVXozZ0RKR1F5LXpDTWtQTzB2NW9rQlJ6elQ3X1lhTEJtUUhxWDlJN09ISmxPd19ja3dBYlppdE1EbEdvbE9ESEE0MnhhMFR0ZGJiaXJ0RzA1WmVZTEhHQ0dCaklYaVA2TnFVNTJQcXcyUGZHbW1aQmlKVHBsNmlUUjBpTFR5MWcwUmltS0VMS0pxWkhfb0JzLU9EelRoV181UDB1eHJnZ25OdnBDYWFTY0hrN2NfLXc?oc=5",
-      "source": "Artsy",
-      "published": "Sun, 12 Jul 2026 06:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPTERrVXozZ0RKR1F5LXpDTWtQTzB2NW9rQlJ6elQ3X1lhTEJtUUhxWDlJN09ISmxPd19ja3dBYlppdE1EbEdvbE9ESEE0MnhhMFR0ZGJiaXJ0RzA1WmVZTEhHQ0dCaklYaVA2TnFVNTJQcXcyUGZHbW1aQmlKVHBsNmlUUjBpTFR5MWcwUmltS0VMS0pxWkhfb0JzLU9EelRoV181UDB1eHJnZ25OdnBDYWFTY0hrN2NfLXc?oc=5\" target=\"_blank\">Fashion Designer Stacey Bendet on Turning Her Manhattan Home into a Living Art Installation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Artsy</font>"
-    },
-    {
-      "title": "A Women’s Basketball Fashion Archive: PDX - KPTV",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVjNQUE5PeVlEV2E3R2VDRG1KTEQyOW54aEZjZlF1SGJhUlhvb0wxclY2S2M5a0wtZUxpYkdnYXdJZVNnUlRabm9IdFVaUHM2alFBQjB5Z01zM1VkUlpIaHlENW1qT1dqT3FaOHFiQkw5RXAtMW5nV3BKZW1ZaG5mV0Vn?oc=5",
-      "source": "KPTV",
-      "published": "Sun, 12 Jul 2026 03:42:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNVjNQUE5PeVlEV2E3R2VDRG1KTEQyOW54aEZjZlF1SGJhUlhvb0wxclY2S2M5a0wtZUxpYkdnYXdJZVNnUlRabm9IdFVaUHM2alFBQjB5Z01zM1VkUlpIaHlENW1qT1dqT3FaOHFiQkw5RXAtMW5nV3BKZW1ZaG5mV0Vn?oc=5\" target=\"_blank\">A Women’s Basketball Fashion Archive: PDX</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KPTV</font>"
     },
     {
       "title": "Fashion Fair Mall partners with DICK'S Sporting Goods to bring 'House of Sport' - ABC30 Fresno",
@@ -418,11 +397,32 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPVWx1RzJkaU9FckE5TGcwNXB0RFR1RkVzOWZDdzdHZGFTcElpYno3VGg1b1pMcFkyMEFiWE55dFlpT2gzU1lpdFp2OFR5dWFTekEzb28xTFdvekYwTDBtQ1R0Y3V3b0IxdUxqZnhYaWRaSjBkdkRSSW9GWndzTFVjWEwzcUZKdkdHUFkyZFgteEU3M2dHdHlJTFI1ZllVeDTSAaQBQVVfeXFMT2VadlBJMDFGUFI1dUdYUnFJSV8tQ21tLTFnZUo1ZkZrVzZpeUZySk1PYXFiRjhzU25iNWFGY05nT2NTMTB2RlNhSE9tWUxINkxQaXVXd2FWbFNVcm1saGlFLU81ZmY5UDRTa1hqQzFTbUNCVEdkeDRFREl0ZVdsUDYyemlYZ19UUXNudTVONXItd2o4XzBvWUE4eUM2TjFRVVdRMHY?oc=5\" target=\"_blank\">Fashion Fair Mall partners with DICK'S Sporting Goods to bring 'House of Sport'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC30 Fresno</font>"
     },
     {
+      "title": "A Women’s Basketball Fashion Archive: PDX - KPTV",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVjNQUE5PeVlEV2E3R2VDRG1KTEQyOW54aEZjZlF1SGJhUlhvb0wxclY2S2M5a0wtZUxpYkdnYXdJZVNnUlRabm9IdFVaUHM2alFBQjB5Z01zM1VkUlpIaHlENW1qT1dqT3FaOHFiQkw5RXAtMW5nV3BKZW1ZaG5mV0Vn?oc=5",
+      "source": "KPTV",
+      "published": "Sun, 12 Jul 2026 03:42:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNVjNQUE5PeVlEV2E3R2VDRG1KTEQyOW54aEZjZlF1SGJhUlhvb0wxclY2S2M5a0wtZUxpYkdnYXdJZVNnUlRabm9IdFVaUHM2alFBQjB5Z01zM1VkUlpIaHlENW1qT1dqT3FaOHFiQkw5RXAtMW5nV3BKZW1ZaG5mV0Vn?oc=5\" target=\"_blank\">A Women’s Basketball Fashion Archive: PDX</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KPTV</font>"
+    },
+    {
+      "title": "Fashion Designer Stacey Bendet on Turning Her Manhattan Home into a Living Art Installation - Artsy",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTERrVXozZ0RKR1F5LXpDTWtQTzB2NW9rQlJ6elQ3X1lhTEJtUUhxWDlJN09ISmxPd19ja3dBYlppdE1EbEdvbE9ESEE0MnhhMFR0ZGJiaXJ0RzA1WmVZTEhHQ0dCaklYaVA2TnFVNTJQcXcyUGZHbW1aQmlKVHBsNmlUUjBpTFR5MWcwUmltS0VMS0pxWkhfb0JzLU9EelRoV181UDB1eHJnZ25OdnBDYWFTY0hrN2NfLXc?oc=5",
+      "source": "Artsy",
+      "published": "Sun, 12 Jul 2026 03:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPTERrVXozZ0RKR1F5LXpDTWtQTzB2NW9rQlJ6elQ3X1lhTEJtUUhxWDlJN09ISmxPd19ja3dBYlppdE1EbEdvbE9ESEE0MnhhMFR0ZGJiaXJ0RzA1WmVZTEhHQ0dCaklYaVA2TnFVNTJQcXcyUGZHbW1aQmlKVHBsNmlUUjBpTFR5MWcwUmltS0VMS0pxWkhfb0JzLU9EelRoV181UDB1eHJnZ25OdnBDYWFTY0hrN2NfLXc?oc=5\" target=\"_blank\">Fashion Designer Stacey Bendet on Turning Her Manhattan Home into a Living Art Installation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Artsy</font>"
+    },
+    {
       "title": "EXCLUSIVE: Meghan Markle's Front Row Fashion Freeze Out - Paula Froelich: Uncensored",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUnJOaGdrYTNkSjJwSzZaaUxKalppekxPUWRqR0J5MEJvT1UtaVVEWWs3QzNIOHhMellaWmVLcUV5d3ExTGhsRGROY3VCMzBXMUcwMWZ0b2ZOVXN0bm9UdkoxNnB0V1lqSTAtcGtMeTNubXowYlkzM1JIOHNaZjdEOGQzMFZBdEx0UjRj?oc=5",
       "source": "Paula Froelich: Uncensored",
       "published": "Sun, 12 Jul 2026 13:30:20 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUnJOaGdrYTNkSjJwSzZaaUxKalppekxPUWRqR0J5MEJvT1UtaVVEWWs3QzNIOHhMellaWmVLcUV5d3ExTGhsRGROY3VCMzBXMUcwMWZ0b2ZOVXN0bm9UdkoxNnB0V1lqSTAtcGtMeTNubXowYlkzM1JIOHNaZjdEOGQzMFZBdEx0UjRj?oc=5\" target=\"_blank\">EXCLUSIVE: Meghan Markle's Front Row Fashion Freeze Out</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Paula Froelich: Uncensored</font>"
+    },
+    {
+      "title": "‘You better love what you see’: Sheryl Lee Ralph brings a self-love lesson to Paris Couture Week - TheGrio",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BMzdyYkdWck5qRDZqNVNsaWttZXA3UE9mUmlMNjQxMFp1NlEwZTJwRnQwZzFrdUdpSVlVek9hc1l4b1pJYW9BNDNLMGtoNkZ1VXpRQXVVcklWZlM5SEZ6TUlsM3FRbmNkZFZhVzBsVDhwZENrWnJZV1NGZlQ2UQ?oc=5",
+      "source": "TheGrio",
+      "published": "Sun, 12 Jul 2026 16:09:11 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5BMzdyYkdWck5qRDZqNVNsaWttZXA3UE9mUmlMNjQxMFp1NlEwZTJwRnQwZzFrdUdpSVlVek9hc1l4b1pJYW9BNDNLMGtoNkZ1VXpRQXVVcklWZlM5SEZ6TUlsM3FRbmNkZFZhVzBsVDhwZENrWnJZV1NGZlQ2UQ?oc=5\" target=\"_blank\">‘You better love what you see’: Sheryl Lee Ralph brings a self-love lesson to Paris Couture Week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheGrio</font>"
     }
   ],
   "NationalDevelopment": [
@@ -483,13 +483,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSVd4MWNpcDJrNnE3Q1BLNG5ybVVvcHRkMEZxaEVvcjVPSUJyQlptSWVqb0lvZkVlSTdQRkFsT3BBWVU3ejAwLXJDRDd6aGJoSm1CZ0xTeEZERndhd3gxQ0U2WFF4a0U3X0x3ZU5RVUU5SFBnRUtLdWZPenhjMmowaXR3NkdkelRQT19uTnFtdkNLQmVYUFExSkdKQzB5QkVhOHc4VjN6bFljV2pBYUE1TzhILWFyMHNTRkNRS3hGMGJGbEE5NnpwempJUGNrb2l2d1FKejJJR1pVbnJ3TzF0MjdtRQ?oc=5\" target=\"_blank\">Senior Living Dealbook: Benchmark, National Development Acquire New York Site; Asbury Place Maryville Rebrands</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Senior Housing News</font>"
     },
     {
-      "title": "Day Two of IPA Congress Focuses on Sustainable Development Goals and Positivity - Publishing Perspectives",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTVZZSW1YeFR6MHRyaVJsTWc0Wjkyc0J1ZktzY3J0NVpGRWFOTDhPWjBYV2otZlF3R0xveE9lRUJzWGJKcy05eGRXR2s5R2l6dlNjMm1oWEhSc0IwRWUxdkxiQmFSRXlIZ3ZqR1VwaWYzcGpsZy1vcjVhaEYybFVnVGlEc093SFZRdTloWkwtcFdiYjRMdGFNVUJfdzRiWW5ZRlpvS3VEYmFXUUw3MW1yelhWUUt3c1dGbV9QWGlZNVI?oc=5",
-      "source": "Publishing Perspectives",
-      "published": "Thu, 09 Jul 2026 12:01:56 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTVZZSW1YeFR6MHRyaVJsTWc0Wjkyc0J1ZktzY3J0NVpGRWFOTDhPWjBYV2otZlF3R0xveE9lRUJzWGJKcy05eGRXR2s5R2l6dlNjMm1oWEhSc0IwRWUxdkxiQmFSRXlIZ3ZqR1VwaWYzcGpsZy1vcjVhaEYybFVnVGlEc093SFZRdTloWkwtcFdiYjRMdGFNVUJfdzRiWW5ZRlpvS3VEYmFXUUw3MW1yelhWUUt3c1dGbV9QWGlZNVI?oc=5\" target=\"_blank\">Day Two of IPA Congress Focuses on Sustainable Development Goals and Positivity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Publishing Perspectives</font>"
-    },
-    {
       "title": "Benchmark, National Development Plan 90-Unit Community on Long Island - Seniors Housing Business",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUzFyYjhQNkNpZTNScUhoOW5xTTlsaFdLRlhqamdSZ2hfNmp3ZnJ3ZHVVamcyLUpMaElodjhoLTF5eC1RLVlIMWZJSUFseWdYbF9GekJTMEJnaGNQVHNSeFhHOXRKcFlXLUJySVZhXzFBNjhjUXUzRDBKM01XUnJIQ0xIRC13X3pibEx3UFNiQS1TeXVLWEYzM0trc0xOQ3lzVDBaTEFVcw?oc=5",
       "source": "Seniors Housing Business",
@@ -509,6 +502,13 @@
       "source": "libyaupdate.com",
       "published": "Fri, 10 Jul 2026 04:49:27 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNc1dVZmstUFI4aWNZTDlHQkNjTEVGd3E3SDI0bzJISWZrQzNUNDlvaVlxbURuMEE5Q0k5STZqYndfMENBdHQxUWlTczBmNEtzSVRXRzZjbTFVVUdMQnlIY01XemtaQ284cktJLVpvZGZRWldVLTJrb0NCSXlCMzVtZGFDeHhuWE1fVXJrRkp4UHphU2paY1VlSktUZjBMaXZZMDIxUk41MFQ0UWhOSEp5SFh6aw?oc=5\" target=\"_blank\">Director General of the National Development Agency Inspects the Sirte Free Zone Project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">libyaupdate.com</font>"
+    },
+    {
+      "title": "Tinubu congratulates Kabir Shagaya at 40, lauds contributions to enterprise, national development - The Nation Newspaper",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORTlYM3ZRaTVra2ZDak5wTnM2OU01aHZoWUVxazBvUFp5UFNfcnpEYkJTODQ2VnNXS085LUgxN1dnak1UVklmUndzSTk2TTY4VDhQVVZFRkdjdV9uMWNVaVdZOE5mTWhvT2pRQnJNalBRRUlyVzNRcGpBVUlVclBmN2dVQXZreWs2bWhkci1pQnhwRHUtV21vN1otb0draFB1OEtfSktmSnZPLTRNbUtXTVZHcmxhblF6aGR0UncwSExVZEtx0gHKAUFVX3lxTE1JalU5eHZuUDNRa09obUVYZk9UWmIyVlJQaG01aVB1dlJhN0Z1WWVlS0hfcVZKOElhODBtamk0Y1BHdVVJNjRzajVaWkdTSXFCRnFLS092VXdvUW53OHJ0VjVBNmxxdE0yd1diUl9GYlFLMkVXczNMcjJQbkdaZ3JTNVRnV0N0SEYzZ2Uwbi1VMHVCT2dVSGNuZ1l2aU9NTnlCLWExcnBONlJYbk9yZGdKbUFQS0xnSXZUTGJUREg4TTF5NmF0OVZ4clE?oc=5",
+      "source": "The Nation Newspaper",
+      "published": "Sun, 12 Jul 2026 18:37:49 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxORTlYM3ZRaTVra2ZDak5wTnM2OU01aHZoWUVxazBvUFp5UFNfcnpEYkJTODQ2VnNXS085LUgxN1dnak1UVklmUndzSTk2TTY4VDhQVVZFRkdjdV9uMWNVaVdZOE5mTWhvT2pRQnJNalBRRUlyVzNRcGpBVUlVclBmN2dVQXZreWs2bWhkci1pQnhwRHUtV21vN1otb0draFB1OEtfSktmSnZPLTRNbUtXTVZHcmxhblF6aGR0UncwSExVZEtx0gHKAUFVX3lxTE1JalU5eHZuUDNRa09obUVYZk9UWmIyVlJQaG01aVB1dlJhN0Z1WWVlS0hfcVZKOElhODBtamk0Y1BHdVVJNjRzajVaWkdTSXFCRnFLS092VXdvUW53OHJ0VjVBNmxxdE0yd1diUl9GYlFLMkVXczNMcjJQbkdaZ3JTNVRnV0N0SEYzZ2Uwbi1VMHVCT2dVSGNuZ1l2aU9NTnlCLWExcnBONlJYbk9yZGdKbUFQS0xnSXZUTGJUREg4TTF5NmF0OVZ4clE?oc=5\" target=\"_blank\">Tinubu congratulates Kabir Shagaya at 40, lauds contributions to enterprise, national development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Nation Newspaper</font>"
     },
     {
       "title": "PM calls population rise national issue - The Express Tribune",
@@ -539,11 +539,11 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNER2RDBjckZLMWtsVi02cWFJeXFMdG5kZlJJMkhlT2ZCUXgwSUs2V0J3eEtnNTNXVlhkYi1qcE9CMENHZGRuU1NLVVJZa2JEMnJsV3YyZ2c5empiR1hGLTNvVkZ0X1dIelF2NW5kUzN1NjRGOThHaHBiUC1PSlRyUVdEdWVzUFBlNlU5UFJsbkdaTi1JQmJnamZQaVd2bFl1Y19KcXUtWkFtajA?oc=5\" target=\"_blank\">National Development Plan Keeps Revolutionary War–Era Glover House Intact</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Swampscott Tides</font>"
     },
     {
-      "title": "Vietnamese architecture in the era of nation’s rise - Nhan Dan Online",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRlA1di1zWjY2RW9UYnRlc1J6cUpFQllCMzJmMWRNYzdkTDNUM3FyZllvM3pYUEJNVXVVcUtHTkEyYzFhbmFwTG43Wmg0Y3cwczlGRWdvVDRXdC1yQnpLUElnZ2FkM2VrUmxDSmtERVBDM1pVNTBjNTl5c2FlZ2RsSENLSVFCT3dPRE1pRnBFRnlOQQ?oc=5",
-      "source": "Nhan Dan Online",
-      "published": "Sun, 12 Jul 2026 11:22:40 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNRlA1di1zWjY2RW9UYnRlc1J6cUpFQllCMzJmMWRNYzdkTDNUM3FyZllvM3pYUEJNVXVVcUtHTkEyYzFhbmFwTG43Wmg0Y3cwczlGRWdvVDRXdC1yQnpLUElnZ2FkM2VrUmxDSmtERVBDM1pVNTBjNTl5c2FlZ2RsSENLSVFCT3dPRE1pRnBFRnlOQQ?oc=5\" target=\"_blank\">Vietnamese architecture in the era of nation’s rise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nhan Dan Online</font>"
+      "title": "Beyond ‘Billions to Trillions’: Embedding Financing within National Development Strategies to Support Africa’s Structural Transformation - Welcome to the United Nations",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONlU1dExTTjEzX05reGpoa2ZjWjVNWVhEV3R1SkhUdi1tVmpoQVJ1Y2xJdVJNMlpBZ1MxY1pPY3RtaE9tMU9MZDhVM2E0WlJEM2ZhT0xWLUNycmdCMlVVMEhJd19HQ2hiSTZxMjdBUWhuZjNBcGhCeHdkcVdya2lDUmFRZUZud0M0WG90dEV3WlBRYmNWQ201bmsyMG9vZWl2U0h1QUdHMURYVTNJblpoTDN4TGduZE9VS3V1SVlMU3dEQQ?oc=5",
+      "source": "Welcome to the United Nations",
+      "published": "Mon, 22 Jun 2026 21:07:48 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxONlU1dExTTjEzX05reGpoa2ZjWjVNWVhEV3R1SkhUdi1tVmpoQVJ1Y2xJdVJNMlpBZ1MxY1pPY3RtaE9tMU9MZDhVM2E0WlJEM2ZhT0xWLUNycmdCMlVVMEhJd19HQ2hiSTZxMjdBUWhuZjNBcGhCeHdkcVdya2lDUmFRZUZud0M0WG90dEV3WlBRYmNWQ201bmsyMG9vZWl2U0h1QUdHMURYVTNJblpoTDN4TGduZE9VS3V1SVlMU3dEQQ?oc=5\" target=\"_blank\">Beyond ‘Billions to Trillions’: Embedding Financing within National Development Strategies to Support Africa’s Structural Transformation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Welcome to the United Nations</font>"
     },
     {
       "title": "In the Pipeline: LCS Plans $82M Expansion in North Carolina; Benchmark, National Development Announces New York Project - Senior Housing News",
@@ -569,11 +569,25 @@
   ],
   "Education": [
     {
+      "title": "Mapped: Which Countries Spend the Most on Education? - Visual Capitalist",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa1BKS0FHeDlmMkJBSEFsWWdwQ1hlRDQtZFZOTGFaNXAzcjNfRDg3MWZqZHMtOEVKWXp1eHFiNERMS1d0S0FBRFlZM0ZnMWJ5ZVdxck5kZ3lxT0RjZzc2T3JCUWNLVnN0QmVMWHk3eVdOS2E3cUUwZVNvM1dIQ204anB0Q0s?oc=5",
+      "source": "Visual Capitalist",
+      "published": "Fri, 10 Jul 2026 18:21:48 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOa1BKS0FHeDlmMkJBSEFsWWdwQ1hlRDQtZFZOTGFaNXAzcjNfRDg3MWZqZHMtOEVKWXp1eHFiNERMS1d0S0FBRFlZM0ZnMWJ5ZVdxck5kZ3lxT0RjZzc2T3JCUWNLVnN0QmVMWHk3eVdOS2E3cUUwZVNvM1dIQ204anB0Q0s?oc=5\" target=\"_blank\">Mapped: Which Countries Spend the Most on Education?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Visual Capitalist</font>"
+    },
+    {
       "title": "AI Isn't Killing Education. It's Exposing What Was Already Broken. - Forbes",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeEU3cmRXU0JtMnJ4YnNzZDk2MXpfMmFMaWRxS1g4bnNkeTFDalN4dzV6OWRaeTdVV180U3FLN09zNFpwaEtqaElPYUpSNnR0clltVkFlbDRjQmJuaWFyUFNVX3JoeURRNEpaUjhQcmpwWFlXNFFzQ3pINjVkU3ROc2F4V0E0dDFHSzVZSWJ1blBkTmNPSXFxdkJCZnF2UVlyb0FidFFTbUxQcENMb0Z5eW5ldDc?oc=5",
       "source": "Forbes",
       "published": "Sun, 12 Jul 2026 17:41:30 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPeEU3cmRXU0JtMnJ4YnNzZDk2MXpfMmFMaWRxS1g4bnNkeTFDalN4dzV6OWRaeTdVV180U3FLN09zNFpwaEtqaElPYUpSNnR0clltVkFlbDRjQmJuaWFyUFNVX3JoeURRNEpaUjhQcmpwWFlXNFFzQ3pINjVkU3ROc2F4V0E0dDFHSzVZSWJ1blBkTmNPSXFxdkJCZnF2UVlyb0FidFFTbUxQcENMb0Z5eW5ldDc?oc=5\" target=\"_blank\">AI Isn't Killing Education. It's Exposing What Was Already Broken.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>"
+    },
+    {
+      "title": "Feds say NC special education still needs improvement. What they say still isn't working - WRAL",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT3ktT0k2YzN3OGVnZ2trUmFydDVJRC1rWFBtUktYU0RMNWNjTEdNX2lUdTE4akViZC1RN1hoUjFYQUN5SjVyOWxEbEl3VWl4VXVDUHdSVWNRN3lhdGtyZFVfaEpmMXp3VENnWm1leUdNYnBmOHBKV2k2YjEzNC1Yd2NMT1drN1JCa0VKdDVZZldtYUhFUE1qckt0NzJUUmphTVE?oc=5",
+      "source": "WRAL",
+      "published": "Sun, 12 Jul 2026 09:33:32 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOT3ktT0k2YzN3OGVnZ2trUmFydDVJRC1rWFBtUktYU0RMNWNjTEdNX2lUdTE4akViZC1RN1hoUjFYQUN5SjVyOWxEbEl3VWl4VXVDUHdSVWNRN3lhdGtyZFVfaEpmMXp3VENnWm1leUdNYnBmOHBKV2k2YjEzNC1Yd2NMT1drN1JCa0VKdDVZZldtYUhFUE1qckt0NzJUUmphTVE?oc=5\" target=\"_blank\">Feds say NC special education still needs improvement. What they say still isn't working</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRAL</font>"
     },
     {
       "title": "Innovation, data fixes fuel Native American graduation gains at federally funded schools - AP News",
@@ -583,11 +597,11 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTzZIdjA4VVZuSWtQdUFsWGpTOVAxNElGMS1jUnMxWjUzODlqY1pORHlmc0tfVFNBUGFoc1dRWWwyakIwOTFYM1NDMXU4b0pCMl9vaXZHclp6VWpNaFRFQUdIbUJVRGtYdkVPcU9VSFJCN2dLbDVOQV93V0JHODRPdmxWWEFESjdPc25fcTdiRGZNa2M2Q2NTVHN0c3drcC1zRFFKWTYweWFNS3l2d25rZ3pIOWVEeGc2?oc=5\" target=\"_blank\">Innovation, data fixes fuel Native American graduation gains at federally funded schools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>"
     },
     {
-      "title": "Feds say NC special education still needs improvement. What they say still isn't working - WRAL",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT3ktT0k2YzN3OGVnZ2trUmFydDVJRC1rWFBtUktYU0RMNWNjTEdNX2lUdTE4akViZC1RN1hoUjFYQUN5SjVyOWxEbEl3VWl4VXVDUHdSVWNRN3lhdGtyZFVfaEpmMXp3VENnWm1leUdNYnBmOHBKV2k2YjEzNC1Yd2NMT1drN1JCa0VKdDVZZldtYUhFUE1qckt0NzJUUmphTVE?oc=5",
-      "source": "WRAL",
-      "published": "Sun, 12 Jul 2026 09:33:32 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOT3ktT0k2YzN3OGVnZ2trUmFydDVJRC1rWFBtUktYU0RMNWNjTEdNX2lUdTE4akViZC1RN1hoUjFYQUN5SjVyOWxEbEl3VWl4VXVDUHdSVWNRN3lhdGtyZFVfaEpmMXp3VENnWm1leUdNYnBmOHBKV2k2YjEzNC1Yd2NMT1drN1JCa0VKdDVZZldtYUhFUE1qckt0NzJUUmphTVE?oc=5\" target=\"_blank\">Feds say NC special education still needs improvement. What they say still isn't working</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRAL</font>"
+      "title": "Pa. advances $50.8B budget that sends more money to poorest schools, skips difficult policy questions - Spotlight PA",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYUNyYklTcFZKY1RjMjJUNmtUY3paNjJMMm45T3VBWnlWaWxGUTVMS3ljVTVVaG1FM2NUNElRVVBrM2tYVXJNalhVVkwzTUVKLTRSemNfWFVMWWJZZGVYVHNtNlI3aG5jeXpaTzJ5LS1VblBpY2ZfU1RlQWlqLVR2Q3Z5RkpvRmpSaTcxQy1Pa1kwNjdOU0hlaXhVdG9SX0VWZlo3djFkdw?oc=5",
+      "source": "Spotlight PA",
+      "published": "Sun, 12 Jul 2026 02:17:03 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNYUNyYklTcFZKY1RjMjJUNmtUY3paNjJMMm45T3VBWnlWaWxGUTVMS3ljVTVVaG1FM2NUNElRVVBrM2tYVXJNalhVVkwzTUVKLTRSemNfWFVMWWJZZGVYVHNtNlI3aG5jeXpaTzJ5LS1VblBpY2ZfU1RlQWlqLVR2Q3Z5RkpvRmpSaTcxQy1Pa1kwNjdOU0hlaXhVdG9SX0VWZlo3djFkdw?oc=5\" target=\"_blank\">Pa. advances $50.8B budget that sends more money to poorest schools, skips difficult policy questions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spotlight PA</font>"
     },
     {
       "title": "New Orleans schools saw big gains in student LEAP scores. Here’s how some schools improved. - NOLA.com",
@@ -618,25 +632,11 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZHI0TmF1cF9neWZjOHJFRVl1MF95dEo5cGxRcUVnUTZTeWd2YmFMa3ZnMmVuN2JDSXdmeUVkWURydnl5UnVjM2E3SmRLcXZ3bkRZY1ZhczBHMVd4d1d2MWhXcktSR3VBcDlIZTFuOGw4bjhyT1pxUkd0dnNtX25vMjdONFV1c3NsU1Q3OEp1am85V3RQMmVvNE90QlJKcnZMWjE5SlFXMVg5ZEZnQkdWUFozZ0NnTXhQ?oc=5\" target=\"_blank\">Senate battle brews to shield special education from RFK Jr.'s health department</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>"
     },
     {
-      "title": "Teacher pay, vouchers: Candidates for Florida governor share education plan - Orlando Sentinel",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPazhuM2N4UmZXblBGS1BBSHBaelQ0V2RrQXJRNHJEaXJtTjFVYjVqa0VGX0dhQXdOOHRGczFoRlc3cURsRTZXZVdSaUs0QzE0dzYxam9kLWhPcmY1NGo3VHU1TW5TaEluMUhNVjBGcjFYbGtVTUxvWnlhU3JlN3JmWkhMNHMzWGRqZUhCaWwwdXRnM0tMT2Q5Qm9tcEF4Q2xXUHhTM19kbWkwamI5dzQ2ZVpNSGpoTkRI?oc=5",
-      "source": "Orlando Sentinel",
-      "published": "Sat, 11 Jul 2026 19:57:57 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPazhuM2N4UmZXblBGS1BBSHBaelQ0V2RrQXJRNHJEaXJtTjFVYjVqa0VGX0dhQXdOOHRGczFoRlc3cURsRTZXZVdSaUs0QzE0dzYxam9kLWhPcmY1NGo3VHU1TW5TaEluMUhNVjBGcjFYbGtVTUxvWnlhU3JlN3JmWkhMNHMzWGRqZUhCaWwwdXRnM0tMT2Q5Qm9tcEF4Q2xXUHhTM19kbWkwamI5dzQ2ZVpNSGpoTkRI?oc=5\" target=\"_blank\">Teacher pay, vouchers: Candidates for Florida governor share education plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Orlando Sentinel</font>"
-    },
-    {
       "title": "In private call, Education Dept. tried, but failed, to reassure disability advocates - NPR",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0xKVHdEOE1rcWlNaWVnWTY0SnoyQ2FGQXVGOXg2N2JFTUYyLXZFdWFKdWpweFhrcWpGSmt4Xy1TYW1MdEFNSnhNLXI2LUk2WG4zWTdyc1ZxTkpFUTl2MEtOUWlYcGZuQXhhUnlKTDJEZWw5WnNRdTN1akJhN3BlNmg2OE9uLXc?oc=5",
       "source": "NPR",
       "published": "Fri, 10 Jul 2026 01:03:56 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQY0xKVHdEOE1rcWlNaWVnWTY0SnoyQ2FGQXVGOXg2N2JFTUYyLXZFdWFKdWpweFhrcWpGSmt4Xy1TYW1MdEFNSnhNLXI2LUk2WG4zWTdyc1ZxTkpFUTl2MEtOUWlYcGZuQXhhUnlKTDJEZWw5WnNRdTN1akJhN3BlNmg2OE9uLXc?oc=5\" target=\"_blank\">In private call, Education Dept. tried, but failed, to reassure disability advocates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NPR</font>"
-    },
-    {
-      "title": "Education secretary criticizes nation's largest teachers union over focus on impeaching Trump as students fail - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jNG5rRU1lWDFJVkNBaHI0YXFFNWJrS3VfYW1tT0x1XzlEQlg3eXUwSDYyMkJxeXJYMGVndkpZSGR3TkdjbXpna0t6bTZScjM5amUyWVBn?oc=5",
-      "source": "Fox News",
-      "published": "Sat, 11 Jul 2026 17:43:05 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jNG5rRU1lWDFJVkNBaHI0YXFFNWJrS3VfYW1tT0x1XzlEQlg3eXUwSDYyMkJxeXJYMGVndkpZSGR3TkdjbXpna0t6bTZScjM5amUyWVBn?oc=5\" target=\"_blank\">Education secretary criticizes nation's largest teachers union over focus on impeaching Trump as students fail</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
     },
     {
       "title": "Governor Newsom signs historic investments to bolster support for special education - California State Portal | CA.gov",
@@ -660,6 +660,13 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNRDBHdlRJM2dXOWtqUnJrLXRaR1RwYVpDTFlmN2lrbEZtSVFyYmtMRU1QZEprNFhzTlVrLTRpQ01oenpqQUsyRXhpTTJNdFc3YUVpZTl5WkJjZWRyQ3U1VGsyU2pwd2c1RjZ4bmxveVJJcUZOamdoMU15NDNscmJhZ1M0dldfam9uOHc?oc=5\" target=\"_blank\">Local Author Promotes Honey Bee Education</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ThurstonTalk</font>"
     },
     {
+      "title": "Some education officials want 'I Love West Virginia Public Schools' campaign to focus on specifics - WV MetroNews",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQlYxeE96TkcxVENZbVo2WmhKZ3hyMGptZ2xWQUxIeHphaFZ3Z3RFdFF4RHl0LVF6OTRGNExsZ18wcXRPWUNjMmU5S0ZfOUtjQlUzdnVzSUU2TVhoUFVjUk53WXRrM1lCaUZuVExfZTVweVJTeUdrSEtMa29GQnQ4eEZsRi1lSFRQajFCQmktbmgwUkl3MzZ5YXRIOURJMlNuVEJoNnBybXgzWGNrN1JrTktOVWVVRFFmX2pFUURMMU14UHpGeTVKTmpENXQ?oc=5",
+      "source": "WV MetroNews",
+      "published": "Sun, 12 Jul 2026 13:27:53 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQQlYxeE96TkcxVENZbVo2WmhKZ3hyMGptZ2xWQUxIeHphaFZ3Z3RFdFF4RHl0LVF6OTRGNExsZ18wcXRPWUNjMmU5S0ZfOUtjQlUzdnVzSUU2TVhoUFVjUk53WXRrM1lCaUZuVExfZTVweVJTeUdrSEtMa29GQnQ4eEZsRi1lSFRQajFCQmktbmgwUkl3MzZ5YXRIOURJMlNuVEJoNnBybXgzWGNrN1JrTktOVWVVRFFmX2pFUURMMU14UHpGeTVKTmpENXQ?oc=5\" target=\"_blank\">Some education officials want 'I Love West Virginia Public Schools' campaign to focus on specifics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WV MetroNews</font>"
+    },
+    {
       "title": "Massachusetts AG sues Department of Education over mental health grant cuts - WWLP",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTzJQTzBnbFVyd2tVV0Fub3VFenNhUVNJWVdYQi1mMzJvZGdmbllZU0tkQzRmY25Dd3pOY2l5Vm1jRXpBX1dWbXFhVnNZNE9WVW9raVhEQ0VFLVdzNDllMllvMmFyVm1XXzB4ZFlYUWYySUpKaTdxRktYS3ZBaXRFY0Z0TjgwTE93dHk2bC1KbC1JNm5Eb1o2Um9qUUMwT0swT0o0UkRVUlpiNHNXQlNIbXFYOUNWblnSAbwBQVVfeXFMTWtzaDI3YUJqR0dHdFlWbzhta0xvcy1HSWw5V1pLVG53OXdYOWw2ZFR0RTl6QTRNSU1ZN3pEU1d6cjRSR01QdVZ6MGJFLXYtOGFMd0ZQamFuY2dpdGlsUUtMaUJZN0xIY1JUUFZ0dS0xTld6ODFBTUw5VElRVHZLQ0cxa29uZExILTBReEh5OGp6MUtCbld0TXYtNjhVQ3o1YTVGTGc2N0ZZNFBrZHlIVU42a2RnQk1JZFFhNHI?oc=5",
       "source": "WWLP",
@@ -674,25 +681,11 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOd0ZzcXpiLURoaWpLMjlNSEZ3Y3A5VUljeUUzYUFHZktEbHJSVzZfcDdGcmtNbC0zWVk3Um16V0tuMjM1MmFVYWZodFNkTFN5TnMzT0RuMjJVaXVGYW1hMzVsWl82SXNFdFRodlFHQUVocmp0dV9DM1NGZ0duYlNZWGNKNkhCTGk5TE5VUURmOXV4ZEZoQ3ZYd0lUakhiRkVqeUUzSkxtbHV6LXhEcVNRVFJnNVh2RldoQ0RBMGt3N0RBQUZPVVJGZG9GaU16NG42ZEV1SllyV2JmRTk5emNZVDBn?oc=5\" target=\"_blank\">Delaware educators recognized for Career and Technical Education Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDEL</font>"
     },
     {
-      "title": "Some education officials want 'I Love West Virginia Public Schools' campaign to focus on specifics - WV MetroNews",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQlYxeE96TkcxVENZbVo2WmhKZ3hyMGptZ2xWQUxIeHphaFZ3Z3RFdFF4RHl0LVF6OTRGNExsZ18wcXRPWUNjMmU5S0ZfOUtjQlUzdnVzSUU2TVhoUFVjUk53WXRrM1lCaUZuVExfZTVweVJTeUdrSEtMa29GQnQ4eEZsRi1lSFRQajFCQmktbmgwUkl3MzZ5YXRIOURJMlNuVEJoNnBybXgzWGNrN1JrTktOVWVVRFFmX2pFUURMMU14UHpGeTVKTmpENXQ?oc=5",
-      "source": "WV MetroNews",
-      "published": "Sun, 12 Jul 2026 13:27:53 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQQlYxeE96TkcxVENZbVo2WmhKZ3hyMGptZ2xWQUxIeHphaFZ3Z3RFdFF4RHl0LVF6OTRGNExsZ18wcXRPWUNjMmU5S0ZfOUtjQlUzdnVzSUU2TVhoUFVjUk53WXRrM1lCaUZuVExfZTVweVJTeUdrSEtMa29GQnQ4eEZsRi1lSFRQajFCQmktbmgwUkl3MzZ5YXRIOURJMlNuVEJoNnBybXgzWGNrN1JrTktOVWVVRFFmX2pFUURMMU14UHpGeTVKTmpENXQ?oc=5\" target=\"_blank\">Some education officials want 'I Love West Virginia Public Schools' campaign to focus on specifics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WV MetroNews</font>"
-    },
-    {
-      "title": "STEM education in the classroom, introducing BotBall - The Robot Report",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOXN3UC1xb05hbjRTd29NUy1CUDJDWmRJTEw2NTAwUS1wNVJkNTFUV0ZNT2s5MFBLUXNqX3RtOFhzc09ub1pNZWdhMm1jYXpOcUxRb005SEc0dVlGS2RBeHBzWDJxellVNXpJY2tiNE1NOHFuVHdIbFByaS05eUtXc1lB?oc=5",
-      "source": "The Robot Report",
-      "published": "Sun, 12 Jul 2026 10:06:23 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNOXN3UC1xb05hbjRTd29NUy1CUDJDWmRJTEw2NTAwUS1wNVJkNTFUV0ZNT2s5MFBLUXNqX3RtOFhzc09ub1pNZWdhMm1jYXpOcUxRb005SEc0dVlGS2RBeHBzWDJxellVNXpJY2tiNE1NOHFuVHdIbFByaS05eUtXc1lB?oc=5\" target=\"_blank\">STEM education in the classroom, introducing BotBall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Robot Report</font>"
-    },
-    {
-      "title": "Maryland attorney general sues Education Department to stop school mental health grant cuts - WTOP",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYy03ZUJTTW1BLWQ2SVJHcW9rYUJTS2JQeTd3VE5FRkdLTXpjdlB0Mm5kazFhUHFST2dSWUhkOFBHZnB3aEhsNnBwRWQ1aUExa21RejBTZzYtWURIVjNNYUpOam94aURKd0d1NWNWWU1GZmhjSzlHbk84U1lCTWc5YjJlYm5vbU9KUUtHb04yWTdtNmRoUUh6WlA4UE11U3otZWNFc1VPV1BhMnFWbkV4dHBTQm5nc19fRllTcjRDZXhMQ2xq?oc=5",
-      "source": "WTOP",
-      "published": "Sun, 12 Jul 2026 01:22:18 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQYy03ZUJTTW1BLWQ2SVJHcW9rYUJTS2JQeTd3VE5FRkdLTXpjdlB0Mm5kazFhUHFST2dSWUhkOFBHZnB3aEhsNnBwRWQ1aUExa21RejBTZzYtWURIVjNNYUpOam94aURKd0d1NWNWWU1GZmhjSzlHbk84U1lCTWc5YjJlYm5vbU9KUUtHb04yWTdtNmRoUUh6WlA4UE11U3otZWNFc1VPV1BhMnFWbkV4dHBTQm5nc19fRllTcjRDZXhMQ2xq?oc=5\" target=\"_blank\">Maryland attorney general sues Education Department to stop school mental health grant cuts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOP</font>"
+      "title": "The state comes in at #1 for education nationwide and #1 for business in New England. - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ1c1SHR6eUJvaFExcEZlV081NEUxcldNU2Uta0xzZTRDS2dxUS1qSVc1cXdWb0lHU2U5cXJURU1xeWppZmw1dkN6RzB5OTBqLXNtNjBaVG01WmpoNHlrUmhrM19tYUdBRnVWX2ZEM0FqaWROTzVoUlNXUkVNMTB4QzlaaXJBQkZ0UjRNMnoxam9EMEotekdvQ0ZJWmdmb1NjdFhfblZsd2dFeGxmTl9iY3QtcU9VX0RXMWoxU3ZvTVhjTHRlQ0F5dlZJRzdHREZlRTlKeW9wclU0WWc?oc=5",
+      "source": "facebook.com",
+      "published": "Sun, 12 Jul 2026 18:11:46 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ1c1SHR6eUJvaFExcEZlV081NEUxcldNU2Uta0xzZTRDS2dxUS1qSVc1cXdWb0lHU2U5cXJURU1xeWppZmw1dkN6RzB5OTBqLXNtNjBaVG01WmpoNHlrUmhrM19tYUdBRnVWX2ZEM0FqaWROTzVoUlNXUkVNMTB4QzlaaXJBQkZ0UjRNMnoxam9EMEotekdvQ0ZJWmdmb1NjdFhfblZsd2dFeGxmTl9iY3QtcU9VX0RXMWoxU3ZvTVhjTHRlQ0F5dlZJRzdHREZlRTlKeW9wclU0WWc?oc=5\" target=\"_blank\">The state comes in at #1 for education nationwide and #1 for business in New England.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>"
     },
     {
       "title": "How UChicago Law School is handling AI in education | ChicagoLIVE - FOX 32 Chicago",
@@ -702,11 +695,18 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rblRoV1A4XzJ0QzluVk83VUlNazhOVlNBNnczY05iQkQyR3NNeTRMSmxsSlU4YWwxTDdxcXo5WG4tX215UXJOZ2tKU0JHWUc1WEJHQUpLWTQ1YVV4YlNvZXc1aE56d9IBa0FVX3lxTE9icTZtamJqbFVkalpQanNkUlJOVXFMUXI0XzZOaU9MYWFuRFJleTVmV2dHV0pqWmV4ZFhKZ2ZHaHRXcUpTdHZtZmtOV1h3UTE0bFJmbHlkUks2LU9KYlBGYlJKZ0dJelEtUDc0?oc=5\" target=\"_blank\">How UChicago Law School is handling AI in education | ChicagoLIVE</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 32 Chicago</font>"
     },
     {
-      "title": "The state comes in at #1 for education nationwide and #1 for business in New England. - facebook.com",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ1c1SHR6eUJvaFExcEZlV081NEUxcldNU2Uta0xzZTRDS2dxUS1qSVc1cXdWb0lHU2U5cXJURU1xeWppZmw1dkN6RzB5OTBqLXNtNjBaVG01WmpoNHlrUmhrM19tYUdBRnVWX2ZEM0FqaWROTzVoUlNXUkVNMTB4QzlaaXJBQkZ0UjRNMnoxam9EMEotekdvQ0ZJWmdmb1NjdFhfblZsd2dFeGxmTl9iY3QtcU9VX0RXMWoxU3ZvTVhjTHRlQ0F5dlZJRzdHREZlRTlKeW9wclU0WWc?oc=5",
-      "source": "facebook.com",
-      "published": "Sun, 12 Jul 2026 15:26:55 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ1c1SHR6eUJvaFExcEZlV081NEUxcldNU2Uta0xzZTRDS2dxUS1qSVc1cXdWb0lHU2U5cXJURU1xeWppZmw1dkN6RzB5OTBqLXNtNjBaVG01WmpoNHlrUmhrM19tYUdBRnVWX2ZEM0FqaWROTzVoUlNXUkVNMTB4QzlaaXJBQkZ0UjRNMnoxam9EMEotekdvQ0ZJWmdmb1NjdFhfblZsd2dFeGxmTl9iY3QtcU9VX0RXMWoxU3ZvTVhjTHRlQ0F5dlZJRzdHREZlRTlKeW9wclU0WWc?oc=5\" target=\"_blank\">The state comes in at #1 for education nationwide and #1 for business in New England.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>"
+      "title": "STEM education in the classroom, introducing BotBall - The Robot Report",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOXN3UC1xb05hbjRTd29NUy1CUDJDWmRJTEw2NTAwUS1wNVJkNTFUV0ZNT2s5MFBLUXNqX3RtOFhzc09ub1pNZWdhMm1jYXpOcUxRb005SEc0dVlGS2RBeHBzWDJxellVNXpJY2tiNE1NOHFuVHdIbFByaS05eUtXc1lB?oc=5",
+      "source": "The Robot Report",
+      "published": "Sun, 12 Jul 2026 10:06:23 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNOXN3UC1xb05hbjRTd29NUy1CUDJDWmRJTEw2NTAwUS1wNVJkNTFUV0ZNT2s5MFBLUXNqX3RtOFhzc09ub1pNZWdhMm1jYXpOcUxRb005SEc0dVlGS2RBeHBzWDJxellVNXpJY2tiNE1NOHFuVHdIbFByaS05eUtXc1lB?oc=5\" target=\"_blank\">STEM education in the classroom, introducing BotBall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Robot Report</font>"
+    },
+    {
+      "title": "Education Department may not have canceled some student loans as promised, lawsuit claims - ABC7 Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUlpneTBnX0g3TVJYazBrblZSSHRXWWo4MVVZOEsxM2hPbWpaWlpZMlV4UHhBQWFMOUhhbzNIcVlJaEhubWxiRVBuc0tqV0pVRU1kSkJGUllmT0FHckRrY1hFVlV6WHpZTHBuWU9SdVRxaUN0Q0tZMjYtUTlsLXQyWkhiQy03LVdBNVhIXzk3YjhGM0xORjBIdjc5b1Rad0FGVWNWemF1dTZzMm1ad1pFT19n0gG3AUFVX3lxTE9oN3VUQjZyNVEwdzBYV3lDbi1SMF9KdFFSdElwdFlUSEhTLUttcUZMWHg3Uk5OckZIYlIyN1RUNTJZc1NKdHRjVUpNVFVMekYwUFVKVXBkcGdtbE1xVkhRd0E5NmpSa0E2UmY4NjZycnRGak1HYlRFMG5fZnJGSkcyMVdOMHBQT1RKMDI0TThEYVdyX2N6N0R5b2RJX1dYOXJxeWJNckVzcllKWldMY3gxT1ZGQ2RzZw?oc=5",
+      "source": "ABC7 Los Angeles",
+      "published": "Fri, 10 Jul 2026 07:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOUlpneTBnX0g3TVJYazBrblZSSHRXWWo4MVVZOEsxM2hPbWpaWlpZMlV4UHhBQWFMOUhhbzNIcVlJaEhubWxiRVBuc0tqV0pVRU1kSkJGUllmT0FHckRrY1hFVlV6WHpZTHBuWU9SdVRxaUN0Q0tZMjYtUTlsLXQyWkhiQy03LVdBNVhIXzk3YjhGM0xORjBIdjc5b1Rad0FGVWNWemF1dTZzMm1ad1pFT19n0gG3AUFVX3lxTE9oN3VUQjZyNVEwdzBYV3lDbi1SMF9KdFFSdElwdFlUSEhTLUttcUZMWHg3Uk5OckZIYlIyN1RUNTJZc1NKdHRjVUpNVFVMekYwUFVKVXBkcGdtbE1xVkhRd0E5NmpSa0E2UmY4NjZycnRGak1HYlRFMG5fZnJGSkcyMVdOMHBQT1RKMDI0TThEYVdyX2N6N0R5b2RJX1dYOXJxeWJNckVzcllKWldMY3gxT1ZGQ2RzZw?oc=5\" target=\"_blank\">Education Department may not have canceled some student loans as promised, lawsuit claims</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Los Angeles</font>"
     }
   ]
 }
