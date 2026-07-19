@@ -8,18 +8,18 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOY25LZ041MENtbWVpNE1nSERsRzR4QUp1Skt0YWo5cHBPZ1p2ajdlQ2lTM3JseXhLMkdpc1A0ZFRtUTVHcU1tZU01ajN0MUpUSHozNmpNTktUZjNzemtPdmpMMDB5TXl3N1RWU0syc29RWjJRRlhXZ281X21JeWo1UUtEODA0MVdQcG14eGRPNzNGekQtUnVR0gGcAUFVX3lxTE9NX0Z4bUJkM3ljOUZscHdpU1U2SVFWdWhWSFFMSGdBRGJkVHRpN2c5WmNUSHc0X04ybGxDQWpVZEdpS2dTNmZ3dUE3N2IyVU9LM05oSG5RTDA2WkR3N19QSWpFMXJBUVRHQUp0c3pvTnRJSXNkejZMYkthQzdqNlFyNlZUdEVRcGRaS0k3eHlnRExPQzlreTB3Y3Q5Rw?oc=5\" target=\"_blank\">Cybersecurity risks posed by over-the-air tech in autos has analysts concerned</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>"
     },
     {
+      "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution - The Hacker News",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUHdzNUNnVFRYSHVlU1d0dTFHcUlQbFZTWjJLM3BnY29GWllmRUlfWjBKTkNnZGhUd0NxZEJid1pibjloQl9yRTFsM1VkLUUxR3g5amgwVzhEZjZCWFk5b1BSYU9PVDZLRFIzUWdLTE9jZEszOGNBZXNETkJlZTVqRElvRQ?oc=5",
+      "source": "The Hacker News",
+      "published": "Sun, 19 Jul 2026 20:42:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQUHdzNUNnVFRYSHVlU1d0dTFHcUlQbFZTWjJLM3BnY29GWllmRUlfWjBKTkNnZGhUd0NxZEJid1pibjloQl9yRTFsM1VkLUUxR3g5amgwVzhEZjZCWFk5b1BSYU9PVDZLRFIzUWdLTE9jZEszOGNBZXNETkJlZTVqRElvRQ?oc=5\" target=\"_blank\">Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hacker News</font>"
+    },
+    {
       "title": "CrowdStrike acquires XM Cyber's technology five years after its $700 million sale - calcalistech.com",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13YmwtRHN2a3hRYmN0SnFYU3l3N2NrcXctREdxWmJxcE5WQmRnaXFvaDRUdks0aHN5RFhYMWVOQTdiOWozaVYzUkpUVHNGSF9yNDlvVXI4c1VjNURqbGF0d1lyRlBBYTQ3?oc=5",
       "source": "calcalistech.com",
       "published": "Fri, 17 Jul 2026 10:07:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE13YmwtRHN2a3hRYmN0SnFYU3l3N2NrcXctREdxWmJxcE5WQmRnaXFvaDRUdks0aHN5RFhYMWVOQTdiOWozaVYzUkpUVHNGSF9yNDlvVXI4c1VjNURqbGF0d1lyRlBBYTQ3?oc=5\" target=\"_blank\">CrowdStrike acquires XM Cyber's technology five years after its $700 million sale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">calcalistech.com</font>"
-    },
-    {
-      "title": "SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access - The Hacker News",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rWURSVlFTcU1jTUwwd3BrQ2NjUlNPLWdCVE14dHJheFJqdUZIemJHZ25jeXJNdi1wc0FtYkNNekUtT1VOT3BNalVXLVppNllsTmhPZnBTNnQxTlZiMWxkeF9sSEtpWW8xSUhRTkFJUnR3clpDYTdNQ3N5ZFA?oc=5",
-      "source": "The Hacker News",
-      "published": "Sun, 19 Jul 2026 13:18:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1rWURSVlFTcU1jTUwwd3BrQ2NjUlNPLWdCVE14dHJheFJqdUZIemJHZ25jeXJNdi1wc0FtYkNNekUtT1VOT3BNalVXLVppNllsTmhPZnBTNnQxTlZiMWxkeF9sSEtpWW8xSUhRTkFJUnR3clpDYTdNQ3N5ZFA?oc=5\" target=\"_blank\">SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hacker News</font>"
     },
     {
       "title": "Albuquerque-based cybersecurity company to more than double workforce in expansion - KRQE",
@@ -29,18 +29,32 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPbzF3MTZ5S0hDaFpZWmx1OHlTRHNKX3U1dHVnU2xzWV9PMS1QWjV3RmVTMHB2Qi05VWFBNmY3RHczMi11bkRKS1dTUVhmZ2NJWW1PMl9ZdzBJM2RKc0tGb1RvODVxdzFNNE1XYlpUeFl3MmZIRGduS2sxQ0JXaDF2alNmYUdPaHdEYUZvU0xTLWE1ekdwS0hRX0VTbzJMNEJtYlQxMnhlUDk5RGktZTB1V1NLdHgzNDR0OXc5MnhqYV8zQ2ExTmfSAcsBQVVfeXFMUG9ZR3V4TTVBN1JFUnBGZlZtMXRERVRzMFczNmJWQ2h5MGNGc2VLcVBCMXJQUTYtZXFUZzF0ZVpUMTJsNHpkbDl3azdaeWtRUzhBS2d1UkNKYmU4dXc3SDZRVlkwei1sMkFaMVJXV3RSUjZIT0ZSb19WQkJ0ZWd1Q0sxYy1jRW80OVlLWUNadl9rTi1pTlhqalpVYlRXYjhuOVZjVmFoZVlxTFh2WWJSS1kxNXB5V2txRlFiQlVjdk55NGFsam00UnN2U0U?oc=5\" target=\"_blank\">Albuquerque-based cybersecurity company to more than double workforce in expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KRQE</font>"
     },
     {
-      "title": "Coca-Cola Suspends US Fairlife Operations After Cyberattack - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOU16d1lqMEtGSDdxaDFmVGt0Q1Y2SGZsbHVTdlBydFI0THp4OF81MEtRWjhnS0VZX3dVMlFWNVMtd00tbEFVZmVINDYwRlV1WTZScGctMWx6UFMwWllhbVhTN0hSUE00UWExOHFGYlJzLWg5NlFMWTkxU2R3TDdSdXNBOXEtNHREb1ZpWk9mMENUclBRVDlkakhpSmpuRllrMnZMX3N0R0IwODl0cFJj?oc=5",
-      "source": "Bloomberg.com",
-      "published": "Thu, 16 Jul 2026 20:41:55 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNOU16d1lqMEtGSDdxaDFmVGt0Q1Y2SGZsbHVTdlBydFI0THp4OF81MEtRWjhnS0VZX3dVMlFWNVMtd00tbEFVZmVINDYwRlV1WTZScGctMWx6UFMwWllhbVhTN0hSUE00UWExOHFGYlJzLWg5NlFMWTkxU2R3TDdSdXNBOXEtNHREb1ZpWk9mMENUclBRVDlkakhpSmpuRllrMnZMX3N0R0IwODl0cFJj?oc=5\" target=\"_blank\">Coca-Cola Suspends US Fairlife Operations After Cyberattack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>"
-    },
-    {
       "title": "CrowdStrike Eyes Next Act As AI Security Business Takes Shape - Investor's Business Daily",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZm0yNzM2a0d2dHQ2TTZ5RE1KOUM4V3Jpa21vRnZyTU9adzMzT1dNSl9jRWc1c0xuZE9lbURnVW54T2hEYTN0cTdVLS1jTWFyc0hUTmdjNVRqbUM3Nk05R0lUalFodHVGaHNJdU5RWk1VanV0QzJxMEVHM1VLNDcxRnNMX0pEZDlfak1HZ1ZYLUpIbGs0Ml95akpYTXZYZE9N?oc=5",
       "source": "Investor's Business Daily",
       "published": "Fri, 17 Jul 2026 20:15:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQZm0yNzM2a0d2dHQ2TTZ5RE1KOUM4V3Jpa21vRnZyTU9adzMzT1dNSl9jRWc1c0xuZE9lbURnVW54T2hEYTN0cTdVLS1jTWFyc0hUTmdjNVRqbUM3Nk05R0lUalFodHVGaHNJdU5RWk1VanV0QzJxMEVHM1VLNDcxRnNMX0pEZDlfak1HZ1ZYLUpIbGs0Ml95akpYTXZYZE9N?oc=5\" target=\"_blank\">CrowdStrike Eyes Next Act As AI Security Business Takes Shape</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>"
+    },
+    {
+      "title": "Coca-Cola Unit Becomes 17th US Cyber Incident This Year - PYMNTS.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUTJOdTRrRnZKdVNBWDVNWjlUVU9VWlppcHcwOTltajJScVhJZGFnaGpNOFV4YlhZeHQ4WFhpRG4wc1BOYkVydnp0dHBMbU1SSVV6R3d0b0ZwNTJidlZVRXZvRUduY1lLM1JLX2JVNXliMjlzNjNEelpfcTkyb0xUTTRCcy1vRGgxQWhNM3VCUUNMT1d1QS1WZEdsTU9pb01wOTB3cDVwSy1wUGlmc3c?oc=5",
+      "source": "PYMNTS.com",
+      "published": "Fri, 17 Jul 2026 16:32:10 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQUTJOdTRrRnZKdVNBWDVNWjlUVU9VWlppcHcwOTltajJScVhJZGFnaGpNOFV4YlhZeHQ4WFhpRG4wc1BOYkVydnp0dHBMbU1SSVV6R3d0b0ZwNTJidlZVRXZvRUduY1lLM1JLX2JVNXliMjlzNjNEelpfcTkyb0xUTTRCcy1vRGgxQWhNM3VCUUNMT1d1QS1WZEdsTU9pb01wOTB3cDVwSy1wUGlmc3c?oc=5\" target=\"_blank\">Coca-Cola Unit Becomes 17th US Cyber Incident This Year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PYMNTS.com</font>"
+    },
+    {
+      "title": "CrowdStrike vs. NVIDIA: Which Growth Tech Stock Is a Better Buy in 2026, the Cybersecurity Giant or AI Leader? - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdDVicW01UTJEQjVodmdJV3ZqQ3hHbnBRakM0LUJLR0h4RzdScWRfMFRnVU9FblI4bFFBdGJzU1d0S0tjcTlqTUlkS2RzM3k0Uzd1UUp2VmdNM1FyOVJzNHJGbzdIanl5T1FkOWxid1BtM1dZZ091enp2dlBGSUdQS0NHaWs0VURZQTYtcXBxOGpLdWNHemtZekw1TEZQdDRkd1l1LXV2VDhBa2YxX1NGVUdzVXNaQ0xMN0ZLbXJmZGd2OUtLcGdGUldPenpFS2VQQ2REVHFJNVhwMVFhT1ZzYWZLNUNiODlMNHZsOFh1a0o?oc=5",
+      "source": "The Motley Fool",
+      "published": "Fri, 17 Jul 2026 22:39:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdDVicW01UTJEQjVodmdJV3ZqQ3hHbnBRakM0LUJLR0h4RzdScWRfMFRnVU9FblI4bFFBdGJzU1d0S0tjcTlqTUlkS2RzM3k0Uzd1UUp2VmdNM1FyOVJzNHJGbzdIanl5T1FkOWxid1BtM1dZZ091enp2dlBGSUdQS0NHaWs0VURZQTYtcXBxOGpLdWNHemtZekw1TEZQdDRkd1l1LXV2VDhBa2YxX1NGVUdzVXNaQ0xMN0ZLbXJmZGd2OUtLcGdGUldPenpFS2VQQ2REVHFJNVhwMVFhT1ZzYWZLNUNiODlMNHZsOFh1a0o?oc=5\" target=\"_blank\">CrowdStrike vs. NVIDIA: Which Growth Tech Stock Is a Better Buy in 2026, the Cybersecurity Giant or AI Leader?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>"
+    },
+    {
+      "title": "Cedar Crest College experiences significant cybersecurity incident affecting colleges technology - WFMZ.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNOU5JLVRWdzlKdFV5cWV3SnB4RmtmNlp3UzBJd0c0T252UFliY1FBandWdW5za3o3R3JkWHY2TFQ3cVFDdU1nb09DSnVpWERXSmhLWFFsSS01bjU4U2NOdFVzeHNkRlNPVFU4TDNmWFBtRk1NZ3Q0X1BvNU1aOTFrcmhTVTRnMHNocDl0V203TFNLSU4xNl9DQ29TUVZldVpjRWR5UWRwcnFvZjZQeWo0NV9rU09MaXF0Sng2Z3dsM1pwNGJOZm5yZlRDUzJMSVh2YlhPQnNRckZCR2Z4MFV4d3g4MlExZm9LUEVtSkNYWXotdklJZDg5NnpZZlRzNUJqTHpQMEZjMGdYWTlTU1ZmcnVXUndmVThGZXl1bG1yUnZhX210MXc0M3lTUkpQS0ZBVzduaVZRSEx0ZHRMWjNGaA?oc=5",
+      "source": "WFMZ.com",
+      "published": "Thu, 16 Jul 2026 20:45:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAJBVV95cUxNOU5JLVRWdzlKdFV5cWV3SnB4RmtmNlp3UzBJd0c0T252UFliY1FBandWdW5za3o3R3JkWHY2TFQ3cVFDdU1nb09DSnVpWERXSmhLWFFsSS01bjU4U2NOdFVzeHNkRlNPVFU4TDNmWFBtRk1NZ3Q0X1BvNU1aOTFrcmhTVTRnMHNocDl0V203TFNLSU4xNl9DQ29TUVZldVpjRWR5UWRwcnFvZjZQeWo0NV9rU09MaXF0Sng2Z3dsM1pwNGJOZm5yZlRDUzJMSVh2YlhPQnNRckZCR2Z4MFV4d3g4MlExZm9LUEVtSkNYWXotdklJZDg5NnpZZlRzNUJqTHpQMEZjMGdYWTlTU1ZmcnVXUndmVThGZXl1bG1yUnZhX210MXc0M3lTUkpQS0ZBVzduaVZRSEx0ZHRMWjNGaA?oc=5\" target=\"_blank\">Cedar Crest College experiences significant cybersecurity incident affecting colleges technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WFMZ.com</font>"
     },
     {
       "title": "CMMC may be paused, but cybersecurity audits likely to return: Industry, experts - Breaking Defense",
@@ -55,20 +69,6 @@
       "source": "Cybersecurity Dive",
       "published": "Thu, 16 Jul 2026 16:00:48 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNSzBxYldIQVB5eFhWWTVjQkhJVVNKcVVYdlgteXRGUzVMOERIRUdFWkNEUk9YUGgwYWtWLWVwQmU0dXJJRzNGRHQzQUszTTBBYVRrQ2VrTEZPMEhTd1h6S2ZkODFzRDN6NUdqenhqc0E0eHlXUGVQSExqQWhwM1R6OFJVZ3ZsR0t2YllaUk42S0hvTTA?oc=5\" target=\"_blank\">Iran-nexus actors using AI to enhance cyber playbook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cybersecurity Dive</font>"
-    },
-    {
-      "title": "Cedar Crest College experiences significant cybersecurity incident affecting colleges technology - WFMZ.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNOU5JLVRWdzlKdFV5cWV3SnB4RmtmNlp3UzBJd0c0T252UFliY1FBandWdW5za3o3R3JkWHY2TFQ3cVFDdU1nb09DSnVpWERXSmhLWFFsSS01bjU4U2NOdFVzeHNkRlNPVFU4TDNmWFBtRk1NZ3Q0X1BvNU1aOTFrcmhTVTRnMHNocDl0V203TFNLSU4xNl9DQ29TUVZldVpjRWR5UWRwcnFvZjZQeWo0NV9rU09MaXF0Sng2Z3dsM1pwNGJOZm5yZlRDUzJMSVh2YlhPQnNRckZCR2Z4MFV4d3g4MlExZm9LUEVtSkNYWXotdklJZDg5NnpZZlRzNUJqTHpQMEZjMGdYWTlTU1ZmcnVXUndmVThGZXl1bG1yUnZhX210MXc0M3lTUkpQS0ZBVzduaVZRSEx0ZHRMWjNGaA?oc=5",
-      "source": "WFMZ.com",
-      "published": "Thu, 16 Jul 2026 20:45:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAJBVV95cUxNOU5JLVRWdzlKdFV5cWV3SnB4RmtmNlp3UzBJd0c0T252UFliY1FBandWdW5za3o3R3JkWHY2TFQ3cVFDdU1nb09DSnVpWERXSmhLWFFsSS01bjU4U2NOdFVzeHNkRlNPVFU4TDNmWFBtRk1NZ3Q0X1BvNU1aOTFrcmhTVTRnMHNocDl0V203TFNLSU4xNl9DQ29TUVZldVpjRWR5UWRwcnFvZjZQeWo0NV9rU09MaXF0Sng2Z3dsM1pwNGJOZm5yZlRDUzJMSVh2YlhPQnNRckZCR2Z4MFV4d3g4MlExZm9LUEVtSkNYWXotdklJZDg5NnpZZlRzNUJqTHpQMEZjMGdYWTlTU1ZmcnVXUndmVThGZXl1bG1yUnZhX210MXc0M3lTUkpQS0ZBVzduaVZRSEx0ZHRMWjNGaA?oc=5\" target=\"_blank\">Cedar Crest College experiences significant cybersecurity incident affecting colleges technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WFMZ.com</font>"
-    },
-    {
-      "title": "CrowdStrike vs. NVIDIA: Which Growth Tech Stock Is a Better Buy in 2026, the Cybersecurity Giant or AI Leader? - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdDVicW01UTJEQjVodmdJV3ZqQ3hHbnBRakM0LUJLR0h4RzdScWRfMFRnVU9FblI4bFFBdGJzU1d0S0tjcTlqTUlkS2RzM3k0Uzd1UUp2VmdNM1FyOVJzNHJGbzdIanl5T1FkOWxid1BtM1dZZ091enp2dlBGSUdQS0NHaWs0VURZQTYtcXBxOGpLdWNHemtZekw1TEZQdDRkd1l1LXV2VDhBa2YxX1NGVUdzVXNaQ0xMN0ZLbXJmZGd2OUtLcGdGUldPenpFS2VQQ2REVHFJNVhwMVFhT1ZzYWZLNUNiODlMNHZsOFh1a0o?oc=5",
-      "source": "The Motley Fool",
-      "published": "Fri, 17 Jul 2026 22:39:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdDVicW01UTJEQjVodmdJV3ZqQ3hHbnBRakM0LUJLR0h4RzdScWRfMFRnVU9FblI4bFFBdGJzU1d0S0tjcTlqTUlkS2RzM3k0Uzd1UUp2VmdNM1FyOVJzNHJGbzdIanl5T1FkOWxid1BtM1dZZ091enp2dlBGSUdQS0NHaWs0VURZQTYtcXBxOGpLdWNHemtZekw1TEZQdDRkd1l1LXV2VDhBa2YxX1NGVUdzVXNaQ0xMN0ZLbXJmZGd2OUtLcGdGUldPenpFS2VQQ2REVHFJNVhwMVFhT1ZzYWZLNUNiODlMNHZsOFh1a0o?oc=5\" target=\"_blank\">CrowdStrike vs. NVIDIA: Which Growth Tech Stock Is a Better Buy in 2026, the Cybersecurity Giant or AI Leader?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>"
     },
     {
       "title": "Federal audit finds major gaps in US aviation cybersecurity oversight - Biometric Update",
@@ -146,8 +146,36 @@
       "title": "Spain vs. Argentina live updates: World Cup final score, highlights, latest news and analysis - Yahoo Sports",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdlI1d25HRmdzTWxzcm04ZUFMamxXTWJ4RmFwcEs2LUJtSG5QRVRsaWpiM3FmMnNVNFZ4cUNfczlfcVI3NTU4MnhvbmowdjhWNmZpYmFkNGJ6SDRGd2ZMOFVDSEx2RlEwWXVTc24zYTZYM3QycnZyR25tZ1BOMy0yaVBhUXJGb2JuU0gwWTloQURPci1SZnRQM1RIMDNZVl9rb0wtNUR0QmRJODgzbTNxRml2MHg5TEQ1?oc=5",
       "source": "Yahoo Sports",
-      "published": "Sun, 19 Jul 2026 21:05:28 GMT",
-      "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdlI1d25HRmdzTWxzcm04ZUFMamxXTWJ4RmFwcEs2LUJtSG5QRVRsaWpiM3FmMnNVNFZ4cUNfczlfcVI3NTU4MnhvbmowdjhWNmZpYmFkNGJ6SDRGd2ZMOFVDSEx2RlEwWXVTc24zYTZYM3QycnZyR25tZ1BOMy0yaVBhUXJGb2JuU0gwWTloQURPci1SZnRQM1RIMDNZVl9rb0wtNUR0QmRJODgzbTNxRml2MHg5TEQ1?oc=5\" target=\"_blank\">Spain vs. Argentina live updates: World Cup final score, highlights, latest news and analysis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNTnotN1pDQ1k0YVdCd1c2SkFJQjFyeFI3SWwwSzNuaHJnU2xVbEI3REpucnpwczRyMGF2bHFUY2hQNHdEVGJkZHJHdVczV2EyTUpobFZ6Q1JWRmNGREVVbENKVDZJcVhuNEZDU196ZDVVazFSMVlObUxCUlRYR2ttQWFYcjJmOUY0aHZkX3ZDakNfaU1tYUNxZEFuelVmd0ZuRG5pcHg3X0RmdUlPSG5nSVJMSGxITXFEeUV4Y2Vn?oc=5\" target=\"_blank\">How to Watch Spain vs. Argentina and Messi in World Cup Final: TV Channel, Stream, Time</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Sports</font></li><li><a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1tdURSd2RZZ0t5TDJKUXNQLTE0VWRsNG5NOUpRMm4yU09kdmhTVlljNmkyajBualpTZ21SVXB0ZVVNQUZDWGpmZlJLcktNRVppOXM3T2xyVjlwdlZfM1lZUThac2w2ZDd0alBUSmVxRWkxdWVEWXhBNElZUk9mdw?oc=5\" target=\"_blank\">At World Cup Final, Trump Seeks to Bask in Another Sports Championship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font></li><li><a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTl8wakZ4UXBQMVpuVnlKSTUzUVZpcnFZUW1qc1lLcV9SQTZFQ3ZMZldmVHRSS3oxQ3lOajBkNlkzM3JkUnlCVjFpcjFhcnlTREdDZmRuQUF0RjloVU1ULUk0SklhYVJLQzFULVJHTlVsdy1iSm9uWFNWVVhrYjEydnd4Zk1seWJTQnF0YWN0bktUX3dfaVZSNzNTY2JwcnRla3ljRWM0cUJEa19mZFd5UWljeS03aXRkSld3aXlIWGJMOE5hTDl0UUFQekRwSVNFTTNlNXZzNEwtNzhwdGc?oc=5\" target=\"_blank\">Spain vs Argentina LIVE! World Cup 2026 final, fixture, score, live updates and team news</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sky Sports</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVNWI5VGJEU3NMWUNzNWFBWHN2d0RGZ2JrZjM5S0d0MDhnVGZ4T000Y3BFcDl2U2RYNnJSOGZHd2tEaThFUllhTmc0WDQxd0VHUmZWMTVRMGJ3UkpOck9aVy1oOXlFN1E?oc=5\" target=\"_blank\">World Cup rings for winners as Trump attendance confirmed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNMGo2dlkzNWMxMUdIcnFnR0lOdVRCaVI5cGk1aF9DRlNWVjNyN2VyRGNqUENVRUg1X3Z3SXp5VG43VWppLXRxbnNOVFg4UEZFMlZybktMdlZIZDZBc3NocFFBbG85M1FLRGtWVklHcWd3c2NHZmZBYk1wdGVadE9XSEQ2dzNKbHpteXc?oc=5\" target=\"_blank\">From The Sports Desk: A blockbuster World Cup Final</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkSFRnYXlvLU5zX0VRRUVuRHpsU0RXRWkzZ1Z5cHhveDVSb01FMkVycVZjUzg0U28zR0tJemtDOW0zTUM1bVlvN2hYZ1FZQ2V3RTRoYlp4ZjZITVUxa0VzNHN3?oc=5\" target=\"_blank\">Full 2026 FIFA World Cup™ Final Halftime Show ⭐️</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Sports</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOZXdTN3EzUEdHVGRWbVJ1N1RzYkZKb284LUF4S2J4N3h6U012VVhDbkExMWpjbEUydEJoakU0MDZtNXVyczF3Q0h3bmQyRWRhWlFFWHgybURzUFRXWjVBbkRaSnI2NGNmTVhUeHlBNUZ4ZnYta0ZPOTR2UGtqYmtzbTF5bXh6V3BuTXZINUdBX2l1ZC1fZDZBVUpsbkI4WGpKZGoxSVV3LVVCazBYWTBwYm5JbmZWdG1TS1BtMzV4WkRkYVdlLUxodXU1dw?oc=5\" target=\"_blank\">How to watch the 2026 World Cup final for free: Where to the last match for $0</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNSlZyeVB4MUU3N0ZobUptOXgtWmY5SnlLVW9HOHdWUnhQUG1mY1czdE5PakpIZ0NUTFlseE93X2FpUnFyZktIMGFlZVBfekZmU1lRTUJ4Z29neXBLVUYxRVljVVh6MGVxWGFRc3ZlVzRTWFgzNDhoMHlVYkk3OFFjS2tPVFBUTmx6UGZUVXBNTWVLYzBrWi1ZUjlOZy15MXQ2STJmR1JJN3B6a1BKam9iWVVLTm1sM1hLYlczdHY3NA?oc=5\" target=\"_blank\">2026 World Cup final one of the most expensive sporting events ever</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font></li></ol>"
+      "published": "Sun, 19 Jul 2026 21:58:46 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdlI1d25HRmdzTWxzcm04ZUFMamxXTWJ4RmFwcEs2LUJtSG5QRVRsaWpiM3FmMnNVNFZ4cUNfczlfcVI3NTU4MnhvbmowdjhWNmZpYmFkNGJ6SDRGd2ZMOFVDSEx2RlEwWXVTc24zYTZYM3QycnZyR25tZ1BOMy0yaVBhUXJGb2JuU0gwWTloQURPci1SZnRQM1RIMDNZVl9rb0wtNUR0QmRJODgzbTNxRml2MHg5TEQ1?oc=5\" target=\"_blank\">Spain vs. Argentina live updates: World Cup final score, highlights, latest news and analysis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>"
+    },
+    {
+      "title": "At World Cup Final, Trump Seeks to Bask in Another Sports Championship - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1tdURSd2RZZ0t5TDJKUXNQLTE0VWRsNG5NOUpRMm4yU09kdmhTVlljNmkyajBualpTZ21SVXB0ZVVNQUZDWGpmZlJLcktNRVppOXM3T2xyVjlwdlZfM1lZUThac2w2ZDd0alBUSmVxRWkxdWVEWXhBNElZUk9mdw?oc=5",
+      "source": "The New York Times",
+      "published": "Sun, 19 Jul 2026 21:18:04 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1tdURSd2RZZ0t5TDJKUXNQLTE0VWRsNG5NOUpRMm4yU09kdmhTVlljNmkyajBualpTZ21SVXB0ZVVNQUZDWGpmZlJLcktNRVppOXM3T2xyVjlwdlZfM1lZUThac2w2ZDd0alBUSmVxRWkxdWVEWXhBNElZUk9mdw?oc=5\" target=\"_blank\">At World Cup Final, Trump Seeks to Bask in Another Sports Championship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+    },
+    {
+      "title": "Borchetta Bourbon Music City Grand Prix Live Updates, Highlights - FOX Sports",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2FPSXVLMi1RMEhaOFRYeHh3d3pnTGNDazU4ZXNuOXFtd01SOWZLX3ZwcDJKRGg2LTd0OUJQSGdOQVpZVnVVcE9FZXpicDVaa1Vja3IzTTVCUzFCOWR3TU1TenQ5ajFnSVNOeDRXY0otOFNXNVREVlhzZVhmQXRXamJYWWl3UVIxMkg5aXltVjUwZWcwdlJQczh3andFS010SGNvcVpKSm0?oc=5",
+      "source": "FOX Sports",
+      "published": "Sun, 19 Jul 2026 22:31:37 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2FPSXVLMi1RMEhaOFRYeHh3d3pnTGNDazU4ZXNuOXFtd01SOWZLX3ZwcDJKRGg2LTd0OUJQSGdOQVpZVnVVcE9FZXpicDVaa1Vja3IzTTVCUzFCOWR3TU1TenQ5ajFnSVNOeDRXY0otOFNXNVREVlhzZVhmQXRXamJYWWl3UVIxMkg5aXltVjUwZWcwdlJQczh3andFS010SGNvcVpKSm0?oc=5\" target=\"_blank\">Borchetta Bourbon Music City Grand Prix Live Updates, Highlights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Sports</font>"
+    },
+    {
+      "title": "4 Takeaways After Spain Beats Argentina In Extra Time To Win 2026 FIFA World Cup - FOX Sports",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV3VhcWoxRmdWN2RLREwtaVBWM3lpenpqZWRiN29uU2xUeHFxUVp5b19wMWtZQkRsa2FSM0NNbTB3Z2sxVE1wZ0lMSmtDamtRQ1B4Q1R3bEhxQWVaMk9SNlphVEpYRWVyRUNZVGM3a1hrMGhpRFZrVXl0b3VEdjV1b0VZYk1HWUJINkV2V1RFVlg3eDFMby0xbWxvaVdVbUcyeTNndUtJLXNtTEp0M2hDd2JIV2dBUdIBtgFBVV95cUxOcjN0RmlpX3M0ZjlWNTlJdVUyVXpoU2I5MXBtV1lMTVE4MUIxV1V1SGxFVnpHU2dGR2pUaThFTHMtSUd5QWN0ZzVxMUFKTDA0OVJZVlJzZ04xdEJCMzlNdDRNN2k4YmhJeDZWN3h5c1F3MlVrOElmQU9qMm40cnhiak1CX1ozbFBTUHVmM3R2dUlRTzBwcDM4UWtvMFlGZGtza01ETXNsTXgtbC1qNExJemtiQVdBZw?oc=5",
+      "source": "FOX Sports",
+      "published": "Sun, 19 Jul 2026 22:15:35 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOV3VhcWoxRmdWN2RLREwtaVBWM3lpenpqZWRiN29uU2xUeHFxUVp5b19wMWtZQkRsa2FSM0NNbTB3Z2sxVE1wZ0lMSmtDamtRQ1B4Q1R3bEhxQWVaMk9SNlphVEpYRWVyRUNZVGM3a1hrMGhpRFZrVXl0b3VEdjV1b0VZYk1HWUJINkV2V1RFVlg3eDFMby0xbWxvaVdVbUcyeTNndUtJLXNtTEp0M2hDd2JIV2dBUdIBtgFBVV95cUxOcjN0RmlpX3M0ZjlWNTlJdVUyVXpoU2I5MXBtV1lMTVE4MUIxV1V1SGxFVnpHU2dGR2pUaThFTHMtSUd5QWN0ZzVxMUFKTDA0OVJZVlJzZ04xdEJCMzlNdDRNN2k4YmhJeDZWN3h5c1F3MlVrOElmQU9qMm40cnhiak1CX1ozbFBTUHVmM3R2dUlRTzBwcDM4UWtvMFlGZGtza01ETXNsTXgtbC1qNExJemtiQVdBZw?oc=5\" target=\"_blank\">4 Takeaways After Spain Beats Argentina In Extra Time To Win 2026 FIFA World Cup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Sports</font>"
+    },
+    {
+      "title": "Spain down Argentina to win World Cup, shatter Messi dream - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSlk1Y18tcVpTeFMwY1V2dEx5aklmelRBY0pldFJQWFdEdHpCZC1vT3dONzFpeUJYbVY4dEg5amVUcGJFcmpJeGlQN0RzcG5xZWdycXMwdDY2ckYxS0M5ZzhxMjlfM19USHAzN3dlLXdyLUxRSGhmd1dEaVo2a3p2bV94aGdhQQ?oc=5",
+      "source": "Yahoo Sports",
+      "published": "Sun, 19 Jul 2026 22:15:22 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQSlk1Y18tcVpTeFMwY1V2dEx5aklmelRBY0pldFJQWFdEdHpCZC1vT3dONzFpeUJYbVY4dEg5amVUcGJFcmpJeGlQN0RzcG5xZWdycXMwdDY2ckYxS0M5ZzhxMjlfM19USHAzN3dlLXdyLUxRSGhmd1dEaVo2a3p2bV94aGdhQQ?oc=5\" target=\"_blank\">Spain down Argentina to win World Cup, shatter Messi dream</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>"
     },
     {
       "title": "He spotted a sports relic in the thrift store. It’s about to make him rich. - The Washington Post",
@@ -155,6 +183,34 @@
       "source": "The Washington Post",
       "published": "Sat, 18 Jul 2026 17:00:01 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOaWlZUmpQWHp0VXBtUlU3ZmJ0TlloYWdPS3ZvN2FnYmNBVUpZdC1QSGFyLUdMSHNNMXRSSlg4R3o4dHhaXzlidWh3MTh2TG5jWVctRDZrazBvaUdTVFlJeXRESGUwWWJ2bndjbm15cjZENTBldlRSS2JqaE1vVTF1Y3dXSTQ5UnlnUnpjeUs2OUh0TGhwZlZ3WXhxQ09EWVpkdUZ2c3NSZGgxMGp6czdv?oc=5\" target=\"_blank\">He spotted a sports relic in the thrift store. It’s about to make him rich.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>"
+    },
+    {
+      "title": "Mavs match Knicks' two-year, $4.7M offer to Moussa Cisse - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbnJGQ1RTNGNmbnoyRzNSWHgzWG9SZ0N1a2V6Q013S21vQWxvUVlyNEIyMGdPRWl0eEx2ZXdpLTN5aVRBZnJaVTQ3alBoQXRpcTBndW5YbE5CdWlCVG9FYjg0d0RxX19UMFFBNk5lX2pUVXkzUG95N09OMVhoV3RVSjJMU01SS0ZKZVJ1Yy14WEhQOTBRVHpOdUp3?oc=5",
+      "source": "ESPN",
+      "published": "Sun, 19 Jul 2026 04:15:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNbnJGQ1RTNGNmbnoyRzNSWHgzWG9SZ0N1a2V6Q013S21vQWxvUVlyNEIyMGdPRWl0eEx2ZXdpLTN5aVRBZnJaVTQ3alBoQXRpcTBndW5YbE5CdWlCVG9FYjg0d0RxX19UMFFBNk5lX2pUVXkzUG95N09OMVhoV3RVSjJMU01SS0ZKZVJ1Yy14WEhQOTBRVHpOdUp3?oc=5\" target=\"_blank\">Mavs match Knicks' two-year, $4.7M offer to Moussa Cisse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ESPN</font>"
+    },
+    {
+      "title": "Fanatics CEO Michael Rubin on two sports businesses his multibillion-dollar conglomerate won't enter - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xaFRrUVpvSk9YVUNFTWE5cVJuS0tzLU1lSkt3eThpTUd2VXRnajlDd2xhbGUzcEdiaWhGT2g3a2lscERmeGRzU0xVMWV3eGRhNW9UNXFIS19OcDNoR2E3WTlvNE5ySUlfN2NzZzkzUTdHYmU2Q3fSAXtBVV95cUxQVlVFMHIxQmFKTjM5M21ZQ21CbVdtZEZqSUY0c0tPeDBVQ3dNNld3cnFCU0NQSW5uMDhoa1g4dDNXZGlEV1p1d0JwUnZPX3BrZjJBQ24wblhLb3RpTTF0QS12V18tUzA2eTlHSGJMTVltdktDejcxdTFiNkU?oc=5",
+      "source": "CNBC",
+      "published": "Sat, 18 Jul 2026 15:19:57 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE4xaFRrUVpvSk9YVUNFTWE5cVJuS0tzLU1lSkt3eThpTUd2VXRnajlDd2xhbGUzcEdiaWhGT2g3a2lscERmeGRzU0xVMWV3eGRhNW9UNXFIS19OcDNoR2E3WTlvNE5ySUlfN2NzZzkzUTdHYmU2Q3fSAXtBVV95cUxQVlVFMHIxQmFKTjM5M21ZQ21CbVdtZEZqSUY0c0tPeDBVQ3dNNld3cnFCU0NQSW5uMDhoa1g4dDNXZGlEV1p1d0JwUnZPX3BrZjJBQ24wblhLb3RpTTF0QS12V18tUzA2eTlHSGJMTVltdktDejcxdTFiNkU?oc=5\" target=\"_blank\">Fanatics CEO Michael Rubin on two sports businesses his multibillion-dollar conglomerate won't enter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>"
+    },
+    {
+      "title": "‘Our last hope’: Federal bill hopes to stabilize college sports — if it can survive opposition - WRAL",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcGthaWhYYnljZktucThyamtxNHM3aC1ydjZaVDRfcTVGM3VMdUtRR1FScDZVZFE3elQwZFdLeFQ1cWM1RXFyNDQtbWliZmxHRWM4SWNnTkRNTTdZdXc0b0VuR1ZHMEF6c1Y0dzAtRU9ybm5ucW9XRmIwSTNuSmFURzRXaERpVmxKQm5PMVh2ZFlObmQ0T3lQdGI5eTFOdmpWaWhwaHBiNGtOd0ZxSkc4?oc=5",
+      "source": "WRAL",
+      "published": "Sun, 19 Jul 2026 09:34:59 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNcGthaWhYYnljZktucThyamtxNHM3aC1ydjZaVDRfcTVGM3VMdUtRR1FScDZVZFE3elQwZFdLeFQ1cWM1RXFyNDQtbWliZmxHRWM4SWNnTkRNTTdZdXc0b0VuR1ZHMEF6c1Y0dzAtRU9ybm5ucW9XRmIwSTNuSmFURzRXaERpVmxKQm5PMVh2ZFlObmQ0T3lQdGI5eTFOdmpWaWhwaHBiNGtOd0ZxSkc4?oc=5\" target=\"_blank\">‘Our last hope’: Federal bill hopes to stabilize college sports — if it can survive opposition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRAL</font>"
+    },
+    {
+      "title": "When did each of the 52 cities with a major sports franchise last win a title? - PhillyVoice",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa1BVLUduUElSb0hyQzJtOC05VEp5X0dIU2xtdk5MeHFYWjJfeERRTnhrYWNpZHVYNzJJTUZkcWlCTHd5cFFnai1vRmNtMzhaZlV4OTNld05uM2ZtVnlHcUJlYVkxdkUtR0xsNGp1Q3FmdWZ1MGREQ2VXTGc5R2U5TzZkYVIxWUJ6TGZXQUZnUnpFMWYwb1pFTDJqaElYRDNQbV9DUQ?oc=5",
+      "source": "PhillyVoice",
+      "published": "Sun, 19 Jul 2026 11:17:46 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNa1BVLUduUElSb0hyQzJtOC05VEp5X0dIU2xtdk5MeHFYWjJfeERRTnhrYWNpZHVYNzJJTUZkcWlCTHd5cFFnai1vRmNtMzhaZlV4OTNld05uM2ZtVnlHcUJlYVkxdkUtR0xsNGp1Q3FmdWZ1MGREQ2VXTGc5R2U5TzZkYVIxWUJ6TGZXQUZnUnpFMWYwb1pFTDJqaElYRDNQbV9DUQ?oc=5\" target=\"_blank\">When did each of the 52 cities with a major sports franchise last win a title?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PhillyVoice</font>"
     },
     {
       "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch - Yahoo Sports",
@@ -178,18 +234,11 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRThfbXo0RGE2SFZSSGx2S0Z2b3pNLWdydmc2am45eU5iRTE1SVNpbXByajFIS19yVDQxUzY2SjBKSUphZ3hxbFVQU3praG4zRHR1bGNhaml2VDU3S0dqdFpLdGgzdmprNzFKa2dlZWM0UFBmWTlHSzVMX3pJZkJQcWRmTjVXcnh1ZEowQldTcE51QXVELW9XWGxkYzJON1FCQTNEcW04Q0VfUQ?oc=5\" target=\"_blank\">Connections: Sports Edition today: Hints and answers for July 19, 2026, puzzle No. 664</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
     },
     {
-      "title": "‘Our last hope’: Federal bill hopes to stabilize college sports — if it can survive opposition - WRAL",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcGthaWhYYnljZktucThyamtxNHM3aC1ydjZaVDRfcTVGM3VMdUtRR1FScDZVZFE3elQwZFdLeFQ1cWM1RXFyNDQtbWliZmxHRWM4SWNnTkRNTTdZdXc0b0VuR1ZHMEF6c1Y0dzAtRU9ybm5ucW9XRmIwSTNuSmFURzRXaERpVmxKQm5PMVh2ZFlObmQ0T3lQdGI5eTFOdmpWaWhwaHBiNGtOd0ZxSkc4?oc=5",
-      "source": "WRAL",
-      "published": "Sun, 19 Jul 2026 09:34:59 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNcGthaWhYYnljZktucThyamtxNHM3aC1ydjZaVDRfcTVGM3VMdUtRR1FScDZVZFE3elQwZFdLeFQ1cWM1RXFyNDQtbWliZmxHRWM4SWNnTkRNTTdZdXc0b0VuR1ZHMEF6c1Y0dzAtRU9ybm5ucW9XRmIwSTNuSmFURzRXaERpVmxKQm5PMVh2ZFlObmQ0T3lQdGI5eTFOdmpWaWhwaHBiNGtOd0ZxSkc4?oc=5\" target=\"_blank\">‘Our last hope’: Federal bill hopes to stabilize college sports — if it can survive opposition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRAL</font>"
-    },
-    {
-      "title": "The supercars and super sports cars utilizing electric power, hybrid technology, as well as gasoline - ABC7 Los Angeles",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNndENV80Z1c4Q2M4LTRNa3lsdmJmemZPX0pTb21wUlg5YW5GWGhjXzRXdHNvZXlpLXQ4UHFOTnl1ZjFYRnUyZXR6cWpHNXBMckYzRFJ2TWdYeXJ6TXNOLUdEcHVtT3RhcUJsYlM4emtOM3JpeHVoOGJxTWtMTVNXejdVSkNMeVAyWkNuMElWdFJleFlNTjhZcUx4RjZGSkpoN1hxbzdxVzRTeTdVWUFocNIBtgFBVV95cUxPb3E2YmxLaktrVmh0OVF3X3VLWGQ4aGNYdDZyX3UxWGJPOFNOZmpSMVF4M3pGenNwLUNsSlA4QTF4STZUT0MwSV9paHZDSUpZcUlxMEtSMjRrazZUUEtXNkhMazU4NnZtczJKU21lYllvdmlpbzFXR1ZCTDRmb2ctdHNtYzdJYzdqMHU4c1hITC1PdEM0WGs4by13NFRZYW4xREpwUkVWclUxYlZMc216NDluNkJhZw?oc=5",
-      "source": "ABC7 Los Angeles",
-      "published": "Sun, 19 Jul 2026 16:52:32 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQNndENV80Z1c4Q2M4LTRNa3lsdmJmemZPX0pTb21wUlg5YW5GWGhjXzRXdHNvZXlpLXQ4UHFOTnl1ZjFYRnUyZXR6cWpHNXBMckYzRFJ2TWdYeXJ6TXNOLUdEcHVtT3RhcUJsYlM4emtOM3JpeHVoOGJxTWtMTVNXejdVSkNMeVAyWkNuMElWdFJleFlNTjhZcUx4RjZGSkpoN1hxbzdxVzRTeTdVWUFocNIBtgFBVV95cUxPb3E2YmxLaktrVmh0OVF3X3VLWGQ4aGNYdDZyX3UxWGJPOFNOZmpSMVF4M3pGenNwLUNsSlA4QTF4STZUT0MwSV9paHZDSUpZcUlxMEtSMjRrazZUUEtXNkhMazU4NnZtczJKU21lYllvdmlpbzFXR1ZCTDRmb2ctdHNtYzdJYzdqMHU4c1hITC1PdEM0WGs4by13NFRZYW4xREpwUkVWclUxYlZMc216NDluNkJhZw?oc=5\" target=\"_blank\">The supercars and super sports cars utilizing electric power, hybrid technology, as well as gasoline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Los Angeles</font>"
+      "title": "Sunday Sports: Finals of the Watertown City Golf Tournament and more - WWNY",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNazlmTFBEUEdFSGNEY1JNUFhnR0hiREI3bEdVMFdhcWJodU4zbUZ3TVdrVUNlMEpHVF9GbVNuZUFYYk9jaHRIRmEydWZXMDFRZU9rNl9Lai1yRmdFTGVZc1BHY1FpZlhCLWszYlBpem01MFdzRDMzNmx4WDkzdk1sTWxTOEpld3NsWFM1clVYN0hkdS0tREHSAaoBQVVfeXFMTTc2YjZrSTFoMEszWEVqbVdoWW9VeVNUMVRCUTBTTF9Pa2J4UmNOa1lPYXNvbVFWM3FQZXlRWUY3RW5GU21JdGpMQ0pWUjZqeFFLVDBfeHhJU3pNTlZycDQtcmYyU3g4Vk4tbGw1cTNXOVB6S1VsTFNETlZVTF8wcTI0ejRBSVl4aTRHdjB6eWI1akc1emFTZ3NUYWVSOVpXd0VCTzc2M1hBb3c?oc=5",
+      "source": "WWNY",
+      "published": "Sun, 19 Jul 2026 22:22:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNazlmTFBEUEdFSGNEY1JNUFhnR0hiREI3bEdVMFdhcWJodU4zbUZ3TVdrVUNlMEpHVF9GbVNuZUFYYk9jaHRIRmEydWZXMDFRZU9rNl9Lai1yRmdFTGVZc1BHY1FpZlhCLWszYlBpem01MFdzRDMzNmx4WDkzdk1sTWxTOEpld3NsWFM1clVYN0hkdS0tREHSAaoBQVVfeXFMTTc2YjZrSTFoMEszWEVqbVdoWW9VeVNUMVRCUTBTTF9Pa2J4UmNOa1lPYXNvbVFWM3FQZXlRWUY3RW5GU21JdGpMQ0pWUjZqeFFLVDBfeHhJU3pNTlZycDQtcmYyU3g4Vk4tbGw1cTNXOVB6S1VsTFNETlZVTF8wcTI0ejRBSVl4aTRHdjB6eWI1akc1emFTZ3NUYWVSOVpXd0VCTzc2M1hBb3c?oc=5\" target=\"_blank\">Sunday Sports: Finals of the Watertown City Golf Tournament and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WWNY</font>"
     },
     {
       "title": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match - FOX Sports",
@@ -197,6 +246,13 @@
       "source": "FOX Sports",
       "published": "Sun, 19 Jul 2026 12:28:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2RtIBpAFBVV95cUxNQnBNVzFVejlFR0RBdTZSRUtvX19acUd4VTNKc3lLVFQ4eFRGV3ZFc202eDJIOWNzenFSUklSdHJLZFBRMGdYZE84UUtYVEVuckRoY0xsVnNvWndKTEcxdUFQLWVad0JzcV9qT0VBRzUyTFowYnQ4V1ExS2lGWFFaWjZ2TTVTeS1EOFh0RkYwWno0YzVFMGphLU9nRDlaZm5uV2Fudg?oc=5\" target=\"_blank\">How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Sports</font>"
+    },
+    {
+      "title": "How to watch the 2026 World Cup final for free: Where to the last match for $0 - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZXdTN3EzUEdHVGRWbVJ1N1RzYkZKb284LUF4S2J4N3h6U012VVhDbkExMWpjbEUydEJoakU0MDZtNXVyczF3Q0h3bmQyRWRhWlFFWHgybURzUFRXWjVBbkRaSnI2NGNmTVhUeHlBNUZ4ZnYta0ZPOTR2UGtqYmtzbTF5bXh6V3BuTXZINUdBX2l1ZC1fZDZBVUpsbkI4WGpKZGoxSVV3LVVCazBYWTBwYm5JbmZWdG1TS1BtMzV4WkRkYVdlLUxodXU1dw?oc=5",
+      "source": "Yahoo Sports",
+      "published": "Sun, 19 Jul 2026 17:15:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOZXdTN3EzUEdHVGRWbVJ1N1RzYkZKb284LUF4S2J4N3h6U012VVhDbkExMWpjbEUydEJoakU0MDZtNXVyczF3Q0h3bmQyRWRhWlFFWHgybURzUFRXWjVBbkRaSnI2NGNmTVhUeHlBNUZ4ZnYta0ZPOTR2UGtqYmtzbTF5bXh6V3BuTXZINUdBX2l1ZC1fZDZBVUpsbkI4WGpKZGoxSVV3LVVCazBYWTBwYm5JbmZWdG1TS1BtMzV4WkRkYVdlLUxodXU1dw?oc=5\" target=\"_blank\">How to watch the 2026 World Cup final for free: Where to the last match for $0</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>"
     },
     {
       "title": "Has the World Cup Turned Me Into … a Sports Guy? - The New York Times",
@@ -220,67 +276,11 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNOElHYzNqdXV3M05JOVVTYUFwRUhMU083V01YOG8zYkpGbkk5UFRDM0RMdjlNcFRhWWpETE9yWldHZFpTM3pvcVVIVlNrZDR4Zl9OZy00bk1TY2RvdUtLQzBlWTA0TXRPNnRwTlVxaFlfd2VzcVVvOUhmdkJEUHpkRzFQS0cxcE0?oc=5\" target=\"_blank\">IShowSpeed hypes 2026 World Cup Final with hit song ‘Champions’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>"
     },
     {
-      "title": "Tempo coach Sandy Brondello suspended 1 game by WNBA for 'protected species' remark about Angel Reese - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxON0UxaGFDdzA1bjlTeGRlWmxXRXFvcXVfbFY0OUFZdFYzVFQ3amRGUzVLU2EyTUtJVjl6UmJheE02OVZBTFZoNzhrNlpTVHpVeUM2TWlCVWFpNDl1cUp4QTEwQ3hNTnE2VHJGcVhKeXhzSGxTdWJsMUc3ZHdhQ3lUQXNxY0JYTS1IOFp1cEZXeDdaa2I1S1REcWFNb3h1Q1NQS2Y3RXhzZ2tDNHktclY5RkR3X3M5OUVqSUZUd051WTJsdTA0T1NqdFBIeXc4YlNFQV9FNGhaYmVEVkRqY2liMVRkVGUxT3M?oc=5",
-      "source": "Yahoo Sports",
-      "published": "Sun, 19 Jul 2026 19:20:57 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxON0UxaGFDdzA1bjlTeGRlWmxXRXFvcXVfbFY0OUFZdFYzVFQ3amRGUzVLU2EyTUtJVjl6UmJheE02OVZBTFZoNzhrNlpTVHpVeUM2TWlCVWFpNDl1cUp4QTEwQ3hNTnE2VHJGcVhKeXhzSGxTdWJsMUc3ZHdhQ3lUQXNxY0JYTS1IOFp1cEZXeDdaa2I1S1REcWFNb3h1Q1NQS2Y3RXhzZ2tDNHktclY5RkR3X3M5OUVqSUZUd051WTJsdTA0T1NqdFBIeXc4YlNFQV9FNGhaYmVEVkRqY2liMVRkVGUxT3M?oc=5\" target=\"_blank\">Tempo coach Sandy Brondello suspended 1 game by WNBA for 'protected species' remark about Angel Reese</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>"
-    },
-    {
       "title": "How to Watch the 2026 World Cup Final Halftime Show & Closing Ceremony - FOX Sports",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcEJZNG0wU1EtLThIcVZIUEtMeURkS3hJV0N1TllEQzBqcWZ6Q2JZZG53Rkpkak9kZ1NVMzNPai1RdWZTbzVGeXNSRVRrS0J0Y25fTVhvTjVkXy0zWDlCRHVvbVpMMWdLX0txQzRNVEEzaGdTa2ZsWmpfamJHaDJTSzVwLTlUOXpVYUhvcV85TTZ0ZmRkY2xqYWFtNDBXU0dUSkZlbzZBZlhFZVV3?oc=5",
       "source": "FOX Sports",
       "published": "Sun, 19 Jul 2026 11:33:22 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPcEJZNG0wU1EtLThIcVZIUEtMeURkS3hJV0N1TllEQzBqcWZ6Q2JZZG53Rkpkak9kZ1NVMzNPai1RdWZTbzVGeXNSRVRrS0J0Y25fTVhvTjVkXy0zWDlCRHVvbVpMMWdLX0txQzRNVEEzaGdTa2ZsWmpfamJHaDJTSzVwLTlUOXpVYUhvcV85TTZ0ZmRkY2xqYWFtNDBXU0dUSkZlbzZBZlhFZVV3?oc=5\" target=\"_blank\">How to Watch the 2026 World Cup Final Halftime Show & Closing Ceremony</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Sports</font>"
-    },
-    {
-      "title": "World Cup final bracket: Spain vs. Argentina matchup, schedule and path to the championship - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNlhjMUJiTFptVU1DWlh3dVlyNjBqajBDckhqd3dXS21iRWd0Mndyd2dLUGd2SndkNTJXWkpwNGlhY1FqdXAwOE1wSFpZOFpJcEoxcmlKTkxLd2NIWDl3RHNJYlhob243VkFzcm5sWHM5YXhrSlFvQTVlR2FhQXFWZzJfNTdhV19yS0x2NGY3d2JNTnBTQVRuMll6OFRnTG1ZRHpSQVhZYUVpeFBMcTVmRUFiTGZjX3hlT3J6YzBaUUk1ejVIZ012TXlwX1Fla3BKMFZ3MkZ4X1B3aEE?oc=5",
-      "source": "Yahoo Sports",
-      "published": "Sun, 19 Jul 2026 05:34:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNlhjMUJiTFptVU1DWlh3dVlyNjBqajBDckhqd3dXS21iRWd0Mndyd2dLUGd2SndkNTJXWkpwNGlhY1FqdXAwOE1wSFpZOFpJcEoxcmlKTkxLd2NIWDl3RHNJYlhob243VkFzcm5sWHM5YXhrSlFvQTVlR2FhQXFWZzJfNTdhV19yS0x2NGY3d2JNTnBTQVRuMll6OFRnTG1ZRHpSQVhZYUVpeFBMcTVmRUFiTGZjX3hlT3J6YzBaUUk1ejVIZ012TXlwX1Fla3BKMFZ3MkZ4X1B3aEE?oc=5\" target=\"_blank\">World Cup final bracket: Spain vs. Argentina matchup, schedule and path to the championship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>"
-    },
-    {
-      "title": "Chris 'The Bear' Fallica's World Cup Best Bets Today — Spain vs. Argentina - FOX Sports",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNHc5NkQ5RHZSNU9mQ3J2V3R4cTROU1Vfb3ZoVVdHWlhSS29BeVpBSW4wTFZWVTk3Y1V3ODVXU0tSMEtKcmNoSWI2QmFDeEZ0WXAwUDZMcVB5WEpnM2FDNzg0RFRyOXdiT3NQZ3lSdEpETFhNRXJrcmwwOHZRSHdXNmVITnIzZUYtMFN2bXh5OUhDY3BoRVNXam0ycXpDbkVSSGZYcmg3cDVocXRqY3fSAa4BQVVfeXFMUFhXN3p3UjhIbEdISlgta2ZfTk1yMmo3UDhuUWgybzE3Y0JISDZKOWtYUy16VTZYS1FfTnJEQ1QySDJYSzBNQ05Zell6bEdQM0V0U2JxLXJCUEl1OWNnTDhsYTg5ckEzOUlLdDBqdXBneWdRazNQTVZlTndRTUNnM3VoMUNFUGptQmRxY0Q5LUMzZU13ZUFRdXZ3RkNuVFptTGtNYmQ3NHpLODVUQXp3?oc=5",
-      "source": "FOX Sports",
-      "published": "Sun, 19 Jul 2026 15:35:54 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQNHc5NkQ5RHZSNU9mQ3J2V3R4cTROU1Vfb3ZoVVdHWlhSS29BeVpBSW4wTFZWVTk3Y1V3ODVXU0tSMEtKcmNoSWI2QmFDeEZ0WXAwUDZMcVB5WEpnM2FDNzg0RFRyOXdiT3NQZ3lSdEpETFhNRXJrcmwwOHZRSHdXNmVITnIzZUYtMFN2bXh5OUhDY3BoRVNXam0ycXpDbkVSSGZYcmg3cDVocXRqY3fSAa4BQVVfeXFMUFhXN3p3UjhIbEdISlgta2ZfTk1yMmo3UDhuUWgybzE3Y0JISDZKOWtYUy16VTZYS1FfTnJEQ1QySDJYSzBNQ05Zell6bEdQM0V0U2JxLXJCUEl1OWNnTDhsYTg5ckEzOUlLdDBqdXBneWdRazNQTVZlTndRTUNnM3VoMUNFUGptQmRxY0Q5LUMzZU13ZUFRdXZ3RkNuVFptTGtNYmQ3NHpLODVUQXp3?oc=5\" target=\"_blank\">Chris 'The Bear' Fallica's World Cup Best Bets Today — Spain vs. Argentina</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Sports</font>"
-    },
-    {
-      "title": "48 DAYS TO 2026 KICKOFF: Arley Morrell - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcWVIMkVQakpFczNKeWcwaXlGUEI3SmlqOTgyS240QVJnbWRWRGtnX1V2MER0WW1JMU5Jak1oVDcyVUZ3R2FnUmZiUkVFNEJlUGFSb3dlS21VQWhDd0xYSWxydU9hUnU2bnhIVEVKUWlSVzlzM3puUS1pLUhSQ1VsNw?oc=5",
-      "source": "Yahoo Sports",
-      "published": "Sun, 19 Jul 2026 17:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPcWVIMkVQakpFczNKeWcwaXlGUEI3SmlqOTgyS240QVJnbWRWRGtnX1V2MER0WW1JMU5Jak1oVDcyVUZ3R2FnUmZiUkVFNEJlUGFSb3dlS21VQWhDd0xYSWxydU9hUnU2bnhIVEVKUWlSVzlzM3puUS1pLUhSQ1VsNw?oc=5\" target=\"_blank\">48 DAYS TO 2026 KICKOFF: Arley Morrell</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>"
-    },
-    {
-      "title": "Spain vs Argentina, World Cup Final: Live Thread - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUGk5Y29kVG4yMkVRSkV0MG9Lc2RENXdkS2lwYTR4Nkx4b3Y2d2p0OXlNbTdadnFkWW5vSGxnNEVSaEVuT1EwUS0wd0oyRlUzRVRyWlJOX2JHSUlQS1FYZmNXcFRkYmlOaFB2T2NvRUkwYVpnVkkwdWVpTWNaQmg3WENmQQ?oc=5",
-      "source": "Yahoo Sports",
-      "published": "Sun, 19 Jul 2026 17:45:06 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOUGk5Y29kVG4yMkVRSkV0MG9Lc2RENXdkS2lwYTR4Nkx4b3Y2d2p0OXlNbTdadnFkWW5vSGxnNEVSaEVuT1EwUS0wd0oyRlUzRVRyWlJOX2JHSUlQS1FYZmNXcFRkYmlOaFB2T2NvRUkwYVpnVkkwdWVpTWNaQmg3WENmQQ?oc=5\" target=\"_blank\">Spain vs Argentina, World Cup Final: Live Thread</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>"
-    },
-    {
-      "title": "How to watch the 2026 FIFA Men's World Cup today - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUnhNc2daYWpTUVlCbW5tSl9VckNBQVViZ2gxUmE1WngxSnBtTEIyUFZ5aHdjSjlCSmlTenk5d2Y3V0N3ZEdlN3ZfWmpodzdwOXNxQWVTa3RNb3ZQT0ZveUpzbVdJX2o5MnRlZDd3azlyOUljMjN1U2VkMzVKN3o3MQ?oc=5",
-      "source": "Yahoo Sports",
-      "published": "Sun, 19 Jul 2026 15:07:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQUnhNc2daYWpTUVlCbW5tSl9VckNBQVViZ2gxUmE1WngxSnBtTEIyUFZ5aHdjSjlCSmlTenk5d2Y3V0N3ZEdlN3ZfWmpodzdwOXNxQWVTa3RNb3ZQT0ZveUpzbVdJX2o5MnRlZDd3azlyOUljMjN1U2VkMzVKN3o3MQ?oc=5\" target=\"_blank\">How to watch the 2026 FIFA Men's World Cup today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>"
-    },
-    {
-      "title": "Mother Nature cooperates with FIFA for World Cup finale - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVHJKNExuM2NyeFcxSVV1aEJHdlh0M2pTYzZ6Vmg0SGtKQk5iS2NqV1pRVXAySHZIV1pwUktmVEpvZGRmbWtOcXZGX0JSQ1ZOa2N3Y3R0alhrLTEyQ0Z3ZDVBQXd1TkQyUnpRcGpKWVRJZ281X3BEQm45ejNxQ1RyazEybHNwcFJnUTVUbw?oc=5",
-      "source": "Yahoo Sports",
-      "published": "Sun, 19 Jul 2026 17:47:26 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOVHJKNExuM2NyeFcxSVV1aEJHdlh0M2pTYzZ6Vmg0SGtKQk5iS2NqV1pRVXAySHZIV1pwUktmVEpvZGRmbWtOcXZGX0JSQ1ZOa2N3Y3R0alhrLTEyQ0Z3ZDVBQXd1TkQyUnpRcGpKWVRJZ281X3BEQm45ejNxQ1RyazEybHNwcFJnUTVUbw?oc=5\" target=\"_blank\">Mother Nature cooperates with FIFA for World Cup finale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>"
-    },
-    {
-      "title": "NFL analyst names Falcons' biggest remaining roster issue - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPa1lrUVI1TVVKT0c3YWsxYUlod1BicWc0QUZSWTdpbWtkWGlON3JBdmFhQmNkTHhoRWxrSWk2NVp3akN6UVJhYURTV25Oekx3bWx3NVJrNDg2N2VpWG5FYi1DN1FDZnZ3XzRWYUhnTUszMkdRSm03OXg3NUZKNEdya01vWndjMXZkMnc?oc=5",
-      "source": "Yahoo Sports",
-      "published": "Sun, 19 Jul 2026 17:31:24 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPa1lrUVI1TVVKT0c3YWsxYUlod1BicWc0QUZSWTdpbWtkWGlON3JBdmFhQmNkTHhoRWxrSWk2NVp3akN6UVJhYURTV25Oekx3bWx3NVJrNDg2N2VpWG5FYi1DN1FDZnZ3XzRWYUhnTUszMkdRSm03OXg3NUZKNEdya01vWndjMXZkMnc?oc=5\" target=\"_blank\">NFL analyst names Falcons' biggest remaining roster issue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>"
     }
   ],
   "Fashion": [
@@ -292,31 +292,17 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOHQ3MnFpX3JpNmZrd0djdW9rbkpmMnBreXRUaThqQWxRb2xDOG5Lb2kzZDV5Nmd3SUJxcXhmUDV3RlNaVmRRZ3diTGEzaERtU1AwUEQ0TGxSVEowUDFSOHQzMWEtam1sMHBXSEZicTdyZUcwdldvbXZTbjk1OGkybXVDTjVoZmVHdG1SVXpRWDh6NHFCdEwwNXVBdm9DNEJWZFVDUWpuMTItMHNyanlqbEh4MWpyeUh1azVKUF85ZmdpMEJzVGlsM2tyTFFNcFFuUWVrcllMNDIwQUJobGpKYmdSOElHUQ?oc=5\" target=\"_blank\">‘Adversarial clothing’: are garments designed to confuse facial recognition systems about to go mainstream?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>"
     },
     {
-      "title": "Can Fashion Fix Its Polycrisis Problem? - WWD",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdkxhT2ZRckNKd0ZFRlZSOS1iM1lXM0hqOV9WMUFYVkUwSHhQczRBeXJnd0Z4ZUF2M0lBcXFpTlRoLXVmblE3Z3ltdWJCanpFRG9hczV4cEVoMGJ2WDhsRk81TF8wM0ZrVUJnRWR0MU5Oc290bE1abDRYd1lBMk9qdDJneUdMbUUxMVVBVEZTX3hyaHNaa21hVDZn?oc=5",
-      "source": "WWD",
-      "published": "Fri, 17 Jul 2026 00:45:53 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNdkxhT2ZRckNKd0ZFRlZSOS1iM1lXM0hqOV9WMUFYVkUwSHhQczRBeXJnd0Z4ZUF2M0lBcXFpTlRoLXVmblE3Z3ltdWJCanpFRG9hczV4cEVoMGJ2WDhsRk81TF8wM0ZrVUJnRWR0MU5Oc290bE1abDRYd1lBMk9qdDJneUdMbUUxMVVBVEZTX3hyaHNaa21hVDZn?oc=5\" target=\"_blank\">Can Fashion Fix Its Polycrisis Problem?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WWD</font>"
-    },
-    {
-      "title": "Shakira Has a Full-Circle Fashion Moment at the 2026 World Cup Halftime Show - Vogue",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN0JtUlFjVXJuQ2Q2eFhqMjl1SGJqdTRYaGc5WGlJSERXZDQ2Umt2UGFrbGlPMUFJQmVGaUtXUmVaNnVkQndubXB6YUVlQWhrODJ1UWhudlV0U2pVLTRTLVFkTHlnaElJWW9uMFVXUGdYQVU1Yk1FSFZXQWFFeE5zZ2NPN29TUFNRckE?oc=5",
-      "source": "Vogue",
-      "published": "Sun, 19 Jul 2026 20:15:38 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQN0JtUlFjVXJuQ2Q2eFhqMjl1SGJqdTRYaGc5WGlJSERXZDQ2Umt2UGFrbGlPMUFJQmVGaUtXUmVaNnVkQndubXB6YUVlQWhrODJ1UWhudlV0U2pVLTRTLVFkTHlnaElJWW9uMFVXUGdYQVU1Yk1FSFZXQWFFeE5zZ2NPN29TUFNRckE?oc=5\" target=\"_blank\">Shakira Has a Full-Circle Fashion Moment at the 2026 World Cup Halftime Show</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vogue</font>"
-    },
-    {
-      "title": "From Madonna’s Corset to BTS’ Team Uniforms, World Cup Halftime Fashion Covered Every Position - WWD",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLVFCYTJMQWs3TVBCTGJWRzczZDlJcDFNRG04MnVaN19XS2dpYVdzUmhMNkxWQkc5eTRGMTVyNmhYemRQNHAyVkU3Z0xzVlhIVm1OdTdlNjFlMFJBUi1kQVBKR0VuS2ZzeDVyaFJ5YWh5OUd6QWtscVdEcEg0RzR6b3k3MGRIM3BVb0tWc2ItMGhkTzhUd0Nud25nUjhQSjFabkxHWmxQM0x6YnJV?oc=5",
-      "source": "WWD",
-      "published": "Sun, 19 Jul 2026 21:35:34 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQLVFCYTJMQWs3TVBCTGJWRzczZDlJcDFNRG04MnVaN19XS2dpYVdzUmhMNkxWQkc5eTRGMTVyNmhYemRQNHAyVkU3Z0xzVlhIVm1OdTdlNjFlMFJBUi1kQVBKR0VuS2ZzeDVyaFJ5YWh5OUd6QWtscVdEcEg0RzR6b3k3MGRIM3BVb0tWc2ItMGhkTzhUd0Nud25nUjhQSjFabkxHWmxQM0x6YnJV?oc=5\" target=\"_blank\">From Madonna’s Corset to BTS’ Team Uniforms, World Cup Halftime Fashion Covered Every Position</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WWD</font>"
+      "title": "Amazon’s Outlet Is Secretly Packed With Rich-Looking Summer Fashion for Up to 82% Off—the Best Deals Start at $6 - instyle.com",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yNmRmX3pPZ3lteE1EQ0dMazRERjhMLU5SM2hNdmNmdkpKbGlCNy1PekdSdWNET2U0dlN4VWZBOTQ5b0FaTzVtRGRnOThvM0h0dHJVcC1odURQdkJwRkdHMWl6cEU0dHBqUnkwajkxczNIZFBkQnpHSzJn?oc=5",
+      "source": "instyle.com",
+      "published": "Sat, 18 Jul 2026 08:00:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE4yNmRmX3pPZ3lteE1EQ0dMazRERjhMLU5SM2hNdmNmdkpKbGlCNy1PekdSdWNET2U0dlN4VWZBOTQ5b0FaTzVtRGRnOThvM0h0dHJVcC1odURQdkJwRkdHMWl6cEU0dHBqUnkwajkxczNIZFBkQnpHSzJn?oc=5\" target=\"_blank\">Amazon’s Outlet Is Secretly Packed With Rich-Looking Summer Fashion for Up to 82% Off—the Best Deals Start at $6</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">instyle.com</font>"
     },
     {
       "title": "EU ban on destroying unsold clothes takes effect - DW.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbFU0QmxkS0hHcTNGQXI0eTBLd24yQWpLelVsWE44TGhIOXVfMUVyNGRuRFY2c0RrSjVMSTZwaUtGbm1ZWEExX0FKUzBjQ180UkN0XzFhVldieFJVTVBlajltOUxKR0pCWXVSblJDTmVXSmRieENDRU5rV0l6eXBvNU1lQ0FVeDht0gGIAUFVX3lxTE1ITjhDQjMzdFJMbTBQc01MM3QyWUp2djRYVVZnendLT1FWZVJpRHdrcVVFRXUxUDl1MXJMTVNzeWtJSHV1YWdteGR1M1JEeDdnS0F0UjJfM1ZBV1pXUl9JSUpsZHdDZjVBcHA1SlZBTmNSNXRqRGJrRTFzVE1tZGxxNUxiZUFKaXU?oc=5",
       "source": "DW.com",
-      "published": "Sun, 19 Jul 2026 13:02:35 GMT",
+      "published": "Sun, 19 Jul 2026 13:30:56 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbFU0QmxkS0hHcTNGQXI0eTBLd24yQWpLelVsWE44TGhIOXVfMUVyNGRuRFY2c0RrSjVMSTZwaUtGbm1ZWEExX0FKUzBjQ180UkN0XzFhVldieFJVTVBlajltOUxKR0pCWXVSblJDTmVXSmRieENDRU5rV0l6eXBvNU1lQ0FVeDht0gGIAUFVX3lxTE1ITjhDQjMzdFJMbTBQc01MM3QyWUp2djRYVVZnendLT1FWZVJpRHdrcVVFRXUxUDl1MXJMTVNzeWtJSHV1YWdteGR1M1JEeDdnS0F0UjJfM1ZBV1pXUl9JSUpsZHdDZjVBcHA1SlZBTmNSNXRqRGJrRTFzVE1tZGxxNUxiZUFKaXU?oc=5\" target=\"_blank\">EU ban on destroying unsold clothes takes effect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DW.com</font>"
     },
     {
@@ -325,6 +311,13 @@
       "source": "The New York Times",
       "published": "Fri, 17 Jul 2026 04:00:19 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQYUF6a3l5TmRRREw2N3pJaXFKRTlCTG1PLWl3MkNacWtCMU8zVEZhSzhiTThPdDRTaFpxUmtqMVIwSmJTZ3NKanFzN2JoQzkya2pxaVo2aGpWelowaVFZbVI1QlRCY3Bjck5xRVp3SzR5U3lMbk1vTTROLXpkX1RYcnFoOWg?oc=5\" target=\"_blank\">A Fashion Model and Dentist, Brought Together by a Dozen Cupcakes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>"
+    },
+    {
+      "title": "Shakira Has a Full-Circle Fashion Moment at the 2026 World Cup Halftime Show - Vogue",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN0JtUlFjVXJuQ2Q2eFhqMjl1SGJqdTRYaGc5WGlJSERXZDQ2Umt2UGFrbGlPMUFJQmVGaUtXUmVaNnVkQndubXB6YUVlQWhrODJ1UWhudlV0U2pVLTRTLVFkTHlnaElJWW9uMFVXUGdYQVU1Yk1FSFZXQWFFeE5zZ2NPN29TUFNRckE?oc=5",
+      "source": "Vogue",
+      "published": "Sun, 19 Jul 2026 20:15:38 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQN0JtUlFjVXJuQ2Q2eFhqMjl1SGJqdTRYaGc5WGlJSERXZDQ2Umt2UGFrbGlPMUFJQmVGaUtXUmVaNnVkQndubXB6YUVlQWhrODJ1UWhudlV0U2pVLTRTLVFkTHlnaElJWW9uMFVXUGdYQVU1Yk1FSFZXQWFFeE5zZ2NPN29TUFNRckE?oc=5\" target=\"_blank\">Shakira Has a Full-Circle Fashion Moment at the 2026 World Cup Halftime Show</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vogue</font>"
     },
     {
       "title": "Jennifer Lopez wears enormous hat to Wimbledon - The Seattle Times",
@@ -355,11 +348,25 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQMktGWERmenE4TVZJcWVnMmNWekRfRVJ6NmdhUGpLTXR2WVN1SVlzYTdDOF9xVkxwRTNMSVhtbHpkNTB1NG80NXBBb19GRkVCQ2JYS0x3RFE3Y0hsdEg2Sy1xTU9TQUdnNHJZWENsTVhES05fYkJfUFBsMVozbmFzSEdjRHJHSHVwVzVMbFM0VWpVRDQ0SHEyN1FIekdacllvakx2Nw?oc=5\" target=\"_blank\">Ciara's World Cup Style Is the Ultimate Inspiration for the FIFA Final</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">essence.com</font>"
     },
     {
+      "title": "5 Elevated Summer Accessories Everyone Who Wants to Look Stylish Should Own - Who What Wear",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOHlzMGRMSmZRT2h6QmZvNDdtWThJcjZnS0tZMHBnVEh5dnhiMXU5ZXhBUl9kNW5FT01JS3BqREFqaEhYX1JfWmVZWTJWOENXTE05TWNtZlFQOU5rYzllYm91ZjhSWldxZUxxZEpqQ0NBSjZaeUFCbkFCRjNZaE1xaEttQndjNnM?oc=5",
+      "source": "Who What Wear",
+      "published": "Sun, 19 Jul 2026 07:43:49 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPOHlzMGRMSmZRT2h6QmZvNDdtWThJcjZnS0tZMHBnVEh5dnhiMXU5ZXhBUl9kNW5FT01JS3BqREFqaEhYX1JfWmVZWTJWOENXTE05TWNtZlFQOU5rYzllYm91ZjhSWldxZUxxZEpqQ0NBSjZaeUFCbkFCRjNZaE1xaEttQndjNnM?oc=5\" target=\"_blank\">5 Elevated Summer Accessories Everyone Who Wants to Look Stylish Should Own</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Who What Wear</font>"
+    },
+    {
       "title": "Classy Closet Consignment to host community fashion show on July 31 - Evanston RoundTable",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUTk5RGpBV0FzWFh5LThNcUxlcFVmdnFhTnhzS0t5SDI0V19BV3lCclVDQ3dQMEVnb1ptSW5OLVdmZlJXTExzV3QxejJzMlNSTUtiN2ZrcVItRzVtdENmYS1pNVNlYmpIZEstX1VmMUtkdTFOMktMNEltWEtlTmZhSlVibG5rejY5ckVBektaMlVTR3JUZC16RndfME15ZDBkMV9IcnRqWkNBSHVWU0s4?oc=5",
       "source": "Evanston RoundTable",
       "published": "Sun, 19 Jul 2026 16:27:57 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQUTk5RGpBV0FzWFh5LThNcUxlcFVmdnFhTnhzS0t5SDI0V19BV3lCclVDQ3dQMEVnb1ptSW5OLVdmZlJXTExzV3QxejJzMlNSTUtiN2ZrcVItRzVtdENmYS1pNVNlYmpIZEstX1VmMUtkdTFOMktMNEltWEtlTmZhSlVibG5rejY5ckVBektaMlVTR3JUZC16RndfME15ZDBkMV9IcnRqWkNBSHVWU0s4?oc=5\" target=\"_blank\">Classy Closet Consignment to host community fashion show on July 31</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Evanston RoundTable</font>"
+    },
+    {
+      "title": "Santa Cruz native Chloe Chapin traces history of men’s fashion in ‘Suitable’ - Santa Cruz Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTEszTl9hZHR2WGlYS0d2d1k5QmplMk9xLTVTbVQwQlVrNUxJTWJVSXdGT0dJTjd6bS16UG5uRXlFTXdxbVpqM2pFVGNVZGxtUmtIejRRNGpVNUphZWlUMmp1cXg2VHBXbFFDcnRvOTd0SEM1TDlqUVBRQU9fLW05aVRScXhPdDN3Q0paMXFlYUNiREo4Wjlkbmdpb25qR3lCU0hxWW9kd0NDXzZLTHM2b2hFTFFPTDFjSklF?oc=5",
+      "source": "Santa Cruz Sentinel",
+      "published": "Sun, 19 Jul 2026 18:11:34 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTEszTl9hZHR2WGlYS0d2d1k5QmplMk9xLTVTbVQwQlVrNUxJTWJVSXdGT0dJTjd6bS16UG5uRXlFTXdxbVpqM2pFVGNVZGxtUmtIejRRNGpVNUphZWlUMmp1cXg2VHBXbFFDcnRvOTd0SEM1TDlqUVBRQU9fLW05aVRScXhPdDN3Q0paMXFlYUNiREo4Wjlkbmdpb25qR3lCU0hxWW9kd0NDXzZLTHM2b2hFTFFPTDFjSklF?oc=5\" target=\"_blank\">Santa Cruz native Chloe Chapin traces history of men’s fashion in ‘Suitable’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Santa Cruz Sentinel</font>"
     },
     {
       "title": "Fast Fashion Is About to Get Caught Up in Hormuz - Bloomberg.com",
@@ -369,11 +376,11 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNcGZPMmxFY3NCeWdpMTcySVJhYVM0MElLWFJXR3hUczRrQUdwb0ZXcWs2ODVIQnJnNkhQWFZUMjNZS0tvTHZSMG9CNE9VMmdtcXhaV29ISXgzeFI1SU9XeGVaSXZCYXJlNVoyeFVxblQtaHh1amZZdHJvS1FTeWk4Z3pqeW92RjlMMHU0MWo0U3Y3VE1UeWFSLWdNLWxhRG5ETlloeg?oc=5\" target=\"_blank\">Fast Fashion Is About to Get Caught Up in Hormuz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>"
     },
     {
-      "title": "Santa Cruz native Chloe Chapin traces history of men’s fashion in ‘Suitable’ - Santa Cruz Sentinel",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTEszTl9hZHR2WGlYS0d2d1k5QmplMk9xLTVTbVQwQlVrNUxJTWJVSXdGT0dJTjd6bS16UG5uRXlFTXdxbVpqM2pFVGNVZGxtUmtIejRRNGpVNUphZWlUMmp1cXg2VHBXbFFDcnRvOTd0SEM1TDlqUVBRQU9fLW05aVRScXhPdDN3Q0paMXFlYUNiREo4Wjlkbmdpb25qR3lCU0hxWW9kd0NDXzZLTHM2b2hFTFFPTDFjSklF?oc=5",
-      "source": "Santa Cruz Sentinel",
-      "published": "Sun, 19 Jul 2026 18:11:34 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTEszTl9hZHR2WGlYS0d2d1k5QmplMk9xLTVTbVQwQlVrNUxJTWJVSXdGT0dJTjd6bS16UG5uRXlFTXdxbVpqM2pFVGNVZGxtUmtIejRRNGpVNUphZWlUMmp1cXg2VHBXbFFDcnRvOTd0SEM1TDlqUVBRQU9fLW05aVRScXhPdDN3Q0paMXFlYUNiREo4Wjlkbmdpb25qR3lCU0hxWW9kd0NDXzZLTHM2b2hFTFFPTDFjSklF?oc=5\" target=\"_blank\">Santa Cruz native Chloe Chapin traces history of men’s fashion in ‘Suitable’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Santa Cruz Sentinel</font>"
+      "title": "From Madonna’s Corset to BTS’ Team Uniforms, World Cup Halftime Fashion Covered Every Position - WWD",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLVFCYTJMQWs3TVBCTGJWRzczZDlJcDFNRG04MnVaN19XS2dpYVdzUmhMNkxWQkc5eTRGMTVyNmhYemRQNHAyVkU3Z0xzVlhIVm1OdTdlNjFlMFJBUi1kQVBKR0VuS2ZzeDVyaFJ5YWh5OUd6QWtscVdEcEg0RzR6b3k3MGRIM3BVb0tWc2ItMGhkTzhUd0Nud25nUjhQSjFabkxHWmxQM0x6YnJV?oc=5",
+      "source": "WWD",
+      "published": "Sun, 19 Jul 2026 21:35:34 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQLVFCYTJMQWs3TVBCTGJWRzczZDlJcDFNRG04MnVaN19XS2dpYVdzUmhMNkxWQkc5eTRGMTVyNmhYemRQNHAyVkU3Z0xzVlhIVm1OdTdlNjFlMFJBUi1kQVBKR0VuS2ZzeDVyaFJ5YWh5OUd6QWtscVdEcEg0RzR6b3k3MGRIM3BVb0tWc2ItMGhkTzhUd0Nud25nUjhQSjFabkxHWmxQM0x6YnJV?oc=5\" target=\"_blank\">From Madonna’s Corset to BTS’ Team Uniforms, World Cup Halftime Fashion Covered Every Position</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WWD</font>"
     },
     {
       "title": "ON ANGELS, POOP & THE POLITICS OF BEAUTY - Brain Matter | Gabriella Karefa-Johnson",
@@ -397,6 +404,13 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kYkx6ZEZZVGs4ek5sUnF5ZXZSaG9rUUJELW95ZHF1WEFrVnBPOEM1dVV0c0JTRktiaTAzcGVHT28wYzM1QjNrQndPWjZocmVLUWtPcnNLU2xEeXdNc2x0ODBnUlg?oc=5\" target=\"_blank\">Ryan Fox wins Open Championship, claims first major in shocking fashion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GOLF.com</font>"
     },
     {
+      "title": "Forever 21 building at Fresno’s Fashion Fair is being demolished - yourcentralvalley.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTXRJd2pNcXdGQl8wVE9RZjhzZWJJYS1wMWJDTi10Y09PVjJqVDR6cjlBbzduQ3RhX3J4MTZNRDdKZEhSMFhFSER5ejJVOTNac2lSU1NENFRhU2NNelUwWjZFTXZGNkh6YkNTdUhJZzh1R3FmV1Y5aWNwMmFRV1hCLWhCVS1yWDI4ZTVuUF8td1VWWFJEdTZsSTRNS3c0enRDSVBOMUxkYVZBRjE5b2fSAbMBQVVfeXFMUFdyMk12MFhxRTdtamFaYm05NU00M2NjMHZEcTY5TC1VNS1nZTNkeUVPMXFoZnlyTHozRlQwZTJsdmRpcjFQdWRCZ2dsQldGRk9UNWpDcEtwQkdDYjJaYTQ4UE1UcEdOdGlZMkdXelpYZThnc3hMdGVPUEUtaTN1LWJoNWZGbDQ0S25keHlueXAtYUZFOFZMMTNCZ3lLRjBZUUtyTEotb2RtOWlVaWtHNDhYZXc?oc=5",
+      "source": "yourcentralvalley.com",
+      "published": "Fri, 17 Jul 2026 06:22:46 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOTXRJd2pNcXdGQl8wVE9RZjhzZWJJYS1wMWJDTi10Y09PVjJqVDR6cjlBbzduQ3RhX3J4MTZNRDdKZEhSMFhFSER5ejJVOTNac2lSU1NENFRhU2NNelUwWjZFTXZGNkh6YkNTdUhJZzh1R3FmV1Y5aWNwMmFRV1hCLWhCVS1yWDI4ZTVuUF8td1VWWFJEdTZsSTRNS3c0enRDSVBOMUxkYVZBRjE5b2fSAbMBQVVfeXFMUFdyMk12MFhxRTdtamFaYm05NU00M2NjMHZEcTY5TC1VNS1nZTNkeUVPMXFoZnlyTHozRlQwZTJsdmRpcjFQdWRCZ2dsQldGRk9UNWpDcEtwQkdDYjJaYTQ4UE1UcEdOdGlZMkdXelpYZThnc3hMdGVPUEUtaTN1LWJoNWZGbDQ0S25keHlueXAtYUZFOFZMMTNCZ3lLRjBZUUtyTEotb2RtOWlVaWtHNDhYZXc?oc=5\" target=\"_blank\">Forever 21 building at Fresno’s Fashion Fair is being demolished</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">yourcentralvalley.com</font>"
+    },
+    {
       "title": "‘The Odyssey’ Press Tour Puts a High Fashion Spin on Greek Mythology - fashionista.com",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMDctOC1DN09IWDhxNHc3Nm1nNnVEc0x2bGh1MkZlTHUxbjFEZHlzQ3VVdVFQaTlIYjczSEJoRnpMUTR3V2Y3TUtFaHc0TkpvUk16QnFxajlIRkRqNUlPMmU2UUROTV9RcEpwb1dGblpVdThodWVxMVFXMGUwbE94R09nQ3VEOVV5T3NfeUYxVTFERlk?oc=5",
       "source": "fashionista.com",
@@ -409,20 +423,6 @@
       "source": "Sixers Wire",
       "published": "Sun, 19 Jul 2026 13:00:00 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNUVJpYkx6Ukw4MzBPTVRHXzlWUm5pNzNOa1ktVXJzd1lwenpob1NmY1BJeHlxbXQ1TnN1RGVBODlfaU9YbEl4T1BvQzBUVDRXNHh4bDN1c1doV01zR09pdUZ5OXo3TjJrX0hSM2Z4azU3UmxBdHhYUW4wQS1QQWZmTGswdm03SXNVQ0NhVktsZEFNWk9hRHdnS3pydzZpaGJBbENhYnFKTnQ4ek5Ub1JsUnV0VTBrOTROU0c4T1B0X2RKQUxhVG5ncEttd0ZvZVk?oc=5\" target=\"_blank\">76ers drop summer league finale in nail-biting fashion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sixers Wire</font>"
-    },
-    {
-      "title": "The art of fashion is coming to the Mia, with pieces rarely seen in the Midwest - Bring Me The News",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORWM4T3VzVl8waTJlU09ETUQ4anZwMEtEU2tReTM5b01wXzRubjdnb2xYdlVwU3lqeHItc0ZWbG83LUtPQ0d5LVR3V0NSeDVSSzZLVi1RNm8wVVBPTlFtcWFKZ0VnRmxkYWI3dW54UWdhVzFLVFRHODA3NS1VOHI5X0p2bGxkTXJYQVd2T1hxeVZfZWxxU2lvNEZ3NkhKYkY1dDBWdjF2aUZkeTF0T25vSXF2Rlg2NmU0ZTJqNk1LWDVhekE?oc=5",
-      "source": "Bring Me The News",
-      "published": "Fri, 17 Jul 2026 22:02:25 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxORWM4T3VzVl8waTJlU09ETUQ4anZwMEtEU2tReTM5b01wXzRubjdnb2xYdlVwU3lqeHItc0ZWbG83LUtPQ0d5LVR3V0NSeDVSSzZLVi1RNm8wVVBPTlFtcWFKZ0VnRmxkYWI3dW54UWdhVzFLVFRHODA3NS1VOHI5X0p2bGxkTXJYQVd2T1hxeVZfZWxxU2lvNEZ3NkhKYkY1dDBWdjF2aUZkeTF0T25vSXF2Rlg2NmU0ZTJqNk1LWDVhekE?oc=5\" target=\"_blank\">The art of fashion is coming to the Mia, with pieces rarely seen in the Midwest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bring Me The News</font>"
-    },
-    {
-      "title": "These Iconic Boomer Fashion Trends Have Stood The Test Of Time - glam.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbXFVa1JVZUJCenBlRVBTNUhDX1hFV1lScDRmT0w1bC1SdlloZWRGZHhtbm9TbFAzNWw5ZHZZYi1HVHBNMjN5U3RaR0syQVJmVndoNVF5MkJUNnVUUm5md20xLVdYWUhETEV6VnJ4UnhZY1U4Q3M3UURPSHR5WTBGSmZyXzFlYWlZ?oc=5",
-      "source": "glam.com",
-      "published": "Sun, 19 Jul 2026 21:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbXFVa1JVZUJCenBlRVBTNUhDX1hFV1lScDRmT0w1bC1SdlloZWRGZHhtbm9TbFAzNWw5ZHZZYi1HVHBNMjN5U3RaR0syQVJmVndoNVF5MkJUNnVUUm5md20xLVdYWUhETEV6VnJ4UnhZY1U4Q3M3UURPSHR5WTBGSmZyXzFlYWlZ?oc=5\" target=\"_blank\">These Iconic Boomer Fashion Trends Have Stood The Test Of Time</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">glam.com</font>"
     }
   ],
   "NationalDevelopment": [
@@ -441,6 +441,13 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQT2wzaURsTEtGUmNBVXk5YzVLdWhYSmF6dXZWZUVvdHp3Y2kxbjdWM1FjZTlYQklxU2NMMFJMYm5mbVhfTE53c1A4QktYT1YxeG53RXNNOUFiYk9Dd0h4Y3JSeF9DWklYZG5UdXdjSngzY3dVN0d6QXIxM0ZlQ0NUTjFKRmI0TWlaREtGZ05yVHFycnlDWHJkVXd1aWwxa0ptdDJXZU9adnFCWTd0VUpDbkE0QkdIdTV5N1B2OdIBwgFBVV95cUxPRG51RUV1NkJCTmZKem1GUzJZbFJXTnc4RzF2YzJXbW13N0lHODA3SVV1MHIyeWxoTy1rUlZFVHlOWDlBY1pEanpUcWdhN21xckRJRUxLLV9kTURNMzA0OE5JdEF0VzZaQzBmb3gxNl9OR2Zvc2JyR1BGOXk0blpLZVZPU0Vwb0g4MkVkVHJ0QVJXVlJpZUJzcW9Va3hPMmhEWjNHVUMwTGZ3NDhVbExxUzlMR29nM0U5ZnVyRDdnXzFPZw?oc=5\" target=\"_blank\">Trump cites national security to stop offshore wind development. Here's what to know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PBS</font>"
     },
     {
+      "title": "National Development: Duncan Williams urges leaders to put national interest first. - Modern Ghana",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WQXlPV3lPTUp4cm8yLURQOGEwdFdfTllPQ09URjNhTXB0TjdJTnN2Z18zQ2hLQU51R0hZMkdHZC05VVhtb1pzWXpZQkNIbVA2djR1cXJ6RU9kalRfZ0ZCOEo1OE7SAVxBVV95cUxQV19fWmpUbERaX09RWkduejJpMDgtTllua0pCR3Z2Sk9NS05sX29RTmE2TUctUExqUTN1Q2YyQk1GZVdrNFlJZEZFUUxlRTFBVWlINTc1VVdYRUk3OQ?oc=5",
+      "source": "Modern Ghana",
+      "published": "Sun, 19 Jul 2026 21:12:22 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WQXlPV3lPTUp4cm8yLURQOGEwdFdfTllPQ09URjNhTXB0TjdJTnN2Z18zQ2hLQU51R0hZMkdHZC05VVhtb1pzWXpZQkNIbVA2djR1cXJ6RU9kalRfZ0ZCOEo1OE7SAVxBVV95cUxQV19fWmpUbERaX09RWkduejJpMDgtTllua0pCR3Z2Sk9NS05sX29RTmE2TUctUExqUTN1Q2YyQk1GZVdrNFlJZEZFUUxlRTFBVWlINTc1VVdYRUk3OQ?oc=5\" target=\"_blank\">National Development: Duncan Williams urges leaders to put national interest first.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Modern Ghana</font>"
+    },
+    {
       "title": "HK lawmakers set off on ‘groundbreaking’ Beijing study tour - chinadailyasia.com",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41QlpvX1BJMlk5bU5HazR5Skd2Q1lZNEZGdm5tYkNkQmdsRlVhWTZWRXBJZkdqMDYtMHFTd3Nkb2JZSVdUZ05EdVhCVHF3SUpDNkhQS01JZkQ?oc=5",
       "source": "chinadailyasia.com",
@@ -448,18 +455,11 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE41QlpvX1BJMlk5bU5HazR5Skd2Q1lZNEZGdm5tYkNkQmdsRlVhWTZWRXBJZkdqMDYtMHFTd3Nkb2JZSVdUZ05EdVhCVHF3SUpDNkhQS01JZkQ?oc=5\" target=\"_blank\">HK lawmakers set off on ‘groundbreaking’ Beijing study tour</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">chinadailyasia.com</font>"
     },
     {
-      "title": "National Hurricane Center increases odds of tropical development for Gulf - WPEC",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNnZsM1VRcURhQmJNOXRIT1BYRTd0aU5KTVdjekVrbzFpay1vd3RnTVZBYWdCMUw0MldJT18yX2gzOC1FNlJhejRsbXl5QWhKT20zdTFmdFlUTUppQ0paajRSNFE3bnI3UHJOZHpYeG5lVzJ4aHQyek1obll0MDV2U2VsLVFERy1rdG1IeWRVQ29STTAzM3pIRk5VeXUyMFY1YVFLcFBWM0FLT1hPMFNpNXZueDh6VGJIOVNWdFpsOA?oc=5",
+      "title": "National Hurricane Center tracking two systems with low chances of development - WPEC",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb000NHlPTFdPNVlMMUdiRDZkSDJjZ2VkaUtnWm1XZHp5dWxiNzJYNFRFeU5LOUtaYlhaLUx1b2JNYkxoVXhCWVBLUUFzRUhHQWdwbHFUaHM0V2xyLUpkNUxYX1doN3Jzb3NfR2x6NFl1dlg5aXhrMUlxZ0x0NHBTcXpBQzloRDZtQXdFNnFjeXFNOXJiWDBjQVhLUkUtcnBVN2otX25mLWpld0RrTnhfelFPaF82Vy1sVFFR?oc=5",
       "source": "WPEC",
-      "published": "Sun, 19 Jul 2026 07:29:53 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPNnZsM1VRcURhQmJNOXRIT1BYRTd0aU5KTVdjekVrbzFpay1vd3RnTVZBYWdCMUw0MldJT18yX2gzOC1FNlJhejRsbXl5QWhKT20zdTFmdFlUTUppQ0paajRSNFE3bnI3UHJOZHpYeG5lVzJ4aHQyek1obll0MDV2U2VsLVFERy1rdG1IeWRVQ29STTAzM3pIRk5VeXUyMFY1YVFLcFBWM0FLT1hPMFNpNXZueDh6VGJIOVNWdFpsOA?oc=5\" target=\"_blank\">National Hurricane Center increases odds of tropical development for Gulf</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WPEC</font>"
-    },
-    {
-      "title": "National Development: Duncan Williams urges leaders to put national interest first. - Modern Ghana",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WQXlPV3lPTUp4cm8yLURQOGEwdFdfTllPQ09URjNhTXB0TjdJTnN2Z18zQ2hLQU51R0hZMkdHZC05VVhtb1pzWXpZQkNIbVA2djR1cXJ6RU9kalRfZ0ZCOEo1OE7SAVxBVV95cUxQV19fWmpUbERaX09RWkduejJpMDgtTllua0pCR3Z2Sk9NS05sX29RTmE2TUctUExqUTN1Q2YyQk1GZVdrNFlJZEZFUUxlRTFBVWlINTc1VVdYRUk3OQ?oc=5",
-      "source": "Modern Ghana",
-      "published": "Sun, 19 Jul 2026 21:12:22 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WQXlPV3lPTUp4cm8yLURQOGEwdFdfTllPQ09URjNhTXB0TjdJTnN2Z18zQ2hLQU51R0hZMkdHZC05VVhtb1pzWXpZQkNIbVA2djR1cXJ6RU9kalRfZ0ZCOEo1OE7SAVxBVV95cUxQV19fWmpUbERaX09RWkduejJpMDgtTllua0pCR3Z2Sk9NS05sX29RTmE2TUctUExqUTN1Q2YyQk1GZVdrNFlJZEZFUUxlRTFBVWlINTc1VVdYRUk3OQ?oc=5\" target=\"_blank\">National Development: Duncan Williams urges leaders to put national interest first.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Modern Ghana</font>"
+      "published": "Sat, 18 Jul 2026 06:30:16 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb000NHlPTFdPNVlMMUdiRDZkSDJjZ2VkaUtnWm1XZHp5dWxiNzJYNFRFeU5LOUtaYlhaLUx1b2JNYkxoVXhCWVBLUUFzRUhHQWdwbHFUaHM0V2xyLUpkNUxYX1doN3Jzb3NfR2x6NFl1dlg5aXhrMUlxZ0x0NHBTcXpBQzloRDZtQXdFNnFjeXFNOXJiWDBjQVhLUkUtcnBVN2otX25mLWpld0RrTnhfelFPaF82Vy1sVFFR?oc=5\" target=\"_blank\">National Hurricane Center tracking two systems with low chances of development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WPEC</font>"
     },
     {
       "title": "Philippines National Development: The Prospect Of An Engaged Middle Class - Honolulu Civil Beat",
@@ -532,18 +532,18 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOeGpqQmJYUkt0TUNnRkNlUEdac2dtdFFsclhCN09zbHFKTENVdV9Ldnh6OURCY0Jib1dBa2RGemdNVUREaWlKa09XdVFUY1Z5QkVUT1hmY1hSaVJEcWpEQUx4VmplTWhYOW1hcFJ2Zjg4UjltSjBSQ2tqUnllZXJOZjFoUElqekVXSHY5ektRSy1GdG5ic2VacG1weEVzQQ?oc=5\" target=\"_blank\">Vietnamese women step up as drivers of national development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam Investment Review - VIR</font>"
     },
     {
-      "title": "Lawmakers head to Beijing for week-long national affairs study tour - The Standard (HK)",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZjBORy1uWFFCdElYZFBFbmNVQTgzVGhwS3diSFVWTkc4bUZuWl9MSmxBMGlmcEZGT1hRNkgtUC1HdjdWS0Vlckpsd19XY0U4VWNKYUVxM0hJejI0ajNkN1RzNk1VTzUya0hBT1prc1dERU5fSUlIS0s4NkctQWNsMEVkQVZPYVZHVjdraDh0am9ydW03VVBFUkNUOXFLU29BSUpXUVpYMmU3c2JZY25uNDZacVVOVjdfelE?oc=5",
-      "source": "The Standard (HK)",
-      "published": "Sun, 19 Jul 2026 05:27:08 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNZjBORy1uWFFCdElYZFBFbmNVQTgzVGhwS3diSFVWTkc4bUZuWl9MSmxBMGlmcEZGT1hRNkgtUC1HdjdWS0Vlckpsd19XY0U4VWNKYUVxM0hJejI0ajNkN1RzNk1VTzUya0hBT1prc1dERU5fSUlIS0s4NkctQWNsMEVkQVZPYVZHVjdraDh0am9ydW03VVBFUkNUOXFLU29BSUpXUVpYMmU3c2JZY25uNDZacVVOVjdfelE?oc=5\" target=\"_blank\">Lawmakers head to Beijing for week-long national affairs study tour</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Standard (HK)</font>"
-    },
-    {
       "title": "World's top cocoa producer clinches $80 billion in development pledges - Business Insider Africa",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUFJPTEVxWEtjZkRWV0tfdkVkZFVxQzJ1dFI3SDZYbHc0UkxYbEdkR3ZIN1VaZXlxTmhFVldWVmFKU3UtbUhCWWZpdmJFQTQ3b1d0dDZyc2cyQ1RCS05ZNmc1bWhJVmJxRXd3aWYxN0xXXy12cnNBQ3B2VmpXLWoxa0xIZFR3MVBxWjhVdjE3LWlSb2htTHkxanctcG1MWVYwcFJ6OFJaaWE2UlpEUkVhWVF2YTByaWdzVi1nSDFxZWhuY2hUN2c4MHVkMA?oc=5",
       "source": "Business Insider Africa",
       "published": "Thu, 16 Jul 2026 16:35:14 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQUFJPTEVxWEtjZkRWV0tfdkVkZFVxQzJ1dFI3SDZYbHc0UkxYbEdkR3ZIN1VaZXlxTmhFVldWVmFKU3UtbUhCWWZpdmJFQTQ3b1d0dDZyc2cyQ1RCS05ZNmc1bWhJVmJxRXd3aWYxN0xXXy12cnNBQ3B2VmpXLWoxa0xIZFR3MVBxWjhVdjE3LWlSb2htTHkxanctcG1MWVYwcFJ6OFJaaWE2UlpEUkVhWVF2YTByaWdzVi1nSDFxZWhuY2hUN2c4MHVkMA?oc=5\" target=\"_blank\">World's top cocoa producer clinches $80 billion in development pledges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider Africa</font>"
+    },
+    {
+      "title": "Lawmakers head to Beijing for week-long national affairs study tour - The Standard (HK)",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZjBORy1uWFFCdElYZFBFbmNVQTgzVGhwS3diSFVWTkc4bUZuWl9MSmxBMGlmcEZGT1hRNkgtUC1HdjdWS0Vlckpsd19XY0U4VWNKYUVxM0hJejI0ajNkN1RzNk1VTzUya0hBT1prc1dERU5fSUlIS0s4NkctQWNsMEVkQVZPYVZHVjdraDh0am9ydW03VVBFUkNUOXFLU29BSUpXUVpYMmU3c2JZY25uNDZacVVOVjdfelE?oc=5",
+      "source": "The Standard (HK)",
+      "published": "Sun, 19 Jul 2026 05:27:08 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNZjBORy1uWFFCdElYZFBFbmNVQTgzVGhwS3diSFVWTkc4bUZuWl9MSmxBMGlmcEZGT1hRNkgtUC1HdjdWS0Vlckpsd19XY0U4VWNKYUVxM0hJejI0ajNkN1RzNk1VTzUya0hBT1prc1dERU5fSUlIS0s4NkctQWNsMEVkQVZPYVZHVjdraDh0am9ydW03VVBFUkNUOXFLU29BSUpXUVpYMmU3c2JZY25uNDZacVVOVjdfelE?oc=5\" target=\"_blank\">Lawmakers head to Beijing for week-long national affairs study tour</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Standard (HK)</font>"
     },
     {
       "title": "Braden Reilly and Evan Fitzgerald Named to Team Canada U17 National Development Camp - Canadian Hockey League",
@@ -553,11 +553,11 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdWVJRnU0NWN6Wk5qYkw4ejhXY3EtWGFsMnNPVnJJM2pvVndNVTFhYWpPMnpoSllHaEk2M1RjeVRJdk1vS2dLWHVDNFJSQ1hnd0ZsRm53UXo4a1pPOVBTNGtUbDc4OUdtdElQVXdma0pzVzY3TDR0WFpta1N2a196eWlQSVg1TGFlenNjSVYtTnRXOVZQZVRVcXRzdWk1TnppVkFrZng1RzVaVk5OcVd5T0x3MWM4akVjOW5B?oc=5\" target=\"_blank\">Braden Reilly and Evan Fitzgerald Named to Team Canada U17 National Development Camp</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Canadian Hockey League</font>"
     },
     {
-      "title": "National Hurricane Center tracking two systems with low chances of development - WPEC",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb000NHlPTFdPNVlMMUdiRDZkSDJjZ2VkaUtnWm1XZHp5dWxiNzJYNFRFeU5LOUtaYlhaLUx1b2JNYkxoVXhCWVBLUUFzRUhHQWdwbHFUaHM0V2xyLUpkNUxYX1doN3Jzb3NfR2x6NFl1dlg5aXhrMUlxZ0x0NHBTcXpBQzloRDZtQXdFNnFjeXFNOXJiWDBjQVhLUkUtcnBVN2otX25mLWpld0RrTnhfelFPaF82Vy1sVFFR?oc=5",
+      "title": "National Hurricane Center increases odds of tropical development for Gulf - WPEC",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNnZsM1VRcURhQmJNOXRIT1BYRTd0aU5KTVdjekVrbzFpay1vd3RnTVZBYWdCMUw0MldJT18yX2gzOC1FNlJhejRsbXl5QWhKT20zdTFmdFlUTUppQ0paajRSNFE3bnI3UHJOZHpYeG5lVzJ4aHQyek1obll0MDV2U2VsLVFERy1rdG1IeWRVQ29STTAzM3pIRk5VeXUyMFY1YVFLcFBWM0FLT1hPMFNpNXZueDh6VGJIOVNWdFpsOA?oc=5",
       "source": "WPEC",
-      "published": "Sat, 18 Jul 2026 06:30:16 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb000NHlPTFdPNVlMMUdiRDZkSDJjZ2VkaUtnWm1XZHp5dWxiNzJYNFRFeU5LOUtaYlhaLUx1b2JNYkxoVXhCWVBLUUFzRUhHQWdwbHFUaHM0V2xyLUpkNUxYX1doN3Jzb3NfR2x6NFl1dlg5aXhrMUlxZ0x0NHBTcXpBQzloRDZtQXdFNnFjeXFNOXJiWDBjQVhLUkUtcnBVN2otX25mLWpld0RrTnhfelFPaF82Vy1sVFFR?oc=5\" target=\"_blank\">National Hurricane Center tracking two systems with low chances of development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WPEC</font>"
+      "published": "Sun, 19 Jul 2026 07:29:53 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPNnZsM1VRcURhQmJNOXRIT1BYRTd0aU5KTVdjekVrbzFpay1vd3RnTVZBYWdCMUw0MldJT18yX2gzOC1FNlJhejRsbXl5QWhKT20zdTFmdFlUTUppQ0paajRSNFE3bnI3UHJOZHpYeG5lVzJ4aHQyek1obll0MDV2U2VsLVFERy1rdG1IeWRVQ29STTAzM3pIRk5VeXUyMFY1YVFLcFBWM0FLT1hPMFNpNXZueDh6VGJIOVNWdFpsOA?oc=5\" target=\"_blank\">National Hurricane Center increases odds of tropical development for Gulf</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WPEC</font>"
     },
     {
       "title": "'Untapped Potential' of national development banks can unlock tens of billions for energy transition - Oil Change International",
@@ -625,18 +625,18 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNTnlBakUyTjh0UlUxUTc3bGdzRGlydTgyeE9VYkYtb0w2LWFlTTJsUjE4ZnRkLUpLclhLT1B4OVIxMDlwcUIwMkJaVEpTSXR3MU5kTlBXdnVLa042MmlnRGNZZTdiOE1FMWdfOU5iYmZQU3F2bDFIYzM5cUJtbWlzV29MeTRUY2l6U3Z2amR5MkFrS0hMZmRxTHVhcU1KVWdLQjFHNmhOd21aM1NWR3lENNIBuAFBVV95cUxOdXlyR3ZSaEFLSFQxWlR3aEd3b2V6YldnbWVaaDUzY3hETjBaSzVZWHJkdG9rbWlRYkNMd0NJYWR4M2VsY1BRRGkzR016TW5aUU9tb2R6ZjVGNVN5bFhDVmVDdExGdm84a2VqZ3FXcThEaEQ2aXhOalpKUjNVR1BEUmZPSndOU2lzbDV2M3hOT1k3WlFFSkJzRHMzZEVxdFROemJYMExNZVAyZ05FZnI0ZHJmRkVwVWZT?oc=5\" target=\"_blank\">California bill could push schools to use unspent Prop. 28 arts education funds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EdSource</font>"
     },
     {
-      "title": "The nation is facing an ‘education depression,’ op-ed says - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vNHhiX2VzckZHeHc1N0F1M3RTR2FyVEJHdnFyRFVBcmxTdXNtb0c0V0plMHNFalJ5TWpVR3lJRW9SdXpvYVJMcDU5Yk9nTnZfelNqT2VB?oc=5",
-      "source": "Fox News",
-      "published": "Sat, 18 Jul 2026 04:01:53 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vNHhiX2VzckZHeHc1N0F1M3RTR2FyVEJHdnFyRFVBcmxTdXNtb0c0V0plMHNFalJ5TWpVR3lJRW9SdXpvYVJMcDU5Yk9nTnZfelNqT2VB?oc=5\" target=\"_blank\">The nation is facing an ‘education depression,’ op-ed says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>"
+      "title": "New math rules included in education bill signed by Ohio Gov. Mike DeWine - FOX 8 News",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTkV0UGlKMm5VdUk3dW9WN2NYSGthYnNoYkdTc1RMNUFFdVZKZ1RDTTNSTWw0OFJfQXhRclVBdkZvWm5qcHNJWXNIWVZnekVJQ1g5Qk1lOEFrU210dFBVcC1EbHV5ZFdUZzFCajVHT1gzVDB5cjdpdFprbXFfYnhId2I0LTF4dmtnY2xtQXR5andJd9IBlwFBVV95cUxNQ0NhTUhBWFZjbVdKMHhYdXlobzBKV0llbUpUT2VmSnl2WmFyQU1abDdsVUc1OU5LMEZUTHpNSXZKbkdYS3FwempENDd3U2ZqeXlXSVRRTTJjdm9qR01Fbnk1THNiOG1vUDVQSXRncU13MjQ4UXptMGFLaURQZ1VtYURnRjdwSlB1YVNHTDhGeTZYMTZDT2E0?oc=5",
+      "source": "FOX 8 News",
+      "published": "Sat, 18 Jul 2026 13:30:30 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPTkV0UGlKMm5VdUk3dW9WN2NYSGthYnNoYkdTc1RMNUFFdVZKZ1RDTTNSTWw0OFJfQXhRclVBdkZvWm5qcHNJWXNIWVZnekVJQ1g5Qk1lOEFrU210dFBVcC1EbHV5ZFdUZzFCajVHT1gzVDB5cjdpdFprbXFfYnhId2I0LTF4dmtnY2xtQXR5andJd9IBlwFBVV95cUxNQ0NhTUhBWFZjbVdKMHhYdXlobzBKV0llbUpUT2VmSnl2WmFyQU1abDdsVUc1OU5LMEZUTHpNSXZKbkdYS3FwempENDd3U2ZqeXlXSVRRTTJjdm9qR01Fbnk1THNiOG1vUDVQSXRncU13MjQ4UXptMGFLaURQZ1VtYURnRjdwSlB1YVNHTDhGeTZYMTZDT2E0?oc=5\" target=\"_blank\">New math rules included in education bill signed by Ohio Gov. Mike DeWine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 8 News</font>"
     },
     {
-      "title": "House education panel blesses Trump’s Education Department breakup - Politico",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaUlySHJCVUd4X2N5R01WZWhSTkhoSS1MMmU0TEpQYl9hT2ZQTjVWYmlCd09QbDg3TUdibnlmYnJLRWp0dW94bVVCYTc5WS1KZUM0TUZlMUtlMkl5S1h5SVM3dXcxYUhDTHl2ZzBZSjJaVHBxQUFuVXE0ZS16b1FQWEVIdlNTV0VfMGdycWRsM0NWRU91MEVaR040VlRvZTBSeUJkaVhFMTJZaXR4Vmp4WGgtbmplZFVUeU1IWFRsTGZnbENabnhLXzhvTlNTSE1QVGFJ?oc=5",
-      "source": "Politico",
-      "published": "Thu, 16 Jul 2026 01:03:13 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaUlySHJCVUd4X2N5R01WZWhSTkhoSS1MMmU0TEpQYl9hT2ZQTjVWYmlCd09QbDg3TUdibnlmYnJLRWp0dW94bVVCYTc5WS1KZUM0TUZlMUtlMkl5S1h5SVM3dXcxYUhDTHl2ZzBZSjJaVHBxQUFuVXE0ZS16b1FQWEVIdlNTV0VfMGdycWRsM0NWRU91MEVaR040VlRvZTBSeUJkaVhFMTJZaXR4Vmp4WGgtbmplZFVUeU1IWFRsTGZnbENabnhLXzhvTlNTSE1QVGFJ?oc=5\" target=\"_blank\">House education panel blesses Trump’s Education Department breakup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Politico</font>"
+      "title": "Buffalo Teachers Federation calls on Board of Education to not fill vacancy amid public trust crisis; Hawkins won't step down - WGRZ",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPblFtTWFZVVJ5cllIRDJPRUpXeU9zRFRWY0VQODlBV0pvYi1GdG5HeHhmTFZSTnNFR1YyXzZxaXdVSmVXXzZoWDRmLXBkeFh5dWlEU0lvMndjeDd0VWtncWZzOHNqNmhKTE5QMDR3dDRDLXhaWWlUS2k5aFdsM1FrbV9XbThlZS1YMDZmTFlZeFNpa21BcllZZ2YxMHhLX2k4VURLTTc4TmZnUk1PN0lMalJsYXNjMkxOWHMtdUF0d0pWaGNSQ3JlWXJxU3dIeldGdU1uQzVObGdzc2J3WTNyV3hvTjJaaWVKSXZJQ09CSFFDaS11WEZkTjYtNlBOQWRTYnpXLUdnblhHdTA?oc=5",
+      "source": "WGRZ",
+      "published": "Sat, 18 Jul 2026 00:39:00 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxPblFtTWFZVVJ5cllIRDJPRUpXeU9zRFRWY0VQODlBV0pvYi1GdG5HeHhmTFZSTnNFR1YyXzZxaXdVSmVXXzZoWDRmLXBkeFh5dWlEU0lvMndjeDd0VWtncWZzOHNqNmhKTE5QMDR3dDRDLXhaWWlUS2k5aFdsM1FrbV9XbThlZS1YMDZmTFlZeFNpa21BcllZZ2YxMHhLX2k4VURLTTc4TmZnUk1PN0lMalJsYXNjMkxOWHMtdUF0d0pWaGNSQ3JlWXJxU3dIeldGdU1uQzVObGdzc2J3WTNyV3hvTjJaaWVKSXZJQ09CSFFDaS11WEZkTjYtNlBOQWRTYnpXLUdnblhHdTA?oc=5\" target=\"_blank\">Buffalo Teachers Federation calls on Board of Education to not fill vacancy amid public trust crisis; Hawkins won't step down</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WGRZ</font>"
     },
     {
       "title": "Vermont’s new education law pays districts to merge. It doesn’t make them save. - VTDigger",
@@ -651,6 +651,20 @@
       "source": "WHYY",
       "published": "Sun, 19 Jul 2026 09:32:56 GMT",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNXzdteHRmYnJYaUQwdTdWTnNta0hBYk5MRXpVYi1MOExzS0VNOWRCcHhuek1LTFFabWM2dEtlYm1GbWZ6emw0WjE2dHJFYzR5NnBMZ1ZDb05wYnVwMXJ3c1VHYVlCRVMwSVhKRE5aUW5Qb0JPMzcwc3ROSmlnTW9TWC1LeUlFdw?oc=5\" target=\"_blank\">3 Philadelphia-area medical schools agree to add nutrition education in response to RFK Jr.’s push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WHYY</font>"
+    },
+    {
+      "title": "Arizona STEM education grants: SRP opens registration for free teacher workshops - FOX 10 Phoenix",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTkEzQll0aV9TU1JEOGtmM1Q4cFlaYnFBZjhSbURvdVB4NE5pOXFweElKdEZ3SjBOMnBiaG1mMlRwTDVRUHk1VDZJMm5oUmlpMmltbWNIMnVhNFBNZVJ2U1ZhX2JMaXA5LUp4Q1hBaUFCazJrUlRpVXNMOVNiTzFXcy1SZGxHRmRyTFZTcFJaOEh3M3o1blVGTkMtcEtwWXR5VWxHUFRaX01taW9vZmc?oc=5",
+      "source": "FOX 10 Phoenix",
+      "published": "Sun, 19 Jul 2026 22:01:38 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNTkEzQll0aV9TU1JEOGtmM1Q4cFlaYnFBZjhSbURvdVB4NE5pOXFweElKdEZ3SjBOMnBiaG1mMlRwTDVRUHk1VDZJMm5oUmlpMmltbWNIMnVhNFBNZVJ2U1ZhX2JMaXA5LUp4Q1hBaUFCazJrUlRpVXNMOVNiTzFXcy1SZGxHRmRyTFZTcFJaOEh3M3o1blVGTkMtcEtwWXR5VWxHUFRaX01taW9vZmc?oc=5\" target=\"_blank\">Arizona STEM education grants: SRP opens registration for free teacher workshops</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 10 Phoenix</font>"
+    },
+    {
+      "title": "Chamber Fayetteville’s Washington County Education Expo returns August 7 - KNWA FOX24",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWmN3MXpzbDFYR3NPNV92ZDVEWl90cE9GUDh1RGVJc2QxbnRubkczNWZRb1c2a2EwLW90UEQxVkhZSjk1ZzA3TmZjZGtqckUzSzE0TFpJYUNTVGwtdTZQTnVfaXBjeTlMR3lhcHBwYXhOdFdoTUVIbnlpWFNIeXFKSHJQQTBwUzhnS1R5TVVrMThScGZCS3hiRV83UTlmWTBxSVhDRzV4anBHTGJZZmwxUFZEQ2kwZ3o2ZzdqZ3dIc1NfQdIBxwFBVV95cUxNQ0tDR1RfOTVtUnhEWEpMZy1xMmtnX2NsbWlkOGg3WkJxZjZXSXM0bWFUYm5nRnRLS3JoS1VmRkdSajB3U1JtbjJxREthX2pBS1RyNHJyMjFUMkNDZU5Cd2NhSHFsdDVDQnoyT0lVeWlyQW5QRmR0ZGhMWGZJR296eDFRbjcyNkdkNzZNYnBtelRzcDNSYTJEemJrVVZNMUxnekpnMWRETjJuTmw5U1F4UEJVRDFYZzA5QzdPdlU5ZWt6RWRyN2pn?oc=5",
+      "source": "KNWA FOX24",
+      "published": "Sun, 19 Jul 2026 20:50:10 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWmN3MXpzbDFYR3NPNV92ZDVEWl90cE9GUDh1RGVJc2QxbnRubkczNWZRb1c2a2EwLW90UEQxVkhZSjk1ZzA3TmZjZGtqckUzSzE0TFpJYUNTVGwtdTZQTnVfaXBjeTlMR3lhcHBwYXhOdFdoTUVIbnlpWFNIeXFKSHJQQTBwUzhnS1R5TVVrMThScGZCS3hiRV83UTlmWTBxSVhDRzV4anBHTGJZZmwxUFZEQ2kwZ3o2ZzdqZ3dIc1NfQdIBxwFBVV95cUxNQ0tDR1RfOTVtUnhEWEpMZy1xMmtnX2NsbWlkOGg3WkJxZjZXSXM0bWFUYm5nRnRLS3JoS1VmRkdSajB3U1JtbjJxREthX2pBS1RyNHJyMjFUMkNDZU5Cd2NhSHFsdDVDQnoyT0lVeWlyQW5QRmR0ZGhMWGZJR296eDFRbjcyNkdkNzZNYnBtelRzcDNSYTJEemJrVVZNMUxnekpnMWRETjJuTmw5U1F4UEJVRDFYZzA5QzdPdlU5ZWt6RWRyN2pn?oc=5\" target=\"_blank\">Chamber Fayetteville’s Washington County Education Expo returns August 7</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KNWA FOX24</font>"
     },
     {
       "title": "Runner-up for FGCU president's post in 2023 eyed for Florida Education commissioner - WGCU",
@@ -688,25 +702,11 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQTRMNTNrcVRtSnNTZWR5cEpTUVUzZ2VrRzdBREV4QjIwN0VkU1Q3Q2hRT1Q2NmxRSktKeURXS1pyWDlQeGtISS0zQVVJVU1pUWl3SVpkS3E5ZWlnak1NSS1PNE5zUHNIeGxlTkdtVmVuVUY4MzhlSmdGMFpyMU5hZEdNLUhEWmtVNVZr?oc=5\" target=\"_blank\">Georgia Lottery profits for education top $1.54 billion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Augusta Press</font>"
     },
     {
-      "title": "Jewish education is essential to healing Israel's divisions - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwaF9TS01pN29wa2ZNYnRRNTlUMjRNZGRvWVJmUzFKUVpSQmwwRWJGRWhCSlk2REtLbVd4eTZucjVXMkM1ZDBKOEQyTll3SlI4dFBNYmtGZw?oc=5",
-      "source": "The Jerusalem Post",
-      "published": "Sun, 19 Jul 2026 13:00:00 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwaF9TS01pN29wa2ZNYnRRNTlUMjRNZGRvWVJmUzFKUVpSQmwwRWJGRWhCSlk2REtLbVd4eTZucjVXMkM1ZDBKOEQyTll3SlI4dFBNYmtGZw?oc=5\" target=\"_blank\">Jewish education is essential to healing Israel's divisions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Jerusalem Post</font>"
-    },
-    {
-      "title": "10 firms share qualifications for special ed study - Westport Journal",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRjhvaFZ6TXdCN2ZPUTFEdGZmNjdLYUtfWk9YVnpNVGE3RjZPNzc3S0N5dkVOZno5Z3hQYXhzZUhPRU5xTEFqWDNVcnJQWFdCcDdIcm9SWDAzN1drMUxVSHR6MmVOWkZfR3pyVktqOGNjM2s1SS01VTc4QXlIemNrS2d0elVzVUdrMnEtUWFwSEJHejA?oc=5",
-      "source": "Westport Journal",
-      "published": "Sun, 19 Jul 2026 21:36:36 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNRjhvaFZ6TXdCN2ZPUTFEdGZmNjdLYUtfWk9YVnpNVGE3RjZPNzc3S0N5dkVOZno5Z3hQYXhzZUhPRU5xTEFqWDNVcnJQWFdCcDdIcm9SWDAzN1drMUxVSHR6MmVOWkZfR3pyVktqOGNjM2s1SS01VTc4QXlIemNrS2d0elVzVUdrMnEtUWFwSEJHejA?oc=5\" target=\"_blank\">10 firms share qualifications for special ed study</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Westport Journal</font>"
-    },
-    {
-      "title": "Florida Lottery Marks National Lottery Week, Citing $51 Billion Raised for Education Since 1988 - NorthEscambia.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOTZVUjBuYUFxa3VkMVNVN3RpYXZRNTBCTm90ZUNXclVVcjEyRHAxN2lSYWllTnQ5SGVMYURNNW1PeGxldW02aFh4OEktM094eEtOWU1qbElkQlI4T0tfOUxzYWFqZlp5bzRNT1haQnQwdXQxT2o5Q3RLQldnQ3k1QnVUMXZZOFdUY09mWHYxZW1DYVBINzY1cFl1U1lTNTFWY0NQb1FEbHcyZkdZUHR3RS1QSmxFS1FnVHMybTluM2phclFzdVVReWlB?oc=5",
-      "source": "NorthEscambia.com",
-      "published": "Sun, 19 Jul 2026 09:50:05 GMT",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNOTZVUjBuYUFxa3VkMVNVN3RpYXZRNTBCTm90ZUNXclVVcjEyRHAxN2lSYWllTnQ5SGVMYURNNW1PeGxldW02aFh4OEktM094eEtOWU1qbElkQlI4T0tfOUxzYWFqZlp5bzRNT1haQnQwdXQxT2o5Q3RLQldnQ3k1QnVUMXZZOFdUY09mWHYxZW1DYVBINzY1cFl1U1lTNTFWY0NQb1FEbHcyZkdZUHR3RS1QSmxFS1FnVHMybTluM2phclFzdVVReWlB?oc=5\" target=\"_blank\">Florida Lottery Marks National Lottery Week, Citing $51 Billion Raised for Education Since 1988</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NorthEscambia.com</font>"
+      "title": "Elected officials, legislators, educators, and students celebrate historic investments in education secured in 2026-27 state budget - The Philadelphia Sunday Sun",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaFlmc1VxeFZsWmpGZFhoc19rTEprbHFzM0NzeWN3TXdoYmlZVmJkamFBYTVTNkxHa09qdmFOY0pnZGd2aEM5b2k0MzV6NDM2Rk9zRkZveXN1NE9HU3V4b2N2NHhVZ1lJQUlHcWJhRndNcGQ3OGw5OFdDQ3ZFNkkzMTBiNlBaU2k3aHc4RXllSTlCWHI2cC11dWp3SzE3dEtleFlHSkZpTEkway1WSGRuc3JmdnkxYWJTa1RnSEs1al9JcnpUblFWYWdwRFp6aDhfdzBVUV9RaHZjeEFIVnhZeVM3S0pyZnhHdzF4Sg?oc=5",
+      "source": "The Philadelphia Sunday Sun",
+      "published": "Sun, 19 Jul 2026 22:33:48 GMT",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaFlmc1VxeFZsWmpGZFhoc19rTEprbHFzM0NzeWN3TXdoYmlZVmJkamFBYTVTNkxHa09qdmFOY0pnZGd2aEM5b2k0MzV6NDM2Rk9zRkZveXN1NE9HU3V4b2N2NHhVZ1lJQUlHcWJhRndNcGQ3OGw5OFdDQ3ZFNkkzMTBiNlBaU2k3aHc4RXllSTlCWHI2cC11dWp3SzE3dEtleFlHSkZpTEkway1WSGRuc3JmdnkxYWJTa1RnSEs1al9JcnpUblFWYWdwRFp6aDhfdzBVUV9RaHZjeEFIVnhZeVM3S0pyZnhHdzF4Sg?oc=5\" target=\"_blank\">Elected officials, legislators, educators, and students celebrate historic investments in education secured in 2026-27 state budget</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Philadelphia Sunday Sun</font>"
     }
   ]
 }
